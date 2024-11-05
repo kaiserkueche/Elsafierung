@@ -1,0 +1,4 @@
+- Négatif _(ken / nix, niemes)_
+- Possessif *(myner, syni)*
+- Démonstratif *(der, dis)*
+- Indéfini *(e / ebs, iemes)*

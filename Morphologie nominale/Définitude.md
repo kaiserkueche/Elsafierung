@@ -1,0 +1,2 @@
+- Défini *(de, d, s)*
+- Indéfini *(e)*

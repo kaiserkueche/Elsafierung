@@ -1,0 +1,2 @@
+- Informel *(dü)*
+- Formel *(ir,ire)*

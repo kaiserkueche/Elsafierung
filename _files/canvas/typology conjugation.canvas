@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"a9229912840b1407","type":"group","x":-700,"y":200,"width":1500,"height":500,"color":"4","label":"Untitled group"},
+		{"id":"619fa255126ac8da","type":"group","x":-700,"y":-440,"width":1100,"height":620,"color":"5","label":"Untitled group"},
+		{"id":"a5020012e3426a5d","type":"group","x":420,"y":-540,"width":380,"height":720,"color":"3","label":"Untitled group"},
+		{"id":"233d15d6cd348af0","type":"file","file":"Forme de conjugaison/Voix/Passif action.md","x":-680,"y":220,"width":440,"height":420},
+		{"id":"ae25975a21bc9530","type":"file","file":"Forme de conjugaison/Voix/Bénéficiaire.md","x":300,"y":220,"width":480,"height":460},
+		{"id":"c153f3cb3fbebe0c","type":"file","file":"Forme de conjugaison/Voix/Passif état.md","x":-160,"y":220,"width":380,"height":320},
+		{"id":"3b7af94092c2f75a","type":"file","file":"Forme de conjugaison/Temps/Présent « düen ».md","x":-380,"y":-420,"width":360,"height":300},
+		{"id":"e79d6db71bd857be","type":"file","file":"Forme de conjugaison/Temps/Passé.md","x":-680,"y":-100,"width":280,"height":260},
+		{"id":"ccc0d1fc509540c9","type":"file","file":"Forme de conjugaison/Temps/Passé antérieur.md","x":-380,"y":-100,"width":360,"height":220},
+		{"id":"684896796ab3922a","type":"file","file":"Forme de conjugaison/Temps/Présent progressif.md","x":0,"y":-420,"width":380,"height":200},
+		{"id":"0fbfd69e7b6b1c21","type":"file","file":"Forme de conjugaison/Temps/Présent.md","x":-680,"y":-420,"width":280,"height":220},
+		{"id":"90b087541b96fd65","type":"file","file":"Forme de conjugaison/Temps/Passé progressif.md","x":0,"y":-100,"width":380,"height":200},
+		{"id":"4362e7519a8558b2","type":"text","text":"# <font color=\"#e0ac00\">Indicatif</font> & <font color=\"#08b94e\">Actif</font>","x":50,"y":-200,"width":280,"height":60,"color":"5"},
+		{"id":"e6bc0ff6ba300b4e","type":"file","file":"Forme de conjugaison/Mode/Impératif.md","x":440,"y":-120,"width":340,"height":280},
+		{"id":"37757a70dee24a3c","type":"file","file":"Forme de conjugaison/Mode/Subjonctif.md","x":440,"y":-520,"width":340,"height":380}
+	],
+	"edges":[]
+}

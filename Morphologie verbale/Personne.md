@@ -1,0 +1,3 @@
+- 1ʳᵉ (sing / plur)
+- 2ᵉ (sing / plur)
+- 3ᵉ (sing / plur)
