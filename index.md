@@ -14,6 +14,7 @@ Bonne lecture à vous
 # [[B. Prononciation]]
 # [[C. Variétés dialectales]]
 # [[D. Typologie générale]]
+
 \[…à venir]
 
 ---

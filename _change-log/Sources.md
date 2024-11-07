@@ -1,1 +1,0 @@
-[Liste de conjonction](https://wortwuchs.net/grammatik/konjunktion/liste/)
