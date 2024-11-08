@@ -15,7 +15,7 @@ Les isophones qui se trouvent dans la zone de transition entre le bas-alémaniqu
 
 Enfin, les deux isophones dans la zone de transition entre le bas- et le haut-alémanique :
 
-- ⑧ L’isophone \[v – b̥] concerne le son /b̥/ à l’intervocalique. Au nord de la ligne, le /b̥/ s’adoucit en \[v] systématiquement lorsqu’il est entre deux sons voisés, c’est-à-dire les voyelles et ⟨m, n, l, r⟩. Au sud, ce son reste toujours /b̥/, on aura donc ***blyyba, schryyba, ich schryyb, Chälbli*** <sup>(rester, écrire, j’écris, veau)</sup> au sud et ***blyywe, schryywe, ich schryyb, Kälwel/Kälwle*** au nord.
+- ⑧ L’isophone \[v – b̥] concerne le son /b̥/ à l’intervocalique. Au nord de la ligne, le /b̥/ s’adoucit en \[v] systématiquement lorsqu’il est entre deux sons voisés, c’est-à-dire les voyelles et ⟨m, n, l, r⟩. Au sud, ce son reste toujours /b̥/, on aura donc ***blyybä, schryybä, ich schryyb, Chälbli*** <sup>(rester, écrire, j’écris, veau)</sup> au sud et ***blyywe, schryywe, ich schryyb, Kälwel/Kälwle*** au nord.
 - ⑩ L’isophone \[Wìnd – Wìng] concerne ⟨nd⟩ /nd̥/ qui devient ⟨ng⟩ /ŋ/ systématiquement. On dira donc ***Ching, Wing, unger, finge, bling*** <sup>(enfant, vent, sous, trouver, aveugle)</sup> au sud mais ***Kind, Wind, under, finde, blind*** au nord. Notons qu’en Alsace bossue, dans la vallée de la Zorn, le Kochersberg et la vallée de Munster, on trouve également ⟨ng⟩ dans certains mots comme ***inger (under), finge, bling, ferschwinge*** mais pas dans ***Kind, Wind***. ^884a79
 
 (Source : Département de dialectologie de l’Unistra)
@@ -110,11 +110,11 @@ La troisième variante est ⟨**œi**⟩ /œj/ (comme fr. _**œi**l_) en <font c
 
 La quatrième variante est ⟨**oi**⟩ /oj/ représentée en <font color="#d95454">rouge</font> sur la carte. Cette zone s’étend de Colmar à la vallée de Munster, plus quelques ilots entre Guebwiller et Mulhouse. Ici, on aura soit une alternance en ⟨oi – ai⟩ à Colmar, soit en ⟨oi – äi⟩ dans la vallée de Munster.
 
-- ***Froi, Schtoib, loifa, Oig, Boim, gloiwa***
+- ***Froi, Schtoib, loifä, Oig, Boim, gloiwä
 
 La dernière variante est ⟨**åi**⟩ /ɒj/ représentée par des pointillés. Cette zone s’étend de Erstein à Altkirch et on aura comme alternance majoritairement ⟨ài – ai⟩, sans monophtongaison.
 
-- ***Fråi, Schtåib, låifa, Åig, Båim, glåiwa***
+- ***Fråi, Schtåib, låifä, Åig, Båim, glåiwä***
 
 (Source : Beyer,[^1] 1964, p. 26)
 ![[_files/maps/3 Beyer - vrouw.png]]
@@ -129,8 +129,8 @@ En revanche, quand ce /ɡ̊/ vient après ⟨a, aa⟩ (mha. *a*), il existe une 
 - ⟨**ääw**⟩ /aːv/ ou plus archaïsant et très marginal ⟨aau⟩ /aːw/ se dit à Strasbourg, à Haguenau et alentours, dans les Vosges du nord et une partie de l’Alsace bossue (≈ la même zone que ⟨au – ai⟩). Il s’agit de la zone à rayures horizontales __fines__ : ***Wääwe, sääwe, schlääwe***.
 - ⟨**aa(n)**⟩ /ɒː(n)/ en <font color="#d95454">rouge</font> sur la carte se trouve dans un ilot à Schirrhein et dans une partie de l’Alsace bossue pour certains termes : ***Wääwe, saan, schlaan***.
 - ⟨**œj**⟩ /œːj/ ou plus marginalement ⟨œw⟩ /œːv/ est indiqué en <font color="#0d22ff">bleu</font> sur la carte et se trouve environ dans les mêmes zones qu’avec ⟨œi – äi⟩ : une partie de l’Alsace bossue, l’ilot au nord de Haguenau et la zone vallée de la Zorn, Kochersberg, Ackerland et *Brüech* d’Obernai. On aura ***Wœje, sœje, schlœje*** ou ***Wœwe, sœwe, schlœwe***.
-- ⟨**aaj**⟩ /ɒːj/ est également une forme attendue indiquée par des pointillés fins sur la carte et se situe dans une zone entre Erstein et Colmar inclus : ***Waaje, saaje, schlaaje***.
-- ⟨**aag**⟩ /ɒːɡ̊/ est aussi la forme à laquelle on s’attend, matérialisée par des lignes horizontales épaisses. La zone s’étend de l’est de Sélestat et du sud du Colmar au sud du domaine : ***Waage, saage, schlaage***.
+- ⟨**aaj**⟩ /ɒːj/ est également une forme attendue indiquée par des pointillés fins sur la carte et se situe dans une zone entre Erstein et Colmar inclus : ***Waajä, saajä, schlaajä***.
+- ⟨**aag**⟩ /ɒːɡ̊/ est aussi la forme à laquelle on s’attend, matérialisée par des lignes horizontales épaisses. La zone s’étend de l’est de Sélestat et du sud du Colmar au sud du domaine : ***Waagä, saagä, schlaagä.
 
 (Source : Beyer,[^1] 1964, p. 38)
 ![[_files/maps/3 Beyer - wagen.png]]
@@ -144,12 +144,12 @@ Dans les variétés coloriées en <font color="#0d22ff">bleu</font> sur les cart
 - Les signes `┴ ─ ┬` représentent les réalisations \[e̝ː, eː, e̞ː] du phonème /eː/, vous n’avez pas à vous en préoccuper, car il s’agit de sons très proches.
 - Certains parlers (`╥` <font color="85af2e">vert</font> sur la carte) ont /ɛː/ et écriront donc ⟨hääre⟩.
 - Notons qu’il s’agit là de la prononciation de ***heere*** <sup>(entendre)</sup> et que d’autres termes comme ***bees, weh, gehn, Gehre*** <sup>(méchant, mal, aller, giron)</sup> n’auront pas forcément la même voyelle selon les parlers
- - Exemple : le locuteur (183) dit ***hëëre*** \[ɛː] mais ***geh*** \[eː] ; un autre (151) ***heere*** \[e̞ː] mais ***gie*** \[iə̯] ; ou encore (191) ***heere*** \[eː] mais ***gèi*** \[e̞j]).
+ - Exemple : le locuteur (183) dit ***hëëre*** \[ɛː] mais ***geh*** \[eː] ; un autre (151) ***heere*** \[e̞ː] mais ***gie*** \[iə̯] ; ou encore (191) ***heere*** \[eː] mais ***géi*** \[e̞j]).
 
 Pour les autres variétés avec le signe `╨` noir, ces termes se réalisent avec /**ɪː**/ et /**ʊː**/. Il s’agit de la majorité de l’espace alémanique du nord à Colmar inclus.
 
 - Pour ces variétés, certains termes seront réalisés avec /**eː**/ et /**oː**/ comme l’autre groupe : ***Mêr, Êl, zêhle ; vôr, gebôre, wôhl, Dôchter*** <sup>(mer, huile, compter ; devant, né, bien, fille)</sup>.
-- C’est dans ces cas qu’il peut être utile de distinguer /**ɪː, ʊː**/ ⟨ee, oo⟩ de /**eː, oː**/ ⟨ê, ô⟩ : ***root ≠ ìch rôt, meer ≠ Mêr*** <sup>(rouge, je devine ; nous, mer)</sup>.
+- C’est dans ces cas qu’il peut être utile de distinguer /**ɪː, ʊː**/ ⟨ee, oo⟩ de /**eː, oː**/ ⟨ê, ô⟩ : ***root ≠ ich rôt, meer ≠ Mêr*** <sup>(rouge, je devine ; nous, mer)</sup>.
 - Les termes qui se prononcent avec /**eː, oː**/ dans ces parlers sont généralement issus des voyelles courtes en mha. ⟨e, ö, o⟩, tandis que les termes se prononçant /**ɪː, ʊː**/ sont généralement issus des voyelles longues en mha. ⟨ê, œ, ô, â⟩. Ce n’est là qu’une tendance et non une règle absolue, car on trouve de nombreux contrexemples et des divergences selon les parlers.
 
 (Source : Beyer,[^2] 1969, cartes 50, 51)
@@ -195,12 +195,12 @@ Je vous laisse découvrir encore d’autres isophones que je n’ai pas détaill
 
 - ① /**z**aw ≠ **s**aw/ : il s’agit du son \[z] de *zèbre* qui existe avant les voyelles dans une petite zone à l’ouest.
 - ② /**tʰ**ʊʁm ≠ **d̥**ʊʁm/ : maintien de /tʰ/ fortis en début de mot dans certains termes à l’ouest.
-- ⑦ /b̥l**ø**ːj ≠ b̥l**o**ːj/ : phonème /oː/ prononcé \[øː] devant /j/ au nord (***frööje, blööi, böie ≠ frooje/frooge, blooi/blååi, boie***) <sup>(demander, bleu, construire)</sup>.
+- ⑦ /b̥l**ø**ːj ≠ b̥l**o**ːj/ : phonème /oː/ prononcé \[øː] devant /j/ au nord (***frööje, blööi, böie ≠ frooje/frooge, blooi/blååi, boiä) <sup>(demander, bleu, construire)</sup>.
 - ⑧ /ɡ̊eː**n** ≠ ɡ̊eː/ : maintien du /n/ dans certains verbes à l’infinitif au nord (***sin, gehn, gään ≠ sii, geh, gää***). <sup>(être, aller, donner)</sup> (plus de détail à [[Forme verbale#Infinitif|Infinitif]]).
-- ⑩ /vi**n** ≠ viː/ : maintien du /n/ en fin de mot dans certains termes au nord (***ynschloofe, Wyn ≠ yyschloofa, Wyy***) <sup>(s’endormir, vin)</sup>.
+- ⑩ /vi**n** ≠ viː/ : maintien du /n/ en fin de mot dans certains termes au nord (***ynschloofe, Wyn ≠ yyschloofä, Wyy***) <sup>(s’endormir, vin)</sup>.
 - ⑬ /d̥**o**ʁf ≠ d̥**oː**ʁf/ : allongement de la voyelle dans certains termes au sud (***Dorf, Wort, Schtifel ≠ Doorf, Woort, Schtiifel***) <sup>(village, mot, bottes)</sup>.
-- ⑭ /vʊnd̥ ≠ vund̥**ə**/ : maintien d’un schwa final dans certains termes au sud (***Sunn, Wund, Saif ≠ Sunne, Wunde, Saife***) <sup>(soleil, plaie, savon)</sup>.
-- ⑯ /kʰɪ**ʁ**iʃ, kʰɪ**ʁ**əχ ≠ kʰɪ**l**χə, χɪ**l**χə/ : prononciation spéciale du mot *Kirich/Kirech* (église) avec un /l/ au sud : ***Kilche/Chilche***.
+- ⑭ /vʊnd̥ ≠ vund̥**ə**/ : maintien d’un schwa final dans certains termes au sud (***Sunn, Wund, Saif ≠ Sunnä, Wundä, Saifä***) <sup>(soleil, plaie, savon)</sup>.
+- ⑯ /kʰɪ**ʁ**iʃ, kʰɪ**ʁ**əχ ≠ kʰɪ**l**χə, χɪ**l**χə/ : prononciation spéciale du mot *Kirich/Kirech* (église) avec un /l/ au sud : ***Kilchä/Chilchä***.
 
 (Source : Matzen, Raymond et Perret, Roland. (2012) *2000 dictons et proverbes d’Alsace : dictionnaire alsacien-français*. Le Verger.)
 ![[_files/maps/3 Matzen - carte isoglosses.png]]

@@ -47,11 +47,13 @@ Dans la plupart des méthodes destinées à l’apprentissage de l’alsacien, l
 
 Comme mentionné en [[#^02e7bf|section 2.]], l’Alsace se découpe en plusieurs zone dialectales, dont les deux majoritaires sont *l’alémanique* et le *francique.* Ces deux grandes zones peuvent à leur tour être redécoupées en plusieurs zones, et elles sont délimitées par un *isophone*, une ligne imaginaire où d’un côté on prononce d’une manière, et de l’autre côté d’une autre. Par exemple, ce qui distingue le *francique rhénan* du *bas-alémanique* c’est le son \[p] qui devient \[pf] : à l’ouest de la ligne on dira **_Appel, Pund, Pëffer_** <sup>(pomme, une livre, poivre)</sup> et à l’est **_Apfel, Pfund, Pfäffer/Pfëffer_**.[^03] Ces isophones se poursuivent d’ailleurs dans le reste de l’Allemagne et ces dialectes sont également parlés dans les régions limitrophes en pays de Bade, en Palatinat, en Suisse, en Sarre et au Luxembourg pour les dialectes de Moselle.
 
-Département de dialectologie de l’Unistra
+(Source : Département de dialectologie de l’Unistra)
 ![[_files/maps/1 Unistra - carte espace dialectal allemand.png]]
-*Alémanique*. Wikipedia. [URL](https://commons.wikimedia.org/wiki/File:Alemannic-Dialects-Map-French.png)
+
+(Source : _Alémanique._ Wikipedia. [URL](https://commons.wikimedia.org/wiki/File:Alemannic-Dialects-Map-French.png))
 ![[_files/maps/1 wiki - Alemannic FR.jpg]]
-*Rheinischer Fächer* (éventail rhénan). Wikipedia. [URL](https://commons.wikimedia.org/wiki/File:Rheinischer_faecher.png)
+
+(Source : _Rheinischer Fächer_ (éventail rhénan). Wikipedia. [URL](https://commons.wikimedia.org/wiki/File:Rheinischer_faecher.png))
 ![[_files/maps/1 wiki - Rheinischer fächer FR.jpg]] ^19facc
 
 ## 3.3 Frontières entre les principaux groupes dialectaux

@@ -8,7 +8,7 @@ Comme mentionné au chapitre [[A. « Alsacien »]] et expliqué en détail au ch
 
 En plus de la prononciation, un système d’écriture sera également présenté dans cette section. Ce système d’écriture a été réfléchi et fixé par moi-même et des amis, et c’est seulement dans cette catégorie qu’il est suivi à la lettre et utilisé. Il a pour but de faciliter la *lecture* mais n’est pas forcément facile à *écrire*. C’est pourquoi lorsque j’écris informellement, je ne suivrai pas exactement les mêmes règles, et les autres membres non plus.
 
-De manière générale, il n’existe encore aucun standard ou aucune norme concernant l’écriture de l’alsacien qui ait fait consensus.[^1] Pour l’instant, chacun écrit comme il le souhaite, tant qu’il se fait comprendre, ce que je vous encourage également à faire. Si le système d’écriture que je détaille ici ne vous plait pas, sentez vous libre de ne pas l’utiliser et d’écrire comme vous le souhaitez. Le seul conseil que je puisse vous donner pour que vous puissiez vous faire comprendre à l’écrit, c’est de vous baser un minimum sur l’orthographe allemande plutôt que française. Par exemple, écrire le son /v/ avec un ⟨w⟩ plutôt qu’un ⟨v⟩ pour ne pas confondre ***Wätter*** /vatʁ̩/ <sup>(météo)</sup> et ***Vatter/Fatter*** /fɒtʁ̩/ <sup>(père)</sup> ; ou encore utiliser ⟨z, tz⟩ pour le son /ts/ comme dans ***Zyt*** <sup>(temps)</sup>.
+De manière générale, il n’existe encore aucun standard ou aucune norme concernant l’écriture de l’alsacien qui ait fait consensus.[^1] Pour l’instant, chacun écrit comme il le souhaite, tant qu’il se fait comprendre, ce que je vous encourage également à faire. Si le système d’écriture que je détaille ici ne vous plait pas, sentez vous libre de ne pas l’utiliser et d’écrire comme vous le souhaitez. Le seul conseil que je puisse vous donner pour que vous puissiez vous faire comprendre à l’écrit, c’est de vous baser un minimum sur l’orthographe allemande plutôt que française. Par exemple, écrire le son /v/ avec un ⟨w⟩ plutôt qu’un ⟨v⟩ pour ne pas confondre ***Wätter*** /vatʁ̩/^[(météo)] et ***Vatter/Fatter*** /fɒtʁ̩/^[(père)] ; ou encore utiliser ⟨z, tz⟩ pour le son /ts/ comme dans ***Zyt***^[(temps)].
 
 ## İn.1 Terminologie
 
@@ -30,12 +30,12 @@ Les exemples sont de manière générale dans mon parler (bas-alémanique du nor
 
 ## İn.3 Accent tonique
 
-L’alsacien a un système d’accentuation similaire aux autres langues germaniques comme l’allemand ou l’anglais. Globalement, l’accent tonique tombe sur la première syllabe du radical du mot, donc s’il y a un préfixe, l’accent reste au même endroit que sans le préfixe. Voici plusieurs exemples dans lesquels la syllabe accentuée est soulignée : *<u><i>schtehn</i></u>, fer<u><i>schtehn</i></u>, <u><i>Dings</i></u>, Ge<u><i>dings</i></u>, be<u><i>lëi</i></u>dige, ge<u><i>lung</i></u>e* <sup>(être debout, comprendre, choses, trucs, insulter, marrant)</sup>.
+L’alsacien a un système d’accentuation similaire aux autres langues germaniques comme l’allemand ou l’anglais. Globalement, l’accent tonique tombe sur la première syllabe du radical du mot, donc s’il y a un préfixe, l’accent reste au même endroit que sans le préfixe. Voici plusieurs exemples dans lesquels la syllabe accentuée est soulignée : _<u><i>schtehn</i></u>, fer<u><i>schtehn</i></u>, <u><i>Dings</i></u>, Ge<u><i>dings</i></u>, be<u><i>lëi</i></u>dige, ge<u><i>lung</i></u>e_^[(être debout, comprendre, choses, trucs, insulter, marrant)].
 
 - Pour les termes d’origine germanique, les seules voyelles possibles hors accent sont le schwa /ə/ écrit ⟨e⟩ et le /i/ écrit ⟨i⟩, comme illustré ci-dessus.
-- Dans les emprunts, toutes les autres voyelles sont possibles mais seront toujours brèves (= courtes) hors de l’accent : *Fran<u><i>zeesch</i></u>, ka<u><i>paa</i></u>wel, Kata<u><i>schtroof</i></u>* <sup>(français, capable, catastrophe)</sup>.
-- L’accent tonique tombe souvent sur la dernière syllabe ou l’avant-dernière dans les emprunts, spécialement dans les verbes formés avec le suffixe *-iere*, pour lesquels l’accent tombe toujours sur le suffixe : *schwa<u><i>sie</i></u>re, schan<u><i>schie</i></u>re, expli<u><i>zie</i></u>re, desi<u><i>die</i></u>re* <sup>(choisir, changer, expliquer, décider)</sup>.
-- Dans les mots composés qui s’écrivent souvent sans espace, chaque partie garde son intonation d’origine : *Schpr<u><i>oo</i></u>chw<u><i>i</i></u>ssesch<u><i>a</i></u>ft* <sup>(linguistique)</sup> est composé de *Schprooch, wisse* et *-schaft* donc seul le ⟨e⟩ de *wisse* n’est pas accentué, ou encore *Ge<u><i>lää</i></u>je<u><i>hëit</i></u>* <sup>(occasion)</sup> composé de *gelääje* et *-hëit*.
+- Dans les emprunts, toutes les autres voyelles sont possibles mais seront toujours brèves (= courtes) hors de l’accent : *Fran<u><i>zeesch</i></u>, ka<u><i>paa</i></u>wel, Kata<u><i>schtroof</i></u>*^[(français, capable, catastrophe)].
+- L’accent tonique tombe souvent sur la dernière syllabe ou l’avant-dernière dans les emprunts, spécialement dans les verbes formés avec le suffixe *-iere*, pour lesquels l’accent tombe toujours sur le suffixe : _*_schwa<u><i>sie</i></u>re, schan<u><i>schie</i></u>re, expli<u><i>zie</i></u>re, desi<u><i>die</i></u>re_*_^[(choisir, changer, expliquer, décider)].
+- Dans les mots composés qui s’écrivent souvent sans espace, chaque partie garde son intonation d’origine : _*_Schpr<u><i>oo</i></u>chw<u><i>i</i></u>ssesch<u><i>a</i></u>ft_*_^[(linguistique)] est composé de *Schprooch, wisse* et *-schaft* donc seul le ⟨e⟩ de *wisse* n’est pas accentué, ou encore *Ge<u><i>lää</i></u>je<u><i>hëit</i></u>*^[(occasion)] composé de *gelääje* et *-hëit*.
 
 # 1. İnventaire des phonèmes
 
@@ -47,9 +47,9 @@ Les colonnes du tableau des consonnes représentent le _lieu d’articulation_ d
 
 Les lignes représentent différentes _manières_ de réaliser la consonne. Les consonnes nasales sont prononcées en laissant passer de l’air par le nez (ex. ⟨n, m⟩), les occlusives en bloquant complètement le passage de l’air, puis en ouvrant d’un coup (ex. le ⟨p, b, t⟩) et les fricatives en fermant presque la cavité buccale tout en laissant passer un peu d’air, ce qui crée une friction (ex. ⟨s, ch, f⟩).
 
-Concernant les consonnes syllabiques : une syllabe a généralement pour noyau une voyelle (*m<u><i>an</i></u>ge, s<u><i>ou</i></u>-r<u><i>i</i></u>s, j<u><i>a</i></u>r-d<u><i>i</i></u>-n<u><i>a</i></u>ge*), mais parfois, la consonne peut prendre le rôle de noyau de la syllabe et il n’y aura donc aucune voyelle dans celle-ci. En anglais, _litt<u><i>le</i></u>_ se prononce avec un *l* syllabique \[lɪ.tɫ̩] selon les accents ; en allemand, _hab<u><i>en</i></u>_ aussi avec un *m* syllabique \[haː.bm̩] ; _ess<u><i>en</i></u>_ avec un *n* \[ɛ.sn̩] ou _Wand<u><i>el</i></u>_ avec un *l* syllabique \[van.dl̩]. En alsacien on trouvera beaucoup de consonnes syllabiques mais j’ai retenu les trois principales : *l, r* et *m* dans *Maidel* \[maj.dl̩], *Wasser* \[vɒ.sʁ̩] et *gib’m* \[ɡ̊ɪ.b̥m̩]. <sup>(fille, eau, donne-lui)</sup>
+Concernant les consonnes syllabiques : une syllabe a généralement pour noyau une voyelle (*m<u><i>an</i></u>ge, s<u><i>ou</i></u>-r<u><i>i</i></u>s, j<u><i>a</i></u>r-d<u><i>i</i></u>-n<u><i>a</i></u>ge*), mais parfois, la consonne peut prendre le rôle de noyau de la syllabe et il n’y aura donc aucune voyelle dans celle-ci. En anglais, _litt<u><i>le</i></u>_ se prononce avec un *l* syllabique \[lɪ.tɫ̩] selon les accents ; en allemand, _hab<u><i>en</i></u>_ aussi avec un *m* syllabique \[haː.bm̩] ; _ess<u><i>en</i></u>_ avec un *n* \[ɛ.sn̩] ou _Wand<u><i>el</i></u>_ avec un *l* syllabique \[van.dl̩]. En alsacien on trouvera beaucoup de consonnes syllabiques mais j’ai retenu les trois principales : *l, r* et *m* dans *Maidel* \[maj.dl̩\], *Wasser* \[vɒ.sʁ̩\] et *gib’m* \[ɡ̊ɪ.b̥m̩\]^[(fille, eau, donne-lui)].
 
-Les consonnes affriquées sont en quelque sorte l’équivalent des diphtongues pour les consonnes : ce sont deux consonnes prononcées au même endroit dans la bouche. On a par exemple *ts* dans _<u><i>Z</i></u>eit_ \[tsait] en allemand, le _<u><i>ts</i></u>ar_ en français, ou encore _<u><i>tch</i></u>ao_.
+Les consonnes affriquées sont en quelque sorte l’équivalent des diphtongues pour les consonnes : ce sont deux consonnes prononcées au même endroit dans la bouche. On a par exemple *ts* dans _<u><i>Z</i></u>eit_ \[tsait\] en allemand, le _<u><i>ts</i></u>ar_ en français, ou encore _<u><i>tch</i></u>ao_.
 
 |               Consonnes |         |         |         |       |        |       |
 | ----------------------: | :-----: | :-----: | :-----: | :---: | :----: | :---: |
@@ -71,13 +71,14 @@ De haut en bas, c’est le degré d’ouverture de la bouche qui varie : les v
 
 Le tableau de gauche liste les voyelles brèves (ou courtes) tandis que le tableau de droite liste les voyelles longues, qui sont indiquées à l’aide d’une espèce de double point : ⟨ ː ⟩.
 
-|   i   |   y   |   u    |    |   iː   |   yː   |   uː   |
-| :---: | :---: | :---: | ---| :----: | :----: | :----: |
-| **ɪ** | **ʏ** | **ʊ**   |   | **ɪː** | **ʏː** | **ʊː** |
-| **e** | **ø** | **o**  |   | **eː** | **øː** | **oː** |
-| **ɛ** | **œ** |         |  | **ɛː** | **œː** |        |
-| **æ** |       |          |  | **æː** |        |        |
-| **a** | **ə** | **ɒ**   |  | **aː** |        | **ɒː** |
+|       | Court |       |     |        |  Long  |        |
+| :---: | :---: | :---: | --- | :----: | :----: | :----: |
+| **i** | **y** | **u** |     | **iː** | **yː** | **uː** |
+| **ɪ** | **ʏ** | **ʊ** |     | **ɪː** | **ʏː** | **ʊː** |
+| **e** | **ø** | **o** |     | **eː** | **øː** | **oː** |
+| **ɛ** | **œ** |       |     | **ɛː** | **œː** |        |
+| **æ** |       |       |     | **æː** |        |        |
+| **a** | **ə** | **ɒ** |     | **aː** |        | **ɒː** |
 
 ## 1.3 Les diphtongues phonémiques
 
@@ -95,74 +96,60 @@ J’ai donc retenu 25 consonnes + 5 combinaisons de consonnes (les affriquées s
 
 # 2. Les consonnes
 
-%%
-|   Son   |    Lettre    | Exemples                              |
-| :-----: | :----------: | ------------------------------------- |
-|  **m**  |    **m**     | Mamme, nämme                          |
-|  **n**  |    **n**     | numme, kenne                          |
-|  **ŋ**  |    **ng**    | Ding, aanfange                        |
-| **ŋɡ̊** |    **nk**    | links, dänke                          |
-| **b̥**  |   **b, p**   | Babyyr, Schlappe                      |
-| **pʰ**  |  **bh, p**   | packe, bhalte • Pund #K               |
-| **d̥**  |   **d, t**   | Disch, Wält, Daatum                   |
-| **tʰ**  |  **dh, t**   | Tee, dhëëm                            |
-| **ɡ̊**  | **g, k, ck** | Gass, klëën, gücke, hucke             |
-| **kʰ**  |  **gh, k**   | Kass, keie, ghet, ghulfe              |
-|  **f**  |    **f**     | finde, Fœjel, Klafier, Lefyte         |
-|  **ʋ**  |   **w, v**   | awer, Mêwel, Video, Velo              |
-|  **s**  |    **s**     | Sunn, groos, ässe                     |
-|  **ʃ**  | **sch, ch**  | schaffe, ich, Büch                    |
-|  **ç**  |    **ch**    | ich, Büch                             |
-|  **χ**  |    **ch**    | koche, aacht • ich #AS • Ching #S     |
-|  **ʁ**  |    **r**     | richti, Dräck                         |
-|  **h**  |    **h**     | Haas, han                             |
-|  **l**  |    **l**     | lüeje, Liecht                         |
-|  **j**  |    **j**     | Jääjer, frööje                        |
-| **ʁ̩**  |  **er, ’r**  | Wasser, hyt het’r s d’r gään          |
-| **l̩**  |    **el**    | Maidel, Kälwel                        |
-| **m̩**  |  **em, ’m**  | Schilikemer, gib’m s Gäld, uf’m Disch |
-| **b̥f** |    **pf**    | Pfäffer, Apfel                        |
-| **d̥s** |  **z, tz**   | Zyt, Katz                             |
-| **d̥ʃ** |   **tsch**   | dytsch                                |
-| **ɡ̊s** |  **x, gs**   | nix, segs                             |
-| **ɡ̊ʃ** |   **gsch**   | heegscht                              |
-| **ɡ̊ʋ** |    **qu**    | Quäll                                 |
-| **ʃb̥** |   **schp**   | Schport, Wäschpel                     |
-| **ʃd̥** |   **scht**   | Schtëën, Lischt                       |
-%%
+**Les consonnes nasales**
+
+| Lettre |   Son   | Exemples       |
+| :----: | :-----: | -------------- |
+| **m**  |  **m**  | Mamme, nämme   |
+| **n**  |  **n**  | numme, kenne   |
+| **ng** |  **ŋ**  | Ding, aanfange |
+| **nk** | **ŋɡ̊** | links, dänke   |
+
+**Les consonnes occlusives**
+
+|    Lettre    |  Son   | Exemples                  |
+| :----------: | :----: | ------------------------- |
+|   **b, p**   | **b̥** | Babyyr, Schlappe          |
+|  **bh, p**   | **pʰ** | packe, bhalte • Pund #K   |
+|   **d, t**   | **d̥** | Disch, Wält, Daatum       |
+|  **dh, t**   | **tʰ** | Tee, dhëëm                |
+| **g, k, ck** | **ɡ̊** | Gass, klëën, gücke, hucke |
+|  **gh, k**   | **kʰ** | Kass, keie, ghet, ghulfe  |
+
+**Les consonnes fricatives**
 
 |         Lettre         |                Son                 | Exemples                                      |
 | :--------------------: | :--------------------------------: | --------------------------------------------- |
-|         **m**          |               **m**                | Mamme, nämme                                  |
-|         **n**          |               **n**                | numme, kenne                                  |
-|         **ng**         |               **ŋ**                | Ding, aanfange                                |
-|         **nk**         |              **ŋɡ̊**               | links, dänke                                  |
-|        **b, p**        |               **b̥**               | Babyyr, Schlappe                              |
-|       **bh, p**        |               **pʰ**               | packe, bhalte • Pund #K                       |
-|        **d, t**        |               **d̥**               | Disch, Wält, Daatum                           |
-|       **dh, t**        |               **tʰ**               | Tee, dhëëm                                    |
-|      **g, k, ck**      |               **ɡ̊**               | Gass, klëën, gücke, hucke                     |
-|       **gh, k**        |               **kʰ**               | Kass, keie, ghet, ghulfe                      |
 |         **f**          |               **f**                | finde, Fœjel, Klafier, Lefyte                 |
 |        **w, v**        |               **ʋ**                | awer, Mêwel, Video, Velo                      |
 |         **s**          |               **s**                | Sunn, groos, ässe                             |
 |        **sch**         |               **ʃ**                | schaffe, schunsch                             |
-| **ch [[#^1739a1\|*]]** | **ç~ʃ – χ**<br>#BAN •<br>**χ** #AS | ich, Büch – koche, aacht • ich #AS • Ching #S |
+| **ch [[#^1739a1\|*]]** | **ç~ʃ – χ**<br>#BAN •<br>**χ** #AS | ich, Büch – koche, aacht • ich #AS • Ching #S |
 |         **r**          |               **ʁ**                | richti, Dräck                                 |
 |         **h**          |               **h**                | Haas, han                                     |
 |         **l**          |               **l**                | lüeje, Liecht                                 |
 |         **j**          |               **j**                | Jääjer, frööje                                |
-|       **er, ’r**       |               **ʁ̩**               | Wasser, hyt het’r s d’r gään                  |
-|         **el**         |               **l̩**               | Maidel, Kälwel                                |
-|       **em, ’m**       |               **m̩**               | Schilikemer, gib’m s Gäld, uf’m Disch         |
-|         **pf**         |              **b̥f**               | Pfäffer, Apfel                                |
-|       **z, tz**        |              **d̥s**               | Zyt, Katz                                     |
-|        **tsch**        |              **d̥ʃ**               | dytsch                                        |
-|       **x, gs**        |              **ɡ̊s**               | nix, segs                                     |
-|        **gsch**        |              **ɡ̊ʃ**               | heegscht                                      |
-|         **qu**         |              **ɡ̊ʋ**               | Quäll                                         |
-|        **schp**        |              **ʃb̥**               | Schport, Wäschpel                             |
-|        **scht**        |              **ʃd̥**               | Schtëën, Lischt                               |
+
+**Les consonnes syllabiques**
+
+|   Lettre   |  Son   | Exemples                              |
+| :--------: | :----: | ------------------------------------- |
+| **er, ’r** | **ʁ̩** | Wasser, hyt het’r s d’r gään          |
+|   **el**   | **l̩** | Maidel, Kälwel                        |
+| **em, ’m** | **m̩** | Schilikemer, gib’m s Gäld, uf’m Disch |
+
+**Les affriquées et composés courants**
+
+|  Lettre   |   Son   | Exemples          |
+| :-------: | :-----: | ----------------- |
+|  **pf**   | **b̥f** | Pfäffer, Apfel    |
+| **z, tz** | **d̥s** | Zyt, Katz         |
+| **tsch**  | **d̥ʃ** | dytsch            |
+| **x, gs** | **ɡ̊s** | nix, segs         |
+| **gsch**  | **ɡ̊ʃ** | heegscht          |
+|  **qu**   | **ɡ̊ʋ** | Quäll             |
+| **schp**  | **ʃb̥** | Schport, Wäschpel |
+| **scht**  | **ʃd̥** | Schtëën, Lischt   |
 
 - Consonnes nasales ⟨m, n, ng, nk⟩ ![[_files/voice/01 consonnes nasales.mp3]]
 - Consonnes occlusives ⟨b, p, d, t, g, k⟩ ![[_files/voice/02 consonnes occlusives.mp3]]
@@ -177,28 +164,28 @@ J’ai donc retenu 25 consonnes + 5 combinaisons de consonnes (les affriquées s
 - **⟨w⟩** équivaut à **⟨v⟩** dans _**v**enir,_ jamais à /w/ comme _**w**orld_ en anglais.
 	- **⟨v⟩** sera utilisé pour ce même son **/v~ʋ/** dans les emprunts comme ***Variazioon, Velo***. Voir la [[#5.2 Les emprunts|section 5.2]].
 - **⟨sch⟩** équivaut à **⟨ch⟩** dans _**ch**oisir_.
-	- **⟨sh⟩** n’équivaut __pas__ à **⟨ch⟩** (_sh_ anglais) mais se prononce /s.h/ *s+h* séparé : ***Ryshoffe*** /ʁis.hofə/ <sup>(Reichshoffen)</sup>
+	- **⟨sh⟩** n’équivaut __pas__ à **⟨ch⟩** (_sh_ anglais) mais se prononce /s.h/ *s+h* séparé : ***Ryshoffe*** /ʁis.hofə/^[(Reichshoffen)]
 - **⟨tsch⟩** équivaut à **⟨tch⟩** dans _**tch**ao_.
 - **⟨r⟩** se prononce comme en français dans la gorge : /ʁ/. Certaines personnes âgées le prononce encore en roulant avec la langue /r/ comme c’était le cas historiquement, mais c’est une extrême minoritée.
 - **⟨pf⟩** se prononce bien \[pf] comme dans *Schtroumpf* ce qui peut être difficile pour certains francophones pas habitués.
 - **⟨qu⟩** se prononce selon les locteurs tantôt \[ɡ̊ʋ] donc proche de **\[kv]** en français dans _musi**que v**ide_, tantôt \[ɡ̊w] proche de **\[kw]** dans _**qu**ad_.
-- **⟨z, tz⟩** équivaut à **⟨ts⟩** dans _**ts**ar_, jamais au ⟨z⟩ de *zèbre*. Le ⟨tz⟩ s’utilise après une voyelle, le ⟨z⟩ dans les autres cas : ***sitze, üütze ≠ schwarz, Zyt***. <sup>(être assis, taquiner, noir, temps)</sup>
-- **⟨k, ck⟩** de même que ⟨z, tz⟩, ⟨ck⟩ s’utilise après une voyelle courte et ⟨k⟩ dans les autres cas : ***hucke ≠ Hooke***. <sup>(s’accroupir, crochet)</sup>
+- **⟨z, tz⟩** équivaut à **⟨ts⟩** dans _**ts**ar_, jamais au ⟨z⟩ de *zèbre*. Le ⟨tz⟩ s’utilise après une voyelle, le ⟨z⟩ dans les autres cas : ***sitze, üütze ≠ schwarz, Zyt***^[(être assis, taquiner, noir, temps)].
+- **⟨k, ck⟩** de même que ⟨z, tz⟩, ⟨ck⟩ s’utilise après une voyelle courte et ⟨k⟩ dans les autres cas : ***hucke ≠ Hooke***^[(s’accroupir, crochet)].
 - Les sons **/pʰ, tʰ, kʰ/** équivalent grosso modo aux **⟨p, t, k⟩** français avec un peu plus d’aspiration (une expiration comme *h* après la consonne).
 
 ## 2.2 Remarques pour certaines consonnes
 
-**⟨x⟩ et ⟨gs⟩** sont en répartition libre : je privilégie ⟨gs⟩ lorsqu’il alterne avec ⟨ch⟩ comme dans **_segs_** <sup>(6)</sup> → **_säächzich_** <sup>(60)</sup>. Idem pour ⟨gsch⟩ dans **_hooch_** <sup>(haut) </sup> → **_heegscht_** <sup>(le plus haut)</sup>. Vous trouverez aussi souvent ⟨chsch⟩ pour \[ɡ̊ʃ] chez des scripteurs mais j’évite car on peut confondre avec \[χʃ] : ***machsch ≠ näächscht*** \[χʃ ≠ ɡ̊ʃ].
+**⟨x⟩ et ⟨gs⟩** sont en répartition libre : je privilégie ⟨gs⟩ lorsqu’il alterne avec ⟨ch⟩ comme dans **_segs → säächzich_**^[(6, 60)]. Idem pour ⟨gsch⟩ dans **_hooch → heegscht_**^[(haut, le plus haut)]. Vous trouverez aussi souvent ⟨chsch⟩ pour \[ɡ̊ʃ] chez des scripteurs mais j’évite car on peut confondre avec \[χʃ] : ***machsch ≠ näächscht*** \[χʃ ≠ ɡ̊ʃ]^[tu fais, suivant].
 
-**⟨s⟩** est toujours prononcé sourd **\[s]** comme dans *ca**ss**er, **s**ilence* ; il n’est jamais prononcé voisé \[z] comme dans *ca**s**er, **z**èbre*. Les sons \[z] et \[ʒ] (⟨j⟩ de *jamais*) n’existent pas en alsacien et sont remplacés par ⟨s⟩ et ⟨sch⟩ dans les emprunts : ***schèniere*** <sup>(gêner)</sup>.
+**⟨s⟩** est toujours prononcé sourd **\[s]** comme dans *ca**ss**er, **s**ilence* ; il n’est jamais prononcé voisé \[z] comme dans *ca**s**er, **z**èbre*. Les sons \[z] et \[ʒ] (⟨j⟩ de *jamais*) n’existent pas en alsacien et sont remplacés par ⟨s⟩ et ⟨sch⟩ dans les emprunts : ***schèniere***^[(gêner)].
 
 **⟨ng⟩ et ⟨nk⟩** sont proches du ⟨ng⟩ dans _parking._ Le ⟨ng⟩ se prononce sans entendre le son \[ɡ] après, tandis que le ⟨nk⟩ se prononce avec. Voir l’enregistrement.
 
 **⟨f, v, w⟩** : En allemand standard, **⟨v⟩** se prononce **/f/** dans les mots d’origine germanique (_Vogel, verstehen_) mais **/v/** dans les emprunts (_Variation_). Nous avons choisi de simplifier le système en écrivant toujours **⟨f⟩** pour le son **/f/**, et toujours **⟨w⟩** pour le son **/v/** (et ⟨v⟩ dans les emprunts).
 
-- Cela permet à un public francophone de ne pas être perturbé par le ⟨v⟩ qui se lirait /f/ (écrire ***Föjel, ferschtehn, aktyf, Klafier*** plutôt que ***Vöjel, verschtehn, aktyv, Klavier***) ;
-- mais également à un public germanophone de ne pas être perturbé par le son /v/ écrit ⟨v⟩ partout (écrire ***Wind, Wolf, welle*** plutôt que ***Vind, Volf, velle***)
-- Ce choix graphique peut, certes, bousculer les habitudes des germanophones, mais il permet, en outre, d’établir des liens avec des termes anglais dans de nombreux cas : ***Folik, foorwärts, Föjel*** (folk, forward, fowl).
+- Cela permet à un public francophone de ne pas être perturbé par le ⟨v⟩ qui se lirait /f/ (écrire ***Föjel, ferschtehn, aktyf, Klafier***^[oiseau, comprendre, actif, piano] plutôt que ***Vöjel, verschtehn, aktyv, Klavier***) ;
+- mais également à un public germanophone de ne pas être perturbé par le son /v/ écrit ⟨v⟩ partout (écrire ***Wind, Wolf, welle***^[vent, loup, vouloir] plutôt que ***Vind, Volf, velle***)
+- Ce choix graphique peut, certes, bousculer les habitudes des germanophones, mais il permet, en outre, d’établir des liens avec des termes anglais dans de nombreux cas : ***Folik, foorwärts, Föjel***^[peuple, avancer, oiseau] (folk, forward, fowl).
 
 **⟨schp⟩ et ⟨scht⟩** se prononcent comme on s’y attend : **⟨chp, cht⟩**. Beaucoup de ceux qui écrivent en alsacien suivent la règle de l’allemand en écrivant seulement ⟨sp, st⟩ en début de mot, mais j’ai tranché ici pour une règle systématique pour faciliter la lecture.
 
@@ -208,7 +195,7 @@ J’ai donc retenu 25 consonnes + 5 combinaisons de consonnes (les affriquées s
 
  **/l̩, ʁ̩, m̩/** : Les consonnes syllabiques prennent le rôle de la voyelle dans la syllabe : quand on prononce *Maidel, Wasser* ou *groosem*, on ne prononce pas le ⟨e⟩ comme *maideule, vosseur* ou *grosseum* mais presque comme s’il n’y avait pas de voyelle et qu’on enchainait les deux consonnes : *maid’l, voss’r, grooss’m*. Voir l’enregistrement.
 
-- À noter que le son /el/ proche du français *belle* s’écrira **⟨èl⟩** (ou ⟨ell⟩) pour différencier du syllabique ⟨**el**⟩ : _**offizièl, Mamsèl, Gsellschaft ≠ Schwääw<u><b><i>el</i></b></u>helz<u><b><i>el</i></b></u>**_ <sup>(officiel, mademoiselle, société, allumette)</sup>.
+- À noter que le son /el/ proche du français *belle* s’écrira **⟨èl⟩** (ou ⟨ell⟩) pour différencier du syllabique ⟨**el**⟩ : _**offizièl, Mamsèl, Gsellschaft ≠ Schwääw<u><b><i>el</i></b></u>helz<u><b><i>el</i></b></u>**_^[(officiel, mademoiselle, société, allumette)].
 
 ## 2.3 Le cas des /pʰ, tʰ, kʰ/ et /b̥, d̥, ɡ̊/
 
@@ -216,80 +203,62 @@ Les « occlusives sourdes douces » **/b̥, d̥, ɡ̊/** comme on les appell
 
 Voici les détails d’écriture de ces occlusives :
 
-- ⟨b, d, g⟩ se prononcent toujours **doux** /b̥, d̥, ɡ̊/ : *Babbe, Babyyr, dumm, Wald, gääl, Zugg*. <sup>(papa, papier, idiot, forêt, jaune, train)</sup>
-- ⟨bh, dh, gh⟩ se prononcent toujours **forts** /pʰ, tʰ, kʰ/ : *bhalte, dhëëm, ghet* <sup>(garder, chez soi, [avoir] eu)</sup>. Cette graphie s’utilise car il y a élision d’une voyelle qui existait à l’époque et qu’on retrouve encore dans les termes équivalents allemands : _b<u>e</u>halten, d<u>a</u>heim, g<u>e</u>habt_.
+- ⟨b, d, g⟩ se prononcent toujours **doux** /b̥, d̥, ɡ̊/ : *Babbe, Babyyr, dumm, Wald, gääl, Zugg*^[(papa, papier, idiot, forêt, jaune, train)].
+- ⟨bh, dh, gh⟩ se prononcent toujours **forts** /pʰ, tʰ, kʰ/ : *bhalte, dhëëm, ghet*^[(garder, chez soi, [avoir] eu)]. Cette graphie s’utilise car il y a élision d’une voyelle qui existait à l’époque et qu’on retrouve encore dans les termes équivalents allemands : _b<u>e</u>halten, d<u>a</u>heim, g<u>e</u>habt_.
 - Le cas de ⟨p, t, k⟩ est un peu plus complexe : les sons /pʰ, tʰ, kʰ/ ne peuvent se trouver que sous deux conditions réunies : **1)** au début du radical du mot **2)** si suivi directement par une voyelle. Dans tous les autres cas, on prononce /b̥, d̥, ɡ̊/. Par conséquent :
- 1. ⟨p, t, k⟩ en début de radical suivi par une voyelle se prononce **forts** /pʰ, tʰ, kʰ/ : *packe, Pund, fer<u><i>p</i></u>acke, Tee, Télé, Kass, Korb, nunder<u><i>k</i></u>eie, aan<u><i>k</i></u>umme, Kumbels* (attention aux préfixes). <sup>(porter, une livre, emballer, thé, télé, caisse, panier, tomber, arriver, ami)</sup>
- 2. ⟨p, t, k⟩ en début de radical suivi par une consonne se prononce **doux** /b̥, d̥, ɡ̊/ : _Platz, plööje, in<u><i>p</i></u>rääje, trinke/drinke, fer<u><i>t</i></u>röie, Tritt ≠ dritt, Trääne, klëën, Knopf, Klumpe_. <sup>(place, se tracasser, mémoriser, boire, faire confiance, coup de pied ≠ 3ᵉ, larmes, petit, bouton, morceau)</sup>
- 3. ⟨p, t, k⟩ en milieu ou fin de mot se prononce **doux** /b̥, d̥, ɡ̊/ : _Supp, Seppele, Wält, wytersch, Mantel, Buckel, gücke_. <sup>(soupe, Joseph, monde, plus loin, manteau, dos, regarder)</sup>
+ 1. ⟨p, t, k⟩ en début de radical suivi par une voyelle se prononce **forts** /pʰ, tʰ, kʰ/ : *packe, Pund, fer<u><i>p</i></u>acke, Tee, Télé, Kass, Korb, nunder<u><i>k</i></u>eie, aan<u><i>k</i></u>umme, Kumbels* (attention aux préfixes)^[(porter, une livre, emballer, thé, télé, caisse, panier, tomber, arriver, ami)].
+ 2. ⟨p, t, k⟩ en début de radical suivi par une consonne se prononce **doux** /b̥, d̥, ɡ̊/ : _Platz, plööje, in<u><i>p</i></u>rääje, trinke/drinke, fer<u><i>t</i></u>röie, Tritt ≠ dritt, Trääne, klëën, Knopf, Klumpe_^[(place, se tracasser, mémoriser, boire, faire confiance, coup de pied ≠ 3ᵉ, larmes, petit, bouton, morceau)].
+ 3. ⟨p, t, k⟩ en milieu ou fin de mot se prononce **doux** /b̥, d̥, ɡ̊/ : _Supp, Seppele, Wält, wytersch, Mantel, Buckel, gücke_^[(soupe, Joseph, monde, plus loin, manteau, dos, regarder)].
 
 # 3. Les voyelles
 
-%%
-|       Son       |            Lettre            | Exemples                            |
-| :-------------: | :--------------------------: | ----------------------------------- |
-|     **iː**      |            **yy**            | schnyyde                            |
-|      **i**      |   **y, i** [[#^bf40fd\|*]]   | hyt, fertigi                        |
-|     **ɪː**      | **ee #ee • ie #ie • ii #AS** | scheen #ee • Lied #ie • Schpiil #AS |
-|      **ɪ**      |   **i, é** [[#^bf40fd\|*]]   | Kind, Bareblé                       |
-|     **eː**      |        **ee • ê #ee**        | scheen • Mêr #I                     |
-|      **e**      |   **e, è** [[#^bf40fd\|*]]   | Mensch, Schylè                      |
-|     **ɛː**      |            **ëë**            | dhëëm • sëën                        |
-|      **ɛ**      |            **ë**             | Wëtter                              |
-|  **aː, (æː)**   |            **ää**            | dhääm • sään                        |
-|   **a, (æ)**    |            **ä**             | Wätter                              |
-|     **ɒː**      |            **aa**            | Graas, faare                        |
-|      **ɒ**      |            **a**             | han                                 |
-|     **oː**      |         **oo • (ô)**         | root • brôte #I                     |
-|      **o**      |            **o**             | Kopf                                |
-| ==**ʊː • uː**== |         **uu • oo**          | guut #FR • root #I                  |
-|    **ʊ • u**    |            **u**             | kumme                               |
-|     **yː**      |            **üü**            | schnüüfe                            |
-|      **y**      |            **ü**             | Hüs                                 |
-|  **øː, (ʏː)**   |            **öö**            | frööje #BAN                         |
-|   **ø, (ʏ)**    |            **ö**             | böie #BAN • löwe #K                 |
-|     **œː**      |            **œ**             | sœje #I                             |
-%%
+%% ==FAUT QUE JE SACHE AVEC SEHT SIHT SIEHT== /sɪː/ seh Kbg, sih Str/AS? %%
 
-%%
-==FAUT QUE JE SACHE AVEC
-SEHT SIHT SIEHT==
-/sɪː/ seh Kbg, sih Str/AS?
-%%
+**Les voyelles antérieures non-arrondies**
 
-|      **Lettre**       |               **Son**               | Exemples                                  |
-| :-------------------: | :---------------------------------: | ----------------------------------------- |
+| Lettre | Son | Exemples |
+| :---: | :-----: | ------ |
 |         **y**         |                **i**                | Lyt, er brycht                            |
 |       **yy/yh**       |               **iː**                | schryywe, dyyr, Rappschwyhr               |
-|         **i**         | **ɪ – i [[#^bf40fd\|*]] •<br>i** #U | Kind, er bricht – fertig, intressant      |
-|       **ii/ih**       |      **ɪː** #AS •<br>**iː** #U      | Schtiifel, siht, gsii #AS • miid, Liib #U |
+|         **i**         | **ɪ – i [[#^bf40fd\|*]] •<br>i** #U | Kind, er bricht – fertig, intressant      |
+|       **ii/ih**       |      **ɪː** #AS •<br>**iː** #U      | Schtiifel, siht, gsii #AS • miid, Liib #U |
 |         **e**         |      **e – ə [[#^bf40fd\|*]]**      | Bett, het – bedanke, geloffe, Kranket     |
-|       **ee/eh**       |         **eː •<br>ɪː** #ee          | scheen, gehn                              |
-|         **ê**         |             **eː** #ee              | Mêr, Hêfe, Gewênet                        |
+|       **ee/eh**       |         **eː •<br>ɪː** #ee          | scheen, gehn                              |
+|         **ê**         |             **eː** #ee              | Mêr, Hêfe, Gewênet                        |
 | **é** [[#^bf40fd\|*]] |                **ɪ**                | Bareblé • Maidlé %%zone???%%              |
 | **è** [[#^bf40fd\|*]] |                **e**                | Käbinè, schèniere, kè, offizièl           |
-|         **ë**         |                **ɛ**                | Wëtter, Këller #ä                         |
-|       **ëë/ëh**       |               **ɛː**                | sëhn #ä • elëën #I                        |
+|         **ë**         |                **ɛ**                | Wëtter, Këller #ä                         |
+|       **ëë/ëh**       |               **ɛː**                | sëhn #ä • elëën #I                        |
 |         **ä**         |             **a, (æ)**              | nätt, Wätter                              |
-|       **ää/äh**       |            **aː, (æː)**             | Kääs, Mähl • elään #N #U                  |
-|         **a**         |                **ɒ**                | han, Bank                                 |
-|       **aa/ah**       |               **ɒː**                | Naas, fahre                               |
-|         **o**         |                **o**                | Kopf, Loch                                |
-|       **oo/oh**       |         **oː •<br>ʊː** #ee          | Schtroos, groos                           |
-|         **ô**         |             **oː** #ee              | gebrôcht, rôte, brôte, Krambôl            |
-|         **u**         |          **ʊ •<br>u** #ù-u          | kumme • Sunnä #ù-u                        |
-|       **uu/uh**       |         **ʊː •<br>uː** #ù-u         | guut, Bruuder #FR • Suhn #ù-u             |
+|       **ää/äh**       |            **aː, (æː)**             | Kääs, Mähl • elään #N #U                  |
+
+**Les voyelles antérieures arrondies**
+
+| Lettre | Son | Exemples |
+| :---: | :-----: | ------ |
 |         **ü**         |                **y**                | Hüs, üsmache                              |
 |        **üü**         |               **yː**                | Müür, schnüüfe                            |
-|         **ö**         |             **ø, (ʏ)**              | töffe • löwe #K                           |
+|         **ö**         |             **ø, (ʏ)**              | töffe • löwe #K                           |
 |        **öö**         |            **øː, (ʏː)**             | blöö %%zone???%%                          |
-|         **œ**         |               **œː**                | Dœ, sœ mool #I • Wœwe #K                  |
+|         **œ**         |               **œː**                | Dœ, sœ mool #I • Wœwe #K                  |
 
-- Voyelles de ⟨i, ì, e⟩ ![[_files/voice/06 voyelles i-e.mp3]]
-- Voyelles ⟨ë, a, à⟩ ![[_files/voice/07 voyelles ä-a-à.mp3]]
+**Les voyelles postérieures arrondies**
+
+| Lettre | Son | Exemples |
+| :---: | :-----: | ------ |
+|         **u**         |          **ʊ •<br>u** #ù-u          | kumme • Sunnä #ù-u                        |
+|       **uu/uh**       |         **ʊː •<br>uː** #ù-u         | guut, Bruuder #FR • Suhn #ù-u             |
+|         **o**         |                **o**                | Kopf, Loch                                |
+|       **oo/oh**       |         **oː •<br>ʊː** #ee          | Schtroos, groos                           |
+|         **ô**         |             **oː** #ee              | gebrôcht, rôte, brôte, Krambôl            |
+|         **a**         |                **ɒ**                | han, Bank                                 |
+|       **aa/ah**       |               **ɒː**                | Naas, fahre                               |
+
+
+- Voyelles de ⟨y, i, e⟩ ![[_files/voice/06 voyelles i-e.mp3]]
+- Voyelles ⟨ë, ä, a⟩ ![[_files/voice/07 voyelles ä-a-à.mp3]]
 - Voyelles ⟨o, u⟩ ![[_files/voice/08 voyelles o-u.mp3]]
 - Voyelles ⟨ü, ö, œ⟩ ![[_files/voice/09 voyelles ü-ö-œ.mp3]]
-- Voyelles avec le ⟨r⟩ vocalisé ![[_files/voice/10 voyelles r vocalisé francique.mp3]]
 
 > [!info] Concernant ⟨i, e, é, è⟩ et les sons /i, ɪ, e/.
 > La lettre ⟨i⟩ se prononce /ɪ/ sous l’[[#İn.3 Accent tonique|accent tonique]] mais /i/ dans toute autre position, c’est-à-dire lorsqu’elle est non-accentué. De même, ⟨e⟩ se prononce /e/ sous l’accent, sinon /ə/.
@@ -331,8 +300,8 @@ SEHT SIHT SIEHT==
 
 La longueur vocalique (voyelle brève ≠ longue) est rendue à l’écrit par cette règle simple : (V = voyelle, C = consonne)
 
-1. La voyelle est brève si elle n’est écrite qu’une seule fois : <font color="#7852ee">⟨V⟩</font> comme ***han, sin, nätt, löwe, awer*** <sup>(avoir, être, gentil, regarder, mais)</sup>.
-2. La voyelle est longue si elle est doublée ou suivie d’un *h* : <font color="#7852ee">⟨VV, Vh⟩</font> comme ***Kääs, Müür, Schtroos – sähn, meh, fahre*** <sup>(fromage, mur, route, voir, plus, rouler)</sup>.
+1. La voyelle est brève si elle n’est écrite qu’une seule fois : <font color="#7852ee">⟨V⟩</font> comme ***han, sin, nätt, löwe, awer***^[(avoir, être, gentil, regarder, mais)].
+2. La voyelle est longue si elle est doublée ou suivie d’un *h* : <font color="#7852ee">⟨VV, Vh⟩</font> comme ***Kääs, Müür, Schtroos – sähn, meh, fahre*** ^[(fromage, mur, route, voir, plus, rouler)].
  
 Le choix entre ⟨VV⟩ et ⟨Vh⟩ dépend de l’orthographe du mot équivalent allemand. Cela ne sert qu’à faciliter la lecture pour les habitués de l’allemand.
 
@@ -358,13 +327,13 @@ Juste pour les curieux, les règles relatives à la longueur vocalique en allema
 
 **⟨ee/eh, oo/oh⟩** sont prononcés /eː, oː/ dans une zone comprenant les deux franciques, Strasbourg, puis au sud de Colmar exclu. Dans la zone restante que l’on tag #ee (la zone alémanique, du nord jusqu’a Colmar inclu), celles-ci seront prononcées plus fermées /ɪː, ʊː/. (voir [[C. Variétés dialectales#1.7. Prononciation de ⟨ee⟩ et ⟨oo⟩|C.1.7]]). ^bf9fe7
 
-- Il existe cependant un certain nombre de terme se prononçant avec /eː/ et /oː/ dans la zone #ee. Ceux-ci peuvent être distingués de /ɪː/ et /ʊː/ si besoin en utilisant **⟨ê, ô⟩** au lieu de ⟨ee, oo⟩ : *dü düesch r**ô**te ≠ s r**oo**te Auto* <sup>(tu devine ≠ la voiture rouge)</sup> et _fierz**êh** ≠ fier Z**eh**_. <sup>(14 ≠ 4 orteils)</sup>
+- Il existe cependant un certain nombre de terme se prononçant avec /eː/ et /oː/ dans la zone #ee. Ceux-ci peuvent être distingués de /ɪː/ et /ʊː/ si besoin en utilisant **⟨ê, ô⟩** au lieu de ⟨ee, oo⟩ : *dü düesch r**ô**te ≠ s r**oo**te Auto* ^[(tu devine ≠ la voiture rouge)] et _fierz**êh** ≠ fier Z**eh**_. ^[(14 ≠ 4 orteils)]
 
 **⟨uu, uh⟩ /u, uː/ et /ʊ, ʊː/** sont également des variantes selon les parlers : certains auront \[u, uː], d’autres \[ʊ, ʊː]. Aucune variété à ma connaissance ne distingue /u/ de /ʊ/, il n’est donc pas important de mettre la distinction à l’écrit (contrairement à /ɪː ≠ eː/ ci-dessus). La zone qui prononce \[u, uː] est tagée #ù-u, il s’agit grosso-modo d’une partie de l’Outre-Forêt et d’une zone autour de Mulhouse.
 
 **⟨œ⟩** est toujours prononcé long sauf dans la diphtongue ⟨œi⟩. C’est donc une sorte d’exception à la règle de longueur vocalique fixée plus haut car ⟨œœ⟩ n’est pas très esthétique et la longueur n’a pas besoin d’être distinguée pour ce son. Vous rencontrerez également ⟨eu⟩ pour /œː/ ou /øː/ selon les scripteurs.
 
-**Répartition des phonèmes** : Certains parlers distinguent les mêmes phonèmes mais la répartition peut être différente. Par exemple, à Strasbourg on distingue /ɪː, eː, ɛː/ dans ***Lied, Leeb, Lëëwe*** <sup>(chanson, lion, vie)</sup> mais dans des parlers du Kochersberg, ces mêmes sons /ɪː, eː, ɛː/ se trouveront dans les termes ***Leeb, Mêr, dhëëm*** <sup>(lion, mer, chez soi)</sup> (voir aussi [[#^8c8083|section 4.]]). D’autres parlers ne distinguent que /ɪː, eː/ et n’ont pas /ɛː/ comme à Colmar pour ***Leeb, Nêjel*** <sup>(lion, cloux/ongles)</sup> ou à Niederbronn-les-Bains pour ***Leeb, ich dêt*** <sup>(lion, je *conditionnel*)</sup>. ^b6dc25
+**Répartition des phonèmes** : Certains parlers distinguent les mêmes phonèmes mais la répartition peut être différente. Par exemple, à Strasbourg on distingue /ɪː, eː, ɛː/ dans ***Lied, Leeb, Lëëwe*** ^[(chanson, lion, vie)] mais dans des parlers du Kochersberg, ces mêmes sons /ɪː, eː, ɛː/ se trouveront dans les termes ***Leeb, Mêr, dhëëm*** ^[(lion, mer, chez soi)] (voir aussi [[#^8c8083|section 4.]]). D’autres parlers ne distinguent que /ɪː, eː/ et n’ont pas /ɛː/ comme à Colmar pour ***Leeb, Nêjel*** ^[(lion, cloux/ongles)] ou à Niederbronn-les-Bains pour ***Leeb, ich dêt*** ^[(lion, je *conditionnel*)]. ^b6dc25
 
 # 4. Les diphtongues
 
@@ -374,7 +343,7 @@ Juste pour les curieux, les règles relatives à la longueur vocalique en allema
 |   **ia**   | **ia̯,     (ɪa̯)** | miad, Liacht  |
 |   **üe**   | **yə̯, ʏː, (øə̯)** | güet, Büe     |
 |   **üa**   | **ya̯,     (øa̯)** | güat, Büa(b)  |
-|   **uë**   |      **uə̯**       | guëd, Buë #uë |
+|   **uë**   |      **uə̯**       | guëd, Buë #uë |
 
 **Diphtongues avec glide /j/**
 
@@ -418,18 +387,19 @@ Juste pour les curieux, les règles relatives à la longueur vocalique en allema
 - Diphtongue ⟨éi, ëi, ai⟩ ![[_files/voice/13 diphtongues ei-äi-ai.mp3]]
 - Diphtongue ⟨öi, œi⟩ ![[_files/voice/14 diphtongues öi-œi.mp3]]
 - Diphtongue ⟨oi, åi, au, œu⟩ ![[_files/voice/15 diphtongues oi-ài-au-œu.mp3]]
+- Voyelles avec le ⟨r⟩ vocalisé ![[_files/voice/10 voyelles r vocalisé francique.mp3]]
 
 ## 4.1 Choix entre ⟨-i⟩ et ⟨-j⟩
 
 Le choix entre l’usage de ⟨i⟩ et ⟨j⟩ pour former la diphtongue se fonde sur l’équivalent dans les diverses variétés dialectales et/ou l’allemand standard.
 
-1. **⟨-j⟩** si le terme équivalent en bas-alémanique du sud, haut-alémanique ou allemand contient un ⟨g⟩ : _**geje, Wääj, sœje, frooje, gezöje** car **geega, Wääg, saage, frooge, zooga**_ ou _gegen, Weg, sagen, fragen, gezogen_ <sup>(contre, chemin, dire, demander, tiré)</sup>.
+1. **⟨-j⟩** si le terme équivalent en bas-alémanique du sud, haut-alémanique ou allemand contient un ⟨g⟩ : _**geje, Wääj, sœje, frooje, gezöje** car **geega, Wääg, saage, frooge, zooga**_ ou _gegen, Weg, sagen, fragen, gezogen_ ^[(contre, chemin, dire, demander, tiré)].
 	 - **⟨-j-⟩** si suivi d’un ⟨i⟩ comme ⟨nei, blööi⟩ suivi de la flexion *-i* : ⟨neji, blööji⟩ car ⟨neii, blööii⟩ ne rend pas très bien la prononciation /neji, b̥løːji/.
-1. **⟨-i⟩** dans tous les autres cas, c’est-à-dire si l’équivalent en allemand contient un ⟨-i⟩ ou ⟨-u⟩ : _**boie, dréi, Fråi/Froi** → bauen, drei, Frau_ <sup>(construire, 3, femme)</sup>.
+1. **⟨-i⟩** dans tous les autres cas, c’est-à-dire si l’équivalent en allemand contient un ⟨-i⟩ ou ⟨-u⟩ : _**boie, dréi, Fråi/Froi** → bauen, drei, Frau_ ^[(construire, 3, femme)].
 
 Cette règle permet à un locuteur qui maintient ces /ɡ̊/ de lire plus aisément en sachant quand interpréter le son /j/ comme un /j/ dans son parler lorsqu’écrit ⟨-i⟩ ou comme un /ɡ̊/ lorsqu’écrit ⟨-j⟩.
 
-Notons que dans les autres positions hors de ces diphtongues, un ⟨j⟩ s’utilise pour le son /j/ dans toutes les variétés : ***ja, Feerje, joomere*** <sup>(oui, vacances, se plaindre)</sup>. D’un autre côté, des /ɡ̊/ dans les variétés du sud qui deviennent /i/ hors diphtongues s’écriront ⟨i⟩ dans le nord : ***Bäärg*** vs ***Bäri*** ou encore ***weenig*** vs ***weni*** mais ***weeniger*** vs ***wenjer*** <sup>(montagne, peu, moins)</sup>.
+Notons que dans les autres positions hors de ces diphtongues, un ⟨j⟩ s’utilise pour le son /j/ dans toutes les variétés : ***ja, Feerje, joomere*** ^[(oui, vacances, se plaindre)]. D’un autre côté, des /ɡ̊/ dans les variétés du sud qui deviennent /i/ hors diphtongues s’écriront ⟨i⟩ dans le nord : ***Bäärg*** vs ***Bäri*** ou encore ***weenig*** vs ***weni*** mais ***weeniger*** vs ***wenjer*** ^[(montagne, peu, moins)].
 
 ## 4.2 Prononciation équivalente en français
 
@@ -449,9 +419,9 @@ Pour les diphtongues ⟨ie, ia, üe, üa⟩, c’est la première partie ⟨i, �
 
 **⟨iej⟩ et ⟨üej⟩** s’écrivent toujours avec un ⟨j⟩.
 
-**⟨ie⟩** Le même son /ɪː/ peut s’écrire ⟨ee⟩ comme dans ***de Leeb*** <sup>(lion)</sup> ou ⟨ie⟩ comme dans ***d Lieb*** <sup>(amour)</sup> selon les parlers (voir [[#^b6dc25|section 3.]]). C’est notamment pour ça que j’ai choisi de maintenir la graphie ⟨ie⟩ et ⟨üe⟩ également pour les variantes non-diphtonguées /ɪː, ʏː/ ou plus marginalement /eː, øː/. ^8c8083
+**⟨ie⟩** Le même son /ɪː/ peut s’écrire ⟨ee⟩ comme dans ***de Leeb*** ^[(lion)] ou ⟨ie⟩ comme dans ***d Lieb*** ^[(amour)] selon les parlers (voir [[#^b6dc25|section 3.]]). C’est notamment pour ça que j’ai choisi de maintenir la graphie ⟨ie⟩ et ⟨üe⟩ également pour les variantes non-diphtonguées /ɪː, ʏː/ ou plus marginalement /eː, øː/. ^8c8083
 
-**Le phonème /w/** : On trouve le phonème /w/ seulement dans deux cas de figure : après une voyelle pour former une diphtongue /aw, œw, œːw, aːw, ow/ dans ***Frau, Hœus, sœue, sääue, grous*** <sup>(femme, maison, dire, dire, grand)</sup>. Seul /aw/ est très répandu, les autres diphtongues ne se trouvent que marginalement. Un autre cas de figure est la prononciation du groupe ⟨schw-⟩ dans ***schwimme, schwarz*** <sup>(nager, noir)</sup> qui se prononce selon les parlers \[ʃv], \[ʃw], \[ʃʋ] (\[ʋ] équivaut à ⟨ça **v**a?⟩ quand on le prononce relaché).
+**Le phonème /w/** : On trouve le phonème /w/ seulement dans deux cas de figure : après une voyelle pour former une diphtongue /aw, œw, œːw, aːw, ow/ dans ***Frau, Hœus, sœue, sääue, grous*** ^[(femme, maison, dire, dire, grand)]. Seul /aw/ est très répandu, les autres diphtongues ne se trouvent que marginalement. Un autre cas de figure est la prononciation du groupe ⟨schw-⟩ dans ***schwimme, schwarz*** ^[(nager, noir)] qui se prononce selon les parlers \[ʃv], \[ʃw], \[ʃʋ] (\[ʋ] équivaut à ⟨ça **v**a?⟩ quand on le prononce relaché).
 
 # 5. Diverses règles concernant l’écriture
 ## 5.1 Les majuscules
@@ -462,7 +432,7 @@ Pour maintenir l’image graphique de l’allemand, les noms communs prendront d
 
 Je différencie deux types d’emprunts, dans la majorité des cas du français : les emprunts assimilés et les emprunts non-assimilés.
 
-1. Les emprunts assimilés sont souvent ancrés depuis plusieurs décennies dans la langue, voire plusieurs siècles, et sont adaptés à la phonétique alsacienne. Par exemple, le mot pour *choisir* est un emprunt du français auquel on a ajouté le suffixe *-iere* : **_schwasiere_** /ʃvɒsiə̯ʁə/. Ces emprunts-là seront orthographiés suivant les règles vues dans cette section. On trouve par exemple : **_schanschiere, schèniere, Kataschtroof, kapaawel, Rèschpäkt, schäluus, füddi, Buschi_** <sup>(changer, gêner, catastrophe, capable, respect, jaloux, foutu, bougie)</sup>.
+1. Les emprunts assimilés sont souvent ancrés depuis plusieurs décennies dans la langue, voire plusieurs siècles, et sont adaptés à la phonétique alsacienne. Par exemple, le mot pour *choisir* est un emprunt du français auquel on a ajouté le suffixe *-iere* : **_schwasiere_** /ʃvɒsiə̯ʁə/. Ces emprunts-là seront orthographiés suivant les règles vues dans cette section. On trouve par exemple : **_schanschiere, schèniere, Kataschtroof, kapaawel, Rèschpäkt, schäluus, füddi, Buschi_** ^[(changer, gêner, catastrophe, capable, respect, jaloux, foutu, bougie)].
 2. Les emprunts non-assimilés sont ceux qui ne sont pas forcément adaptés à la phonétique alsacienne, ou sont assez spontanés ou récents. Je considérerai par exemple que **_Ordinateur/Computer, Tracteur_** rentrent dans cette catégorie.
 
 Cette question du degré d’assimilation et de la frontière entre les deux est subjective et assez aléatoire, mieux vaut ne pas se prendre la tête. Par exemple, les mots pour *maire, vélo* et *gare* font partie des plus anciens emprunts (lors du premier rattachement de l’Alsace à la France 1648-1871) et sont assimilés phonétiquement, mais je les orthographie souvent comme en français **_Maire, Gare_** au lieu de **_Mêr, Gäär_** pour faciliter la lecture.
