@@ -1,4 +1,4 @@
-![[pronunciation2.png]]
+![[pronunciation.png]]
 
 # İntroduction
 

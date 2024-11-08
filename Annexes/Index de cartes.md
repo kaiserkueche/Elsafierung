@@ -5,7 +5,7 @@ Le son *a* en moyen haut allemand est devenu ⟨a⟩ en alsacien. Dans certains 
 Certains termes avec un ⟨a⟩ court sont également concerné par ce changement vers /o/ comme ***ich hob, ich konn, schtorik***.
 
 Source : ALA Beyer 54 *Nase* + 25 *stark* ; Wenker 554 *gefahren,* 360 *Nacht* et 81 *stark.*
-![[ala 54 nààs.png]]
+![[ala 54 naas.png]]
 
 # ⟨gehn/geh/goh⟩ infinitif
 

@@ -1,17 +1,13 @@
-![[whats als2.png]]
+![[whats als.png]]
 
 # 1. Halte aux idées reçues !
 
-Une bonne introduction pour comprendre ce qu’on entend par « alsacien » est cette vidéo réalisée par le département de dialectologie de l’Université de Strasbourg.[^3]
+Pour comprendre ce qu’on entend par « alsacien », voici quatre points qui résument brièvement une vidéo réalisée par le département de dialectologie de l’Université de Strasbourg.[^3]
 
-![[_files/voice/Rentrée 2022 dialectolo Unistra.mp4]]
-
-Pour récapituler la vidéo :
-
-1. (0:15) L’alsacien n’est pas un mélange du français et de l’allemand, mais un ensemble de dialectes *alémaniques* et *franciques* issus de dialectes germaniques parlés depuis le Vᵉ siècle en Alsace. « Alsacien » se réfère usuellement plutôt aux variantes alémaniques que franciques.
-2. (0:40) « L’alsacien du Bas-Rhin et du Haut-Rhin » sont différents : oui mais la limite des dialectes n’est pas la même que celle des départements donc il vaudrait mieux éviter de parler de *Bas-Rhin/Haut-Rhin*, et préférer les dénominations *bas-alémanique du nord/du sud*.
-3. (1:10) L’alsacien peut s’écrire et a une grammaire. La grammaire, c’est l’ensemble des règles d’une langue (ex. on ne dit pas _*j’ai devenu)._ Oui, la grammaire n’est pas apprise à l’école mais sans grammaire on ne pourrait pas communiquer. Il existe une assez grande littérature en alsacien, donc l’alsacien peut s’écrire, même s’il n’a pas de standard comme le français ou l’allemand.
-4. (2:05) « L’alsacien est un dialecte et pas une langue ». Une langue, c’est quand deux personnes parlent ensemble, donc un dialecte *est* une langue ; juste un type spécifique de langue. Un dialecte se caractérise par sa *variation* dans l’espace et par son usage principalement *oral*.
+1. « L’alsacien, c’est un mélange de français et d’allemand » : L’alsacien n’est pas un mélange du français et de l’allemand, mais un ensemble de dialectes *alémaniques* et *franciques* issus de dialectes germaniques parlés depuis le Vᵉ siècle en Alsace. « Alsacien » se réfère usuellement plutôt aux variantes alémaniques que franciques.
+2. « L’alsacien du Bas-Rhin et du Haut-Rhin ne sont pas pareil » : Oui, mais la limite des dialectes n’est pas la même que celle des départements donc il vaudrait mieux éviter de parler de *Bas-Rhin/Haut-Rhin*, et préférer les dénominations *bas-alémanique du nord/du sud*.
+3. « L’alsacien, ça ne s’ecrit pas et ça n’a pas de grammaire » : L’alsacien peut s’écrire et a une grammaire. La grammaire, c’est l’ensemble des règles d’une langue (ex. on ne dit pas _*j’ai devenu)._ Oui, la grammaire n’est pas apprise à l’école mais sans grammaire on ne pourrait pas communiquer. Il existe une assez grande littérature en alsacien, donc l’alsacien peut s’écrire, même s’il n’a pas de standard comme le français ou l’allemand.
+4. « L’alsacien est un dialecte et non une langue » : Une langue, c’est quand deux personnes parlent ensemble, donc un dialecte *est* une langue ; juste un type spécifique de langue. Un dialecte se caractérise par sa *variation* dans l’espace et par son usage principalement *oral*.
 > _Max Weinreich est fréquemment cité pour sa suggestion qu’une langue est un dialecte avec une armée et une marine ; j’aimerais ajouter à cette observation qu’un dialecte n’est peut-être rien de plus qu’une langue qui n’est pas respectée._ (Rosina Lippie-Green [^10]ᵖ¹⁵³)
 
 # 2. C’est quoi « l’alsacien » ?

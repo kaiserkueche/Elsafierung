@@ -1,4 +1,4 @@
-![[intro to als2.png]]
+![[intro to als.png]]
 
 Ce site est une introduction à ce qu'est l'alsacien : ses variétés dialectales, sa prononciation, sa grammaire, etc.
 
@@ -8,7 +8,7 @@ Nous avons décidé de fonctionner comme ça car les profils types des francopho
 
 Bonne lecture à vous
 
-![[summary2.png]]
+![[summaryFR.png]]
 
 # [[A. « Alsacien »]]
 # [[B. Prononciation]]
@@ -23,7 +23,7 @@ Bonne lecture à vous
 
 Cette carte est utilisée sur le serveur discord pour les différents rôles.
 
-![[Regiolekt in Els-Loth.jpg]] ^6e363b
+![[Regiolekt in Els-Loth.png]] ^6e363b
 
 ---
 

@@ -1,4 +1,4 @@
-![[varieties2.png]]
+![[varieties.png]]
 
 Les principaux isophones servant de frontière aux différents dialectes du territoire ont déjà été présentés en introduction dans le chapitre [[A. « Alsacien »]]. Cette section aborde plus en détail la question de la variation géolinguistique à travers d’autres isophones (changement de son) et isoglosses (changement lexical).
 
