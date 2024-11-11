@@ -3,7 +3,7 @@ Sujet, Objet
 
 ---
 
-J’ai choisis une terminologie différente des grammaires allemande ou alsaciennes pour simplifier la compréhension et également pour proposer une nomenclature adaptée à l’alsacien. En effet, dans la majorité des cas, le nominatif et l’accusatif ne sont plus différenciés en alsacien. Il ne reste une distinction guère que pour les pronoms personnels (et les pronoms démonstratifs en #BAN). Il est donc plus adapté de présenter l’alsacien de prime abord comme une langue à 2 cas : _direct_ et _oblique_.[^01] Lorsque l’on aborde le cas des pronoms personnels, on pourra rentrer dans les détails et découper le cas _direct_ à nouveau en deux fonctions syntaxiques connues de tous : _sujet_ et _objet._
+J’ai choisis une terminologie différente des grammaires allemande ou alsaciennes pour simplifier la compréhension et également pour proposer une nomenclature adaptée à l’alsacien. En effet, dans la majorité des cas, le nominatif et l’accusatif ne sont plus différenciés en alsacien. Il ne reste une distinction guère que pour les pronoms personnels (et les pronoms démonstratifs en [[Régiolectes|{BAN}]]). Il est donc plus adapté de présenter l’alsacien de prime abord comme une langue à 2 cas : _direct_ et _oblique_.[^01] Lorsque l’on aborde le cas des pronoms personnels, on pourra rentrer dans les détails et découper le cas _direct_ à nouveau en deux fonctions syntaxiques connues de tous : _sujet_ et _objet._
 
 | Allemand  |               Alsacien               |                                    |
 | --------- | :----------------------------------: | :--------------------------------: |
