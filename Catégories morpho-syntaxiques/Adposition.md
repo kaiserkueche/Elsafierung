@@ -1,10 +1,19 @@
+---
+tags:
+  - adposition
+---
+
 - Préposition *(bis …, mit …)*
 - Postposition *(… nooch)*
 - Circomposition *(fun … ab)*
+
 ---
+
 Il existe trois type d’adpositions : les prépositions, postpositions et circompositions. Chaque adposition régit un certain cas, ce qui signifie que le groupe nominal qui suit l’adposition sera soit au cas direct, soit à l’oblique. Voir [[Rection des adpositions]].
+
 # Préposition
 …
+
 # Postposition
 
 > [!example] Exemples

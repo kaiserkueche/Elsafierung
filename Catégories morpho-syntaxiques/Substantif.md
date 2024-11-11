@@ -3,8 +3,10 @@
 
 ---
 
-Les substantifs ont les traits morphologiques suivants :
+Les substantifs se déclinent selon les traits morphologiques suivants :
 
 - le [[Genre]]
-- le [[Nombre]]
+- le [[Pluriel]]
 - le degré de [[Diminutif]]
+
+Les noms propres sont systématiquement précédés d’un déterminant.

@@ -1,56 +1,65 @@
+---
+tags:
+  - adposition
+---
+
 - Régissant le direct *(durich)*
 - Régissant l’oblique *(mit, züe)*
 - Mixte *(an, in, uf)*
+
 ---
+
 # Adpositions régissant le direct
 
 > [!example]- Courant
-> - bis <sup>(jusqu’à)</sup>
-> - durich • duerch #FR • durr #AS <sup>(à travers)</sup>
-> - fer • fuer #K <sup>(pour)</sup>
-> - ohne <sup>(sans)</sup>
+> - bis ^[(jusqu’à)]
+> - durich • duerch #FR • durr #AS ^[(à travers)]
+> - fer • fuer #K ^[(pour)]
+> - ohne ^[(sans)]
 
 > [!example]- Rare
 > - jee
 > - per
 > - pro
-> - um … erum <sup>(autour de)</sup>
-> - um (pour donner l’heure, plutôt : àm <sup>obl</sup>)
+> - um … erum ^[(autour de)]
+> - um (pour donner l’heure, plutôt : àm ^[obl])
 > - … wider
+
 # Adpositions régissant l’oblique
 
 > [!example]- Courant
-> - by • bai/bëi #U <sup>(chez)</sup>
-> - fu(n) <sup>(de)</sup>
-> - geje • geege #g #U • gëje #I <sup>(contre)</sup>
-> - mit <sup>(avec)</sup>
-> - nooch • noo #AS <sup>(après)</sup>
-> - üs • aus/œus #U <sup>(de)</sup>
-> - üsser • ausser/œusser #U <sup>(sauf, hors de)</sup>
-> - wäje • wëje #FR • wäge #g <sup>(à cause de)</sup>
-> - zitter • sitter #N • syter #AS <sup>(depuis)</sup>
-> - züe • zu #FR • zü #Ksbg <sup>(vers, chez)</sup>
+> - by • bai/bëi [[Régiolectes#^418d12|{U}]]^[(chez)]
+> - fu(n) ^[(de)]
+> - geje • geege #g #U • gëje #I ^[(contre)]
+> - mit ^[(avec)]
+> - nooch • noo #AS ^[(après)]
+> - üs • aus/œus #U ^[(de)]
+> - üsser • ausser/œusser #U ^[(sauf, hors de)]
+> - wäje • wëje #FR • wäge #g ^[(à cause de)]
+> - zitter • sitter #N • syter #AS ^[(depuis)]
+> - züe • zu #FR • zü #Ksbg ^[(vers, chez)]
 
 > [!example]- Rare
-> - fun … ab %% quand c préverbe c’est ô #Ksbg %% <sup>(à partir de)</sup> • ab (plus rare)
+> - fun … ab %% quand c préverbe c’est ô #Ksbg %% ^[(à partir de)] • ab (plus rare)
 > - … entgeje
-> - … gejeniwer (plutôt : gejeniwer fun <sup>obl</sup>, vis-a-vis fun <sup>obl</sup>)
+> - … gejeniwer (plutôt : gejeniwer fun ^[obl], vis-a-vis fun ^[obl])
 > - innerhalb fun
 > - samt
 > - trotz
 > - üsserhalb fun
-> - währe(d) (plutôt : iwer <sup>obl</sup>)
+> - währe(d) (plutôt : iwer ^[obl])
 > - … zelieb
 > - … zegüet
+
 # Adpositions mixtes
 
 > [!example]- Liste
-> - aan • aa #n-∅ • ôn #ô <sup>(à)</sup>
-> - fôr <sup>(devant, avant)</sup>
-> - hinder • hinger #ng <sup>(derrière)</sup>
-> - i(n) <sup>(dans)</sup>
-> - iwer • iber #S <sup>(au-dessus)</sup>
-> - nääwe • nëwe #ä • nääbe #S • newe #Ksbg <sup>(à côté de)</sup>
-> - uf • üf #S • auf/œuf #U <sup>(sur)</sup>
-> - under • inger/unger #ng <sup>(sous)</sup>
-> - zwische • zwischte #Mnstr <sup>(entre)</sup>
+> - aan • aa #n-∅ • ôn #ô ^[(à)]
+> - fôr ^[(devant, avant)]
+> - hinder • hinger #ng ^[(derrière)]
+> - i(n) ^[(dans)]
+> - iwer • iber #S ^[(au-dessus)]
+> - nääwe • nëwe #ä • nääbe #S • newe #Ksbg ^[(à côté de)]
+> - uf • üf #S • auf/œuf #U ^[(sur)]
+> - under • inger/unger #ng ^[(sous)]
+> - zwische • zwischte #Mnstr ^[(entre)]

@@ -1,3 +1,8 @@
+---
+tags:
+  - pronom
+---
+
 - Relatif *(wo)*
 - Réciproque *(enander)*
 - Réfléchi *(sich)*

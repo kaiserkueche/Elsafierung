@@ -1,8 +1,8 @@
 Les traits morphologiques propres au verbes et aux auxiliaires sont :
 
-- le [[Temps]] verbal
-- le [[Mode]]
-- la [[Voix]]
-- la [[Forme verbale]]
-- l’[[Aspect]]
-- la [[Personne]] et le [[Nombre]]
+- la personne et le nombre
+- le temps verbal
+- le mode
+- la voix
+- la forme verbale, finie, [[İnfinitif]] ou [[Participe]]
+- l’aspect

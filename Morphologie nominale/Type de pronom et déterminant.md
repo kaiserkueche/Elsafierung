@@ -1,3 +1,9 @@
+---
+tags:
+  - pronom
+  - déterminant
+---
+
 - Négatif _(ken / nix, niemes)_
 - Possessif *(myner, syni)*
 - Démonstratif *(der, dis)*

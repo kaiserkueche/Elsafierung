@@ -57,5 +57,5 @@ Diphtongues :
 > /ɒːʋ, œːʋ, aːʋ, œːj, ɒːj › eːj/
 > Naawel/Nœwel #K • Nääwel #N • Nœjel #I • Naajel #M → **Neejel** (Nêjel #ee)
 
-[^ahd]: Le /ɒ/ devient /e/ lorsqu’il s’agit de la première métaphonie de l’ancien haut-allemand. On y trouvera donc prototypiquement des « anciens » mots plutôt basique : ***Aarm → Ermel, Apfel → Epfel, alt → elter, waarm → wermer, lang → d Lenge***.
-Plus tard, lors de la seconde métaphonie du moyen haut-allemand, les mots restants on fait leur métaphonie vers mha. ä, æ, ce qui en alsacien est /ɒ/ vers /a/ ou /ɛ/ selon le parler : ***Hand → Händ/Hënd***.
+[^ahd]: Le /ɒ/ devient /e/ en alsacien lorsqu’il s’agit de la première métaphonie de l’ancien haut-allemand. On y trouvera donc prototypiquement des « anciens » mots plutôt basique : ***Aarm → Ermel, Apfel → Epfel, alt → elter, waarm → wermer, lang → d Lenge***.
+Plus tard, lors de la seconde métaphonie du moyen haut-allemand, les mots restants on fait leur métaphonie vers mha. _ä, æ,_ ce qui en alsacien correspond à /ɒ/ vers /a/ ou /ɛ/ selon le parler : ***Hand → Händ/Hënd***.

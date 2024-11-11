@@ -1,6 +1,7 @@
-- Coordination *(awer)*
-- Subordination *(wyl)*
----
+- Coordination _(awer)_
+- Subordination _(wyl)_
+- Adverbe conjonctionnel _(noh)_
+
 # Conjonction de coordination
 
 La conjonction prend la place 0, le verbe conjugué est en deuxième position (V2) comme dans une proposition principale.

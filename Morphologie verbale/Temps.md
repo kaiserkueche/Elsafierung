@@ -1,7 +1,0 @@
-- Présent
-- Passé
----
-# Présent
-…
-# Passé
-…

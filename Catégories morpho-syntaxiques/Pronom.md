@@ -1,9 +1,8 @@
-Le pronom a les traits morphologiques suivants :
+Les pronoms se déclinent selon les traits morphologiques suivants :
 
 - le [[Genre]]
-- le [[Nombre]]
+- le [[Pluriel]]
 - le [[Cas]]
-- la [[Définitude]]
 - la [[Politesse]]
 - les différents [[Type de pronom et déterminant|Types de pronom]] partagé avec les déterminants, et les [[Type de pronom]] spécifiques à ces derniers
 
