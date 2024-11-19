@@ -6,17 +6,17 @@ Les principaux isophones servant de frontière aux différents dialectes du terr
 
 Sur la carte ci-dessous, on retrouve les isophones ②, ③, ④, ⑦ et ⑨ traités en [[A. « Alsacien »#3.3 Frontières entre les principaux groupes dialectaux|A.3.3]] qui servent à délimiter les dialectes. Il en existe cependant davantage qui vont être décrits ici :
 
-- ① L’isophone \[op – of] se trouve au sein du francique mosellan. À l’ouest de la ligne vers le Luxembourg, le mot *auf* <sup>(sur)</sup> se prononce ***op***, tandis qu’il se prononce ***of/uf*** à l’est vers le francique rhénan et l’alémanique.
+- ① L’isophone \[op – of] se trouve au sein du francique mosellan. À l’ouest de la ligne vers le Luxembourg, le mot *<abbr title="sur">auf</abbr>* se prononce ***op***, tandis qu’il se prononce ***of/uf*** à l’est vers le francique rhénan et l’alémanique.
 
 Les isophones qui se trouvent dans la zone de transition entre le bas-alémanique du nord et du sud :
 
-- ⑤ L’isophone \[hiːsl̩ – hiːslə] concerne le suffixe de diminutif qui est prononcé comme un *l* syllabique /l̩/ au nord de la ligne, tandis qu’il sera prononcé avec un schwa après le *l* au sud : /lə/. On aura donc ***Hyysel, Biewel, Schtickel*** <sup>(maisonette, garçon, morceau)</sup> au nord et ***Hyysle, Biewle, Schtickle*** au sud. Notons qu’il s’agit ici du singulier, car le pluriel se forme en *-le*, au nord comme au sud (ou *-li, -lé, -la* mais pas *-el*). Ainsi, le nord distingue *-el/-le* pour singulier/pluriel, et le sud dira toujours *-le, -li, -lé, -la*.
-- ⑥ L’isophone \[v/j – ɡ̊] concerne le son /ɡ̊/ qui est adouci en /j, v/ ou qui disparait totalement en milieu et fin de mot au nord de la ligne, mais est maintenu dans toutes les positions au sud. Ainsi, les termes ***Waage, ich saag, lüege, Wääg*** <sup>(véhicule, je dis, regarder, chemin)</sup> du sud se disent selon le parler ***Waaje/Wœje/Wœwe/Wääwe/Waawe, ich saa/sœ/sää, lüeje, Wääj/Wëëj*** au nord. Notons que dans certains parlers du francique rhénan méridional (au nord de ④), ce /ɡ̊/ s’est adouci en /χ/ en milieu de mot, mais reste /ɡ̊/ en finale absolue : ***Waache, ich saach, luuche, Wääg***. Plus de détails concernant cet adoucissement dans la [[#1.6. L’adoucissement du ⟨g⟩ après mha. *a*|section 1.6]]. ^f3ba76
+- ⑤ L’isophone \[hiːsl̩ – hiːslə] concerne le suffixe de diminutif qui est prononcé comme un *l* syllabique /l̩/ au nord de la ligne, tandis qu’il sera prononcé avec un schwa après le *l* au sud : /lə/. On aura donc ***<abbr title="maisonette">Hyysel</abbr>, <abbr title="garçon">Biewel</abbr>, <abbr title="morceau">Schtickel</abbr>*** au nord et ***Hyysle, Biewle, Schtickle*** au sud. Notons qu’il s’agit ici du singulier, car le pluriel se forme en *-le*, au nord comme au sud (ou *-li, -lé, -la* mais pas *-el*). Ainsi, le nord distingue *-el/-le* pour singulier/pluriel, et le sud dira toujours *-le, -li, -lé, -la*.
+- ⑥ L’isophone \[v/j – ɡ̊] concerne le son /ɡ̊/ qui est adouci en /j, v/ ou qui disparait totalement en milieu et fin de mot au nord de la ligne, mais est maintenu dans toutes les positions au sud. Ainsi, les termes ***<abbr title="véhicule">Waage</abbr>, <abbr title="je dis">ich saag</abbr>, <abbr title="regarder">lüege</abbr>, <abbr title="chemin">Wääg</abbr>*** du sud se disent selon le parler ***Waaje/Wœje/Wœwe/Wääwe/Waawe, ich saa/sœ/sää, lüeje, Wääj/Wëëj*** au nord. Notons que dans certains parlers du francique rhénan méridional (au nord de ④), ce /ɡ̊/ s’est adouci en /χ/ en milieu de mot, mais reste /ɡ̊/ en finale absolue : ***Waache, ich saach, luuche, Wääg***. Plus de détails concernant cet adoucissement dans la [[#1.6. L’adoucissement du ⟨g⟩ après mha. *a*|section 1.6]]. ^f3ba76
 
 Enfin, les deux isophones dans la zone de transition entre le bas- et le haut-alémanique :
 
-- ⑧ L’isophone \[v – b̥] concerne le son /b̥/ à l’intervocalique. Au nord de la ligne, le /b̥/ s’adoucit en \[v] systématiquement lorsqu’il est entre deux sons voisés, c’est-à-dire les voyelles et ⟨m, n, l, r⟩. Au sud, ce son reste toujours /b̥/, on aura donc ***blyybä, schryybä, ich schryyb, Chälbli*** <sup>(rester, écrire, j’écris, veau)</sup> au sud et ***blyywe, schryywe, ich schryyb, Kälwel/Kälwle*** au nord.
-- ⑩ L’isophone \[Wìnd – Wìng] concerne ⟨nd⟩ /nd̥/ qui devient ⟨ng⟩ /ŋ/ systématiquement. On dira donc ***Ching, Wing, unger, finge, bling*** <sup>(enfant, vent, sous, trouver, aveugle)</sup> au sud mais ***Kind, Wind, under, finde, blind*** au nord. Notons qu’en Alsace bossue, dans la vallée de la Zorn, le Kochersberg et la vallée de Munster, on trouve également ⟨ng⟩ dans certains mots comme ***inger (under), finge, bling, ferschwinge*** mais pas dans ***Kind, Wind***. ^884a79
+- ⑧ L’isophone \[v – b̥] concerne le son /b̥/ à l’intervocalique. Au nord de la ligne, le /b̥/ s’adoucit en \[v] systématiquement lorsqu’il est entre deux sons voisés, c’est-à-dire les voyelles et ⟨m, n, l, r⟩. Au sud, ce son reste toujours /b̥/, on aura donc ***<abbr title="rester">blyybä</abbr>, <abbr title="écrire">schryybä</abbr>, <abbr title="j’écris">ich schryyb</abbr>, <abbr title="veau">Chälbli</abbr>*** au sud et ***blyywe, schryywe, ich schryyb, Kälwel/Kälwle*** au nord.
+- ⑩ L’isophone \[Wind – Wing] concerne ⟨nd⟩ /nd̥/ qui devient ⟨ng⟩ /ŋ/ systématiquement. On dira donc ***<abbr title="enfant">Ching</abbr>, <abbr title="vent">Wing</abbr>, <abbr title="sous">unger</abbr>, <abbr title="trouver">finge</abbr>, <abbr title="aveugle">bling</abbr>*** au sud mais ***Kind, Wind, under, finde, blind*** au nord. Notons qu’en Alsace bossue, dans la vallée de la Zorn, le Kochersberg et la vallée de Munster, on trouve également ⟨ng⟩ dans certains mots comme ***<abbr title="sous">inger (under)</abbr>, <abbr title="trouver">finge</abbr>, <abbr title="aveugle">bling</abbr>, <abbr title="disparaitre">ferschwinge</abbr>*** mais pas dans ***<abbr title="enfant">Kind</abbr>, <abbr title="vent">Wind</abbr>***. ^884a79
 
 (Source : Département de dialectologie de l’Unistra)
 ![[_files/maps/3 Unistra - isophones.png]]
@@ -25,11 +25,11 @@ Enfin, les deux isophones dans la zone de transition entre le bas- et le haut-al
 
 La carte ci-dessous présente une variante géolinguistique assez connue en alsacien : la variation entre ⟨ä⟩ et ⟨ë⟩.
 
-- Le son écrit ⟨ë, ä⟩ en moyen haut allemand[^01] s’est ouvert vers /**a, aː**/ ⟨ä⟩ dans la majorité des variétés en Alsace. Il s’agit ici de la zone en gris clair avec ***Schpäck*** <sup>(lard)</sup> figurant comme exemple. On pourrait également citer ***sähn, Kääs, Wääj, Wäschpel, Händ*** <sup>(voir, fromage, chemin, guêpe, main**s**)</sup>.
+- Le son écrit ⟨ë, ä⟩ en moyen haut allemand[^01] s’est ouvert vers /**a, aː**/ ⟨ä⟩ dans la majorité des variétés en Alsace. Il s’agit ici de la zone en gris clair avec ***<abbr title="lard">Schpäck</abbr>*** figurant comme exemple. On pourrait également citer ***<abbr title="voir">sähn</abbr>, <abbr title="fromage">Kääs</abbr>, <abbr title="chemin">Wääj</abbr>, <abbr title="guêpe">Wäschpel</abbr>, <abbr title="mainS (singulier : Hand)">Händ</abbr>***.
 - Dans les zones en <font color="#4ba3e3">bleu</font> foncé, c’est-à-dire l’Alsace bossue, Strasbourg, l’Outre-Forêt et le Ried du nord le long du Rhin, ce ⟨ë, ä⟩ du moyen haut allemand ne s’est pas ouvert et est resté **/ɛ, ɛː/** ⟨ë⟩. On dira donc ***sëhn, Këës, Wëëj, Wëschpel, Hënd***.
 - Dans les zones intermédiaires appelées « aires de transition », /a, aː/ et /ɛ, ɛː/ sont tous les deux présents et utilisés dans un même parler selon les termes. L’on pourrait donc trouver ***Këës, Hënd*** mais ***sähn, Wäschpel*** dans le même parler, ou l’inverse.
 
-Notons que le mha. ⟨e⟩ ne s’est ouvert vers /a/ ou /ɛ/ dans aucun dialecte et se prononce /e, eː/ dans la majorités des variétés. On aura donc : ***Bett, Mensch,[^02] Mêr.*** <sup>(lit, humain, mer)</sup>
+Notons que le mha. ⟨e⟩ ne s’est ouvert vers /a/ ou /ɛ/ dans aucun dialecte et se prononce /e, eː/ dans la majorités des variétés. On aura donc : ***<abbr title="lit">Bett</abbr>, <abbr title="humain">Mensch</abbr>,[^02] <abbr title="mer">Mêr</abbr>.***
 
 Les variantes équivalentes en allemand standard pour mha. ⟨ë, ä⟩ comme ⟨e⟩ sont généralement ⟨e, ä⟩ /ɛ, eː, (ɛː)/ comme dans ***sehen, Käse, Weg, Wespe, Hände ; Bett, Mensch, Meer***. L’allemand ne distingue donc plus mha. *ë, ä* et *e* mais les dialectes alsaciens maintiennent cette distinction, soit par /a ≠ e/ soit par /ɛ ≠ e/.
 
@@ -42,7 +42,7 @@ Comme vous pouvez le constater, dire qu’*en « bas-rhinois » on dit « 
 
 Les deux cartes ci-dessous présentent une autre variante importante : la [[B. Prononciation#^a98c8f|monophtongaison]] de l’allemand moyen. Pour faire simple, en moyen haut allemand, il existait des [[B. Prononciation#^bdd38e|diphtongues]] ***uo, üe, ie*** /uə̯, yə̯, iə̯/ qui sont devenues respectivement ***üe, ie, ie*** /yə̯, iə̯, iə̯/ dans la majorité des dialectes alémaniques d’Alsace. Dans les dialectes franciques, ces diphtongues se sont monophtonguées (elles sont devenues des voyelles simples) en ***uu, ii, ii*** /ʊː, ɪː, ɪː/ en francique rhénan et ***uu, ii, ii*** /uː, iː, iː/ en francique rhénan méridional. Pour illustrer :
 
-- ***guot, stuol ; müede, müeje ; liet, liep*** en mha. sont devenus : <sup>(bien, chaise, fatigué, effort, chanson, amour)</sup>
+- ***<abbr title="bien, bon">guot</abbr>, <abbr title="chaise">stuol</abbr> ; <abbr title="fatigué">müede</abbr>, <abbr title="effort">müeje</abbr> ; <abbr title="chanson">liet</abbr>, <abbr title="amour">liep</abbr>*** en mha. sont devenus :
 - ***güet, Schtüel ; mied, Miej ; Lied, lieb /yə̯, iə̯/*** en alémanique
 - ***gutt, Schtuhl ; miid, Miij ; Liid, liib /ʊː, ɪː/*** en francique rhénan
 - ***guut, Schtuhl ; miid, Mii ; Liid, liib /uː, iː/*** en francique rhénan méridional
@@ -65,8 +65,8 @@ Les deux types de monophtongaisons ne sont pas différenciés sur la carte de l�
 
 La diphtongue issue du mha. *ei, öu* est devenue ⟨**ai**⟩ /aj/ (comme fr. _**ai**l_) dans la majorité des variétés en Alsace et est représentée par des barres verticales sur la carte ci-dessous. Cette diphtongue peut être monophtonguée en ⟨aa⟩ \[aː] généralement devant /m, n, l/ dans certains parlers de Basse-Alsace comme illustré dans le deuxième exemple :
 
-- ***Ai, Maidel, zwai, ich hais, waisch?*** <sup>(œuf, fille, deux, je m’appelle, tu sais ?)</sup>
-- ***ääns/ains, klään/klain, dhääm/dhaim, Dääl/Dail*** <sup>(un, petit, chez soi, partie)</sup>
+- ***<abbr title="œuf">Ai</abbr>, <abbr title="fille">Maidel</abbr>, <abbr title="deux">zwai</abbr>, <abbr title="je m’appelle">ich hais</abbr>, <abbr title="tu sais ?">waisch</abbr>?***
+- ***<abbr title="un">ääns/ains</abbr>, <abbr title="petit">klään/klain</abbr>, <abbr title="chez soi">dhääm/dhaim</abbr>, <abbr title="une partie">Dääl/Dail</abbr>***
 
 L’autre variante principale de mha. *ei, öu* est ⟨**ëi**⟩ /ɛj/ (comme fr. *v**ei**lle*) qu’on trouve en Alsace bossue, dans le Kochersberg, l’Ackerland, la *Brüech* d’Obernai, ainsi que dans trois petits ilots au nord de Haguenau (cf. la zone en pointillés sur la carte). Dans certains de ces parlers, on trouvera également une monophtongaison en ⟨ää⟩ \[ɛː] devant /m, n, l/ :
 
@@ -92,12 +92,12 @@ Cette diphtongue va de pair avec la diphtongue précédente issue du mha. *ei, �
 
 La première variante est ⟨**ää**⟩ /aː/, représentée en <font color="85af2e">vert</font> sur la carte ci-dessous, que l’on trouve en francique rhénan méridional.
 
-- ***Frää, Schtääb, lääfe, kääfe, Bääm, glääwe*** <sup>(femme, poussière, marcher, acheter, arbre, croire)</sup>
+- ***<abbr title="femme">Frää</abbr>, <abbr title="poussière">Schtääb</abbr>, <abbr title="marcher">lääfe</abbr>, <abbr title="acheter">kääfe</abbr>, <abbr title="arbre">Bääm</abbr>, <abbr title="croire">glääwe</abbr>***
 
 La deuxième variante est ⟨**au**⟩ /aw/ (comme eng. *out, now*), représentée par des lignes horizontales sur la carte ci-dessous, que l’on trouve à Strasbourg, autour de Haguenau et des Vosges du nord et dans une partie de l’Alsace bossue. Là où l’on dit ⟨au⟩, on dit aussi généralement ⟨ai⟩ et on a donc une alternance ⟨au – ai⟩. Ici aussi, certains parlers de Basse-Alsace monophtonguent en ⟨aa⟩ \[aː] dans certains cas.
 
-- ***Frau, Schtaub, Au*** <sup>(femme, poussière, œil)</sup>
-- ***kääfe/kaufe, Bääm/Baum, glääwe/glauwe*** <sup>(acheter, arbre, croire)</sup>
+- ***<abbr title="femme">Frau</abbr>, <abbr title="poussière">Schtaub</abbr>, <abbr title="œil">Au</abbr>***
+- ***<abbr title="acheter">kääfe/kaufe</abbr>, <abbr title="arbre">Bääm/Baum</abbr>, <abbr title="croire">glääwe/glauwe</abbr>***
 
 En Alsace bossue, l’alternance se fait entre ⟨au/œi⟩ et ⟨aa⟩, on aura donc plutôt :
 
@@ -121,11 +121,11 @@ La dernière variante est ⟨**åi**⟩ /ɒj/ représentée par des pointillés.
 
 ## 1.6. L’adoucissement du ⟨g⟩ après mha. *a*
 
-Le titre parait compliqué, mais en vrai ça va. Dans la [[#^f3ba76|section 1.]], on a vu que le /ɡ̊/ s’adoucit en \[j] de manière générale en milieu et fin de mot en bas-alémanique du nord et en francique rhénan (et en \[χ] en méridional). On a donc ***lüege, Wääg, geege, wäge*** <sup>(regarder, chemin, contre, à cause de/parce que)</sup> qui devient ***lüeje, Wääj/Wëëj, geje, wäje/wëje***.
+Le titre parait compliqué, mais en vrai ça va. Dans la [[#^f3ba76|section 1.]], on a vu que le /ɡ̊/ s’adoucit en \[j] de manière générale en milieu et fin de mot en bas-alémanique du nord et en francique rhénan (et en \[χ] en méridional). On a donc ***<abbr title="regarder">lüege</abbr>, <abbr title="chemin">Wääg</abbr>, <abbr title="contre">geege</abbr>, <abbr title="à cause de, parce que">wäge</abbr>*** qui devient ***lüeje, Wääj/Wëëj, geje, wäje/wëje***.
 
 En revanche, quand ce /ɡ̊/ vient après ⟨a, aa⟩ (mha. *a*), il existe une plus grande variation phonétique. Je retiens 6 variantes principales visibles sur la carte ci-dessous :
 
-- ⟨**aach**⟩ /ɒːχ, ɒːɣ/ en francique rhénan méridional et près de Saint-Amarin. C’est bien la variante à laquelle on s’attend qui est représenté en <font color="85af2e">vert</font> sur la carte : ***Waache, saache, schlaache*** <sup>(voiture, dire, frapper)</sup>.
+- ⟨**aach**⟩ /ɒːχ, ɒːɣ/ en francique rhénan méridional et près de Saint-Amarin. C’est bien la variante à laquelle on s’attend qui est représenté en <font color="85af2e">vert</font> sur la carte : ***<abbr title="véhicule">Waache</abbr>, <abbr title="dire">saache</abbr>, <abbr title="frapper">schlaache</abbr>***.
 - ⟨**ääw**⟩ /aːv/ ou plus archaïsant et très marginal ⟨aau⟩ /aːw/ se dit à Strasbourg, à Haguenau et alentours, dans les Vosges du nord et une partie de l’Alsace bossue (≈ la même zone que ⟨au – ai⟩). Il s’agit de la zone à rayures horizontales __fines__ : ***Wääwe, sääwe, schlääwe***.
 - ⟨**aa(n)**⟩ /ɒː(n)/ en <font color="#d95454">rouge</font> sur la carte se trouve dans un ilot à Schirrhein et dans une partie de l’Alsace bossue pour certains termes : ***Wääwe, saan, schlaan***.
 - ⟨**œj**⟩ /œːj/ ou plus marginalement ⟨œw⟩ /œːv/ est indiqué en <font color="#0d22ff">bleu</font> sur la carte et se trouve environ dans les mêmes zones qu’avec ⟨œi – äi⟩ : une partie de l’Alsace bossue, l’ilot au nord de Haguenau et la zone vallée de la Zorn, Kochersberg, Ackerland et *Brüech* d’Obernai. On aura ***Wœje, sœje, schlœje*** ou ***Wœwe, sœwe, schlœwe***.
@@ -143,13 +143,13 @@ Dans les variétés coloriées en <font color="#0d22ff">bleu</font> sur les cart
 
 - Les signes `┴ ─ ┬` représentent les réalisations \[e̝ː, eː, e̞ː] du phonème /eː/, vous n’avez pas à vous en préoccuper, car il s’agit de sons très proches.
 - Certains parlers (`╥` <font color="85af2e">vert</font> sur la carte) ont /ɛː/ et écriront donc ⟨hääre⟩.
-- Notons qu’il s’agit là de la prononciation de ***heere*** <sup>(entendre)</sup> et que d’autres termes comme ***bees, weh, gehn, Gehre*** <sup>(méchant, mal, aller, giron)</sup> n’auront pas forcément la même voyelle selon les parlers
+- Notons qu’il s’agit là de la prononciation de ***<abbr title="entendre">heere</abbr>*** et que d’autres termes comme ***<abbr title="méchant">bees</abbr>, <abbr title="mal (avoir mal)">weh</abbr>, <abbr title="aller">gehn</abbr>, <abbr title="giron (les genoux : « viens sur mes genous » „kumm uf myne Gehre“)">Gehre</abbr>*** n’auront pas forcément la même voyelle selon les parlers
  - Exemple : le locuteur (183) dit ***hëëre*** \[ɛː] mais ***geh*** \[eː] ; un autre (151) ***heere*** \[e̞ː] mais ***gie*** \[iə̯] ; ou encore (191) ***heere*** \[eː] mais ***géi*** \[e̞j]).
 
 Pour les autres variétés avec le signe `╨` noir, ces termes se réalisent avec /**ɪː**/ et /**ʊː**/. Il s’agit de la majorité de l’espace alémanique du nord à Colmar inclus.
 
-- Pour ces variétés, certains termes seront réalisés avec /**eː**/ et /**oː**/ comme l’autre groupe : ***Mêr, Êl, zêhle ; vôr, gebôre, wôhl, Dôchter*** <sup>(mer, huile, compter ; devant, né, bien, fille)</sup>.
-- C’est dans ces cas qu’il peut être utile de distinguer /**ɪː, ʊː**/ ⟨ee, oo⟩ de /**eː, oː**/ ⟨ê, ô⟩ : ***root ≠ ich rôt, meer ≠ Mêr*** <sup>(rouge, je devine ; nous, mer)</sup>.
+- Pour ces variétés, certains termes seront réalisés avec /**eː**/ et /**oː**/ comme l’autre groupe : ***<abbr title="mer">Mêr</abbr>, <abbr title="huile">Êl</abbr>, <abbr title="compter">zêhle</abbr> ; <abbr title="devant">vôr</abbr>, <abbr title="[être] né">gebôre</abbr>, <abbr title="bien">wôhl</abbr>, <abbr title="fille (la fille de quelqu’un)">Dôchter</abbr>***.
+- C’est dans ces cas qu’il peut être utile de distinguer /**ɪː, ʊː**/ ⟨ee, oo⟩ de /**eː, oː**/ ⟨ê, ô⟩ : ***<abbr title="rouge">root</abbr> ≠ <abbr title="je devine">ich rôt</abbr>, <abbr title="nous">mir</abbr> ≠ <abbr title="la mer">Mêr</abbr>***.
 - Les termes qui se prononcent avec /**eː, oː**/ dans ces parlers sont généralement issus des voyelles courtes en mha. ⟨e, ö, o⟩, tandis que les termes se prononçant /**ɪː, ʊː**/ sont généralement issus des voyelles longues en mha. ⟨ê, œ, ô, â⟩. Ce n’est là qu’une tendance et non une règle absolue, car on trouve de nombreux contrexemples et des divergences selon les parlers.
 
 (Source : Beyer,[^2] 1969, cartes 50, 51)
@@ -184,7 +184,7 @@ Le pronom interrogatif *où ?* a la même forme que le pronom relatif en alsac
 - La majorité de l’espace dialectal y compris Strasbourg a pour variante ***wu/wo*** (pointillés).
 - Dans une partie de la *Brüech* d’Obernai, la vallée de la Zorn et l’ouest de Masevaux, on trouve la variante ***wü*** (barres horizontales <font color="#0d22ff">bleues</font>).
 - Dans le Kochersberg, le pays de Hanau, la zone de Haguenau et les Vosges du nord, on trouve la variante ***wi*** (barres verticales noires).
-- Dans la vallée de Munster on aura la zone en <font color="#d95454">rouge</font> avec ***wüe/wüo***. La diphtongue ⟨üo⟩ /yo̯/ est spécifique à cette vallée et est utilisée là où les autres parlers ont ⟨oo⟩ : *Jüor, grüos, rüot.* <sup>(année, grand, rouge)</sup>
+- Dans la vallée de Munster on aura la zone en <font color="#d95454">rouge</font> avec ***wüe/wüo***. La diphtongue ⟨üo⟩ /yo̯/ est spécifique à cette vallée et est utilisée là où les autres parlers ont ⟨oo⟩ : *<abbr title="année">Jüor</abbr>, <abbr title="grand">grüos</abbr>, <abbr title="rouge">rüot</abbr>.*
 
 (Source : Beyer,[^1] 1964, p. 40)
 ![[_files/maps/3 Beyer - wu,wü,wi.png]]
@@ -195,12 +195,12 @@ Je vous laisse découvrir encore d’autres isophones que je n’ai pas détaill
 
 - ① /**z**aw ≠ **s**aw/ : il s’agit du son \[z] de *zèbre* qui existe avant les voyelles dans une petite zone à l’ouest.
 - ② /**tʰ**ʊʁm ≠ **d̥**ʊʁm/ : maintien de /tʰ/ fortis en début de mot dans certains termes à l’ouest.
-- ⑦ /b̥l**ø**ːj ≠ b̥l**o**ːj/ : phonème /oː/ prononcé \[øː] devant /j/ au nord (***frööje, blööi, böie ≠ frooje/frooge, blooi/blååi, boiä) <sup>(demander, bleu, construire)</sup>.
-- ⑧ /ɡ̊eː**n** ≠ ɡ̊eː/ : maintien du /n/ dans certains verbes à l’infinitif au nord (***sin, gehn, gään ≠ sii, geh, gää***). <sup>(être, aller, donner)</sup> (plus de détail à [[İnfinitif#Infinitif|Infinitif]]).
-- ⑩ /vi**n** ≠ viː/ : maintien du /n/ en fin de mot dans certains termes au nord (***ynschloofe, Wyn ≠ yyschloofä, Wyy***) <sup>(s’endormir, vin)</sup>.
-- ⑬ /d̥**o**ʁf ≠ d̥**oː**ʁf/ : allongement de la voyelle dans certains termes au sud (***Dorf, Wort, Schtifel ≠ Doorf, Woort, Schtiifel***) <sup>(village, mot, bottes)</sup>.
-- ⑭ /vʊnd̥ ≠ vund̥**ə**/ : maintien d’un schwa final dans certains termes au sud (***Sunn, Wund, Saif ≠ Sunnä, Wundä, Saifä***) <sup>(soleil, plaie, savon)</sup>.
-- ⑯ /kʰɪ**ʁ**iʃ, kʰɪ**ʁ**əχ ≠ kʰɪ**l**χə, χɪ**l**χə/ : prononciation spéciale du mot *Kirich/Kirech* (église) avec un /l/ au sud : ***Kilchä/Chilchä***.
+- ⑦ /b̥l**ø**ːj ≠ b̥l**o**ːj/ : phonème /oː/ prononcé \[øː] devant /j/ au nord (***<abbr title="demander">frööje</abbr>, <abbr title="bleu">blööi</abbr>, <abbr title="construire">böie</abbr> ≠ frooje/frooge, blooi/blååi, boiä).
+- ⑧ /ɡ̊eː**n** ≠ ɡ̊eː/ : maintien du /n/ dans certains verbes à l’infinitif au nord (***<abbr title="être">sin</abbr>, <abbr title="aller">gehn</abbr>, <abbr title="donner">gään</abbr> ≠ sii, geh, gää***). (plus de détail à [[İnfinitif#Infinitif|Infinitif]]).
+- ⑩ /vi**n** ≠ viː/ : maintien du /n/ en fin de mot dans certains termes au nord (***<abbr title="s’endormir">ynschloofe</abbr>, <abbr title="vin">Wyn</abbr> ≠ yyschloofä, Wyy***).
+- ⑬ /d̥**o**ʁf ≠ d̥**oː**ʁf/ : allongement de la voyelle dans certains termes au sud (***<abbr title="village">Dorf</abbr>, <abbr title="mot">Wort</abbr>, <abbr title="botte">Schtifel</abbr> ≠ Doorf, Woort, Schtiifel***).
+- ⑭ /vʊnd̥ ≠ vund̥**ə**/ : maintien d’un schwa final dans certains termes au sud (***<abbr title="soleil">Sunn</abbr>, <abbr title="plaie">Wund</abbr>, <abbr title="savon">Saif</abbr> ≠ Sunnä, Wundä, Saifä***).
+- ⑯ /kʰɪ**ʁ**iʃ, kʰɪ**ʁ**əχ ≠ kʰɪ**l**χə, χɪ**l**χə/ : prononciation spéciale du mot *<abbr title="église">Kirich/Kirech</abbr>* avec un /l/ au sud : ***Kilchä/Chilchä***.
 
 (Source : Matzen, Raymond et Perret, Roland. (2012) *2000 dictons et proverbes d’Alsace : dictionnaire alsacien-français*. Le Verger.)
 ![[_files/maps/3 Matzen - carte isoglosses.png]]

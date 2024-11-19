@@ -5,7 +5,7 @@ Les synonymes d’origines germanique ont généralement un sens plus précis, t
 | Alsacien               | Français                                   | Synonyme d’origine germanique |
 | ---------------------- | ------------------------------------------ | ----------------------------- |
 | schwasiere             | choisir                                    | wêhle                         |
-| schanschiere           | changer                                    | ändere, wäxle                 |
+| schanschiere           | changer                                    | ändere, wägsle                |
 | expliziere             | expliquer                                  | erklêre                       |
 | reschpäktiere          | respecter                                  |                               |
 | schèniere              | gêner                                      | schteere                      |

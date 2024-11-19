@@ -22,7 +22,7 @@ Les auxiliaires *sin* et *han* servent à former le [[Passé]] et le [[Passé an
 
 Les auxiliaires *wääre* et *sin* servent à former respectivement le [[Passif action]] et [[Passif état]] à l’aide d’un [[İnfinitif#Participe|participe]]. *Waare* sert également à former la modalité de l’hypothétique, l’expectation à l’aide d’un [[İnfinitif#Infinitif|infinitif]].
 
-L’auxiliaire *düen* sert à former le [[Présent « düen »]] à l’aide d’un [[İnfinitif#Infinitif|infinitif]].
+L’auxiliaire *düen* sert à former le [[Présent en « düen »]] à l’aide d’un [[İnfinitif#Infinitif|infinitif]].
 
 Les auxiliaires *düen* (ainsi que *gään* dans une zone autour de Colmar–Sélestat) servent également à former le [[Conditionnel]] s’ils sont conjugué au subjonctif et suivi d’un [[İnfinitif#Infinitif|infinitif]].
 

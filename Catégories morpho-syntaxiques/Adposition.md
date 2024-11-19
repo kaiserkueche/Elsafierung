@@ -33,3 +33,4 @@ Il existe trois type d’adpositions : les prépositions, postpositions et cir
 > - D Méthode immersive isch **im** <u>Franzeesche</u> **zergunschte** benutzt worre. %%!! oder zergunschte fum Frànzeesche %%
 > - S gibt e Krambôl **bis in** <u>d Gass</u> **nüss**.
 > - Ir selle èier Lääwe **fun** <u>Grund</u> **uf** bessere.
+> - **Fun** <u>dem Dœ</u> **aan** isch’s fer sy bschlosse gsin, dass se de Jeeses umbringe.

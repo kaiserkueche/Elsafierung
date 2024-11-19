@@ -19,7 +19,7 @@ Marquage de l’infinitif
 
 [[İnfinitif#Marquage de l’infinitif|Plus de détails]]
 
-|  Personne  |     Pronom      |   [[Régiolectes#Régiolectes\|{K}]] [[Régiolectes#Zones supra-régiolecte\|{BA}]]   |                   [[Régiolectes#Régiolectes\|{U}]]                   |                   [[Régiolectes|{S}]]                   |
+|  Personne  |     Pronom      |   [[Régiolectes#Régiolectes\|{K}]] [[Régiolectes#Zones supra-régiolecte\|{BA}]]   |                   [[Régiolectes#Régiolectes\|{U}]]                   |                   [[Régiolectes\|{S}]]                   |
 | :--------: | :-------------: | :--------: | :------------------------------------: | :------------------------------------: |
 | 1ʳᵉ p. sg. |       ich       |   **-∅**   |                                        |                                        |
 | 2ᵉ p. sg.  |       dü        |  **-sch**  |                                        |                                        |

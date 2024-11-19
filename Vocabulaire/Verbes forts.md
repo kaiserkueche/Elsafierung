@@ -30,7 +30,7 @@ Il existe plusieurs paradigmes d’inflexion :
 | <font color="#7852ee"><b>blüete</b></font>   | geblüete  | han                                    | blüet, blüetsch, blüet                                                                         | *saigner*                    |
 | <font color="#7852ee"><b>böie</b></font>     | geböie    | han                                    | böi, böisch, böit                                                                              | *construire*                 |
 | brôte                                        | gebrôte   | han                                    | brôt, brôtsch, brôt                                                                            | *cuire (à la poêle)*         |
-| <font color="#7852ee"><b>drœie</b></font>    | gedrœie   | han                                    | drœi, drœisch, drœit                                                                            | *menacer (drohen)*         |
+| <font color="#7852ee"><b>drœie</b></font>    | gedrœie   | han                                    | drœi, drœisch, drœit                                                                           | *menacer (drohen)*           |
 | fahre                                        | gfahre    | <font color="fb464c"><b>sin</b></font> | fahr, fahrsch, fahrt                                                                           | *conduire*                   |
 | falle                                        | gfalle    | <font color="fb464c"><b>sin</b></font> | fall, fallsch, fallt                                                                           | *tomber (rare, plutôt keie)* |
 | fange                                        | gfange    | han                                    | fang, fangsch, fangt                                                                           | *attraper*                   |
@@ -203,7 +203,7 @@ Il existe plusieurs paradigmes d’inflexion :
 
 | Infinitif | Participe | Aux.                                   | Prés.                      | Français                                                |
 | --------- | --------- | -------------------------------------- | -------------------------- | ------------------------------------------------------- |
-| düen      | gedoon    | han                                    | düe, düesch, düet          | *faire,<br>\[aux. du [[Présent « düen »\|prés. düen]]]* |
+| düen      | gedoon    | han                                    | düe, düesch, düet          | *faire,<br>\[aux. du [[Présent en « düen »\|prés. düen]]]* |
 | gehn      | gange     | <font color="fb464c"><b>sin</b></font> | geh, gehsch, geht          | *aller*                                                 |
 | leje      | gelääje   | <font color="fb464c"><b>sin</b></font> | lej, lejsch, lejt          | *être couché*                                           |
 | schtehn   | gschtange | <font color="fb464c"><b>sin</b></font> | schteh, schtehsch, schteht | *être debout*                                           |
