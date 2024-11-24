@@ -16,9 +16,9 @@ L’alphabet phonétique international[^2] (A.P.I.) sera utilisé pour noter les
 
 Un ***phonème*** est un son distinctif dans une langue comme indiqué ci-dessus et il s’écrit entre /slashes/. Par exemple en français, /ɑ̃/ écrit ⟨an, en⟩ et /a/ écrit ⟨a⟩ sont deux phonèmes différents car il existe des mots de sens différents qui se distinguent uniquement par /ɑ̃ ≠ a/ : *mange* et *mage*. Par contre, qu’on roule le ⟨r⟩ avec la langue \[r] ou qu’on fasse le raclement de gorge \[ʁ], prononciation la plus courante, un Français percevra le même son *r*. Ces variantes possibles pour un même phonème s’appellent des ***allophones*** et se notent entre \[crochets]. La manière de mettre à l’écrit ces sons, en gros l’orthographe, se note entre ⟨chevrons⟩ : on appelle cela un ***graphème*** (unité distinctive à l’écrit).
 
-Une ***diphtongue*** est en quelque sorte une « double voyelle » : c’est lorsque deux voyelles se suivent dans une même syllabe. En français, ⟨oi⟩ /wa/ est une diphtongue dans *moi, boire, loi* mais ⟨oua⟩ /u.a/ dans *il loua sa voiture* n’en est pas une car il s’agit de deux syllabes, à savoir *lou-a* et non pas *lwa*. ^bdd38e
+Une ***diphtongue*** est en quelque sorte une « double voyelle » : c’est lorsque deux voyelles se suivent dans une même syllabe. En français, ⟨oi⟩ /wa/ est une diphtongue dans *moi, boire, loi* mais ⟨oua⟩ /u.a/ dans *il loua sa voiture* n’en est pas une car il s’agit de deux syllabes, à savoir *lou-a* et non pas *lwa*.
 
-La ***monophtongaison*** est lorsqu’une diphtongue se transforme en voyelle simple, souvent longue. Par exemple, ce qu’on écrit ⟨ai, au⟩ en français étaient anciennement des diphtongues prononcées *aï, aou* mais sont aujourd’hui prononcés comme *è, o*. ^a98c8f
+La ***monophtongaison*** est lorsqu’une diphtongue se transforme en voyelle simple, souvent longue. Par exemple, ce qu’on écrit ⟨ai, au⟩ en français étaient anciennement des diphtongues prononcées *aï, aou* mais sont aujourd’hui prononcés comme *è, o*.
 
 Une consonne peut être ***sourde*** ou ***voisée***. La consonne *sourde* se prononce sans activer les plis vocaux (ou « corde vocale ») : essayez de tenir un long *sss* et mettez votre main sur la pomme d’Adam, vous ne sentirez aucune vibration. Si vous le transformez en *zzz*, vous sentirez une vibration : c’est une consonne *voisée* qui se prononce en activant les plis vocaux.
 
@@ -33,7 +33,7 @@ Les exemples sont de manière générale dans mon parler (bas-alémanique du nor
 L’alsacien a un système d’accentuation similaire aux autres langues germaniques comme l’allemand ou l’anglais. Globalement, l’accent tonique tombe sur la première syllabe du radical du mot, donc s’il y a un préfixe, l’accent reste au même endroit que sans le préfixe. Voici plusieurs exemples dans lesquels la syllabe accentuée est en gras : *<abbr title="être debout">**schtehn**</abbr>, <abbr title="comprendre">fer**schtehn**</abbr>, <abbr title="choses">**Dings**</abbr>, <abbr title="trucs">Ge**dings**</abbr>, <abbr title="insulter">be**lëi**dige</abbr>, <abbr title="marrant">ge**lung**e</abbr>*.
 
 - Pour les termes d’origine germanique, les seules voyelles possibles hors accent sont le schwa /ə/ écrit ⟨e⟩ et le /i/ écrit ⟨i⟩, comme illustré ci-dessus.
-- Dans les emprunts, toutes les autres voyelles sont possibles mais seront toujours brèves (= courtes) hors de l’accent : *<abbr title="français">Fran**zeesch**</abbr>, <abbr title="capable">ka**paa**wel</abbr>, <abbr title="catastrophe">Kata**schtroof**</abbr>*.
+- Dans les emprunts, toutes les autres voyelles sont possibles mais seront toujours brèves (= courtes) hors de l’accent : *<abbr title="français">Fran**zeesch**</abbr>, <abbr title="Paris">Ba**rys**</abbr>, <abbr title="capable">ka**paa**wel</abbr>, <abbr title="catastrophe">Kata**schtroof**</abbr>*.
 - L’accent tonique tombe souvent sur la dernière syllabe ou l’avant-dernière dans les emprunts, spécialement dans les verbes formés avec le suffixe *-iere*, pour lesquels l’accent tombe toujours sur le suffixe : *<abbr title="choisir">schwa**sie**re</abbr>, <abbr title="changer">schan**schie**re</abbr>, <abbr title="expliquer">expli**zie**re</abbr>, <abbr title="décider">desi**die**re</abbr>*.
 - Dans les mots composés qui s’écrivent souvent sans espace, chaque partie garde son intonation d’origine : *<abbr title="linguistique">Schpr**oo**chw**i**ssesch**a**ft</abbr>* est composé de *Schprooch, wisse* et *-schaft* donc seul le ⟨e⟩ de *wisse* n’est pas accentué, ou encore *<abbr title="occasion (dans le sens : avoir l’occasion de faire qc.)">Gel**ää**jeh**ëi**t</abbr>* composé de *gelääje* et *-hëit*.
 
@@ -107,28 +107,28 @@ J’ai donc retenu 25 consonnes + 5 combinaisons de consonnes (les affriquées s
 
 **Les consonnes occlusives**
 
-|    Lettre    |  Son   | Exemples                                        |
-| :----------: | :----: | ----------------------------------------------- |
-|   **b, p**   | **b̥** | Babyyr, Schlappe                                |
+|    Lettre    |  Son   | Exemples                                              |
+| :----------: | :----: | ----------------------------------------------------- |
+|   **b, p**   | **b̥** | Babyyr, Schlappe                                      |
 |  **bh, p**   | **pʰ** | packe, bhalte • Pund [[Régiolectes#Régiolectes\|{K}]] |
-|   **d, t**   | **d̥** | Disch, Wält, Daatum                             |
-|  **dh, t**   | **tʰ** | Tee, dhëëm                                      |
-| **g, k, ck** | **ɡ̊** | Gass, klëën, gücke, hucke                       |
-|  **gh, k**   | **kʰ** | Kass, kéie, ghet, ghulfe                        |
+|   **d, t**   | **d̥** | Disch, Wält, Daatum                                   |
+|  **dh, t**   | **tʰ** | Tee, dhëëm                                            |
+| **g, k, ck** | **ɡ̊** | Gass, klëën, gücke, hucke                             |
+|  **gh, k**   | **kʰ** | Kass, kéie, ghet, ghulfe                              |
 
 **Les consonnes fricatives**
 
-|         Lettre         |                                       Son                                       | Exemples                                                                                     |
-| :--------------------: | :-----------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------- |
-|         **f**          |                                      **f**                                      | finde, Fœjel, Klafier, Lefyte                                                                |
-|        **w, v**        |                                      **ʋ**                                      | awer, Mêwel, Video, Velo                                                                     |
-|         **s**          |                                      **s**                                      | Sunn, groos, ässe                                                                            |
-|        **sch**         |                                      **ʃ**                                      | schaffe, schunsch                                                                            |
-| **ch [[#^1739a1\|*]]** | **ç~ʃ – χ** [[Régiolectes#Zones supra-régiolecte\|{BAN}]] •<br>**χ** [[Régiolectes#Zones supra-régiolecte\|{AS}]] | ich, Büch – koche, aacht • ich [[Régiolectes#Zones supra-régiolecte\|{AS}]]• Ching [[Régiolectes#Régiolectes\|{S}]] |
-|         **r**          |                                      **ʁ**                                      | richti, Dräck                                                                                |
-|         **h**          |                                      **h**                                      | Haas, han                                                                                    |
-|         **l**          |                                      **l**                                      | lüeje, Liecht                                                                                |
-|         **j**          |                                      **j**                                      | Jääjer, frööje                                                                               |
+|                        Lettre                         |                                                        Son                                                        | Exemples                                                                                                            |
+| :---------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------- |
+|                         **f**                         |                                                       **f**                                                       | finde, Fœjel, Klafier, Lefyte                                                                                       |
+|                       **w, v**                        |                                                       **ʋ**                                                       | awer, Mêwel, Video, Velo                                                                                            |
+|                         **s**                         |                                                       **s**                                                       | Sunn, groos, ässe                                                                                                   |
+|                        **sch**                        |                                                       **ʃ**                                                       | schaffe, schunsch                                                                                                   |
+| **ch [[#2.2 Remarques pour certaines consonnes\|*]]** | **ç~ʃ – χ** [[Régiolectes#Zones supra-régiolecte\|{BAN}]] •<br>**χ** [[Régiolectes#Zones supra-régiolecte\|{AS}]] | ich, Büch – koche, aacht • ich [[Régiolectes#Zones supra-régiolecte\|{AS}]]• Ching [[Régiolectes#Régiolectes\|{S}]] |
+|                         **r**                         |                                                       **ʁ**                                                       | richti, Dräck                                                                                                       |
+|                         **h**                         |                                                       **h**                                                       | Haas, han                                                                                                           |
+|                         **l**                         |                                                       **l**                                                       | lüeje, Liecht                                                                                                       |
+|                         **j**                         |                                                       **j**                                                       | Jääjer, frööje                                                                                                      |
 
 **Les consonnes syllabiques**
 
@@ -175,6 +175,8 @@ J’ai donc retenu 25 consonnes + 5 combinaisons de consonnes (les affriquées s
 
 ## 2.2 Remarques pour certaines consonnes
 
+**⟨ch⟩** se prononce systématiquement en ach-Laut **/χ/** dans la moitié sur de l’Alsace [[Régiolectes#Zones supra-régiolecte|{AS}]]. Au nord, sa prononciation alterne entre le ich-Laut **/ç/** ou **/ʃ/**[^4] et le ach-Laut **/χ/** selon la voyelle précédente : **/χ/** lorsque précédé de **⟨ä, a, o, u⟩** (/a, ɒ, o, ʊ, u/) et **/c~ʃ/** dans les autres cas y compris après une consonne (*manchmool*). Il s’agit de la frontière entre bas-alémanique du nord et du sud détaillée en [[A. « Alsacien »#3.3 Frontières entre les principaux groupes dialectaux|A.3.3]].
+
 **⟨x⟩ et ⟨gs⟩** sont en répartition libre : je privilégie ⟨gs⟩ lorsqu’il alterne avec ⟨ch⟩ comme dans ***<abbr title="six">segs</abbr> → <abbr title="soixante">säächzich</abbr>***. Idem pour ⟨gsch⟩ dans ***<abbr title="haut">hooch</abbr> → <abbr title="le plus haut">heegscht</abbr>***. Vous trouverez aussi souvent ⟨chsch⟩ pour \[ɡ̊ʃ] chez des scripteurs mais j’évite car on peut confondre avec \[χʃ] : ***<abbr title="tu fais">machsch</abbr> ≠ <abbr title="suivant">näächscht</abbr>*** \[χʃ ≠ ɡ̊ʃ].
 
 **⟨s⟩** est toujours prononcé sourd **\[s]** comme dans *ca**ss**er, **s**ilence* ; il n’est jamais prononcé voisé \[z] comme dans *ca**s**er, **z**èbre*. Les sons \[z] et \[ʒ] (⟨j⟩ de *jamais*) n’existent pas en alsacien et sont remplacés par ⟨s⟩ et ⟨sch⟩ dans les emprunts : ***<abbr title="gêner">schèniere</abbr>***.
@@ -188,8 +190,6 @@ J’ai donc retenu 25 consonnes + 5 combinaisons de consonnes (les affriquées s
 - Ce choix graphique peut, certes, bousculer les habitudes des germanophones, mais il permet, en outre, d’établir des liens avec des termes anglais dans de nombreux cas : ***<abbr title="peuple">Folik</abbr>, <abbr title="avancer">foorwärts</abbr>, <abbr title="oiseau">Föjel</abbr>*** (folk, forward, fowl).
 
 **⟨schp⟩ et ⟨scht⟩** se prononcent comme on s’y attend : **⟨chp, cht⟩**. Beaucoup de ceux qui écrivent en alsacien suivent la règle de l’allemand en écrivant seulement ⟨sp, st⟩ en début de mot, mais j’ai tranché ici pour une règle systématique pour faciliter la lecture.
-
-**⟨ch⟩** se prononce systématiquement en ach-Laut **/χ/** dans la moitié sur de l’Alsace [[Régiolecte|{AS}]]. Au nord, sa prononciation alterne entre le ich-Laut **/ç/** ou **/ʃ/**[^4] et le ach-Laut **/χ/** selon la voyelle précédente : **/χ/** lorsque précédé de **⟨ä, a, o, u⟩** (/a, ɒ, o, ʊ, u/) et **/c~ʃ/** dans les autres cas y compris après une consonne (*manchmool*). Il s’agit de la frontière entre bas-alémanique du nord et du sud détaillée en [[A. « Alsacien »#^573a2a|A.3.3]]. ^1739a1
 
 **/χ/ et /ʁ/** : Le /χ/ écrit ⟨ch⟩ se prononce toujours sourd. En revanche, le /ʁ/ écrit ⟨r⟩ est voisé avant une voyelle et sourd le reste du temps. Techniquement, ⟨Wasser⟩ se prononce donc \[vɒsəχ] et ⟨aart⟩ et ⟨aacht⟩ se prononcent de la même manière : \[ɒːχd̥]. Par contre, ⟨ryywe⟩ se prononce \[ʁiːvə].
 
@@ -223,7 +223,7 @@ Voici les détails d’écriture de ces occlusives :
 |         **i**         |                **ɪ – i [[#^bf40fd\|*]] •<br>i** [[Régiolectes#Régiolectes\|{U}]]                 | Kind, er bricht – fertig, intressant                                                                             |
 |       **ii/ih**       | **ɪː** [[Régiolectes#Zones supra-régiolecte\|{AS}]] •<br>**iː** [[Régiolectes#Régiolectes\|{U}]] | Schtiifel, siht, gsii [[Régiolectes#Zones supra-régiolecte\|{AS}]] • miid, Liib [[Régiolectes#Régiolectes\|{U}]] |
 |         **e**         |                                    **e – ə [[#^bf40fd\|*]]**                                     | Bett, het – bedanke, geloffe, Kranket                                                                            |
-|       **ee/eh**       |                   **eː •<br>ɪː** [[Régiolectes#Phénomènes phonétiques\|{ee}]]                    | scheen, gehn                                                                                                     |
+|       **ee/eh**       |                   **eː •<br>ɪː** [[Régiolectes#{ee} Fermeture de ⟨ee, oo⟩ en /ɪː/ et /ʊː/\|{ee}]]                    | scheen, gehn                                                                                                     |
 |         **ê**         |                       **eː** [[Régiolectes#Phénomènes phonétiques\|{ee}]]                        | Mêr, Hêfe, Gewênet                                                                                               |
 | **é** [[#^bf40fd\|*]] |                                              **ɪ**                                               | Bareblé • Maidlé %%zone???%%                                                                                     |
 | **è** [[#^bf40fd\|*]] |                                              **e**                                               | Käbinè, schèniere, kè, offizièl                                                                                  |
@@ -260,7 +260,7 @@ Voici les détails d’écriture de ces occlusives :
 - Voyelles ⟨o, u⟩ ![[_files/voice/08 voyelles o-u.mp3]]
 - Voyelles ⟨ü, ö, œ⟩ ![[_files/voice/09 voyelles ü-ö-œ.mp3]]
 
-> [!info] Concernant ⟨i, e, é, è⟩ et les sons /i, ɪ, e/.
+> [!info] ### Concernant ⟨i, e, é, è⟩ et les sons /i, ɪ, e/.
 > La lettre ⟨i⟩ se prononce /ɪ/ sous l’[[#İn.3 Accent tonique|accent tonique]] mais /i/ dans toute autre position, c’est-à-dire lorsqu’elle est non-accentué. De même, ⟨e⟩ se prononce /e/ sous l’accent, sinon /ə/.
 > 
 > Par conséquent, le son /i/ s’écrit ⟨y⟩ sous l’accent et ⟨i⟩ hors accent ; le son /ɪ/, ⟨i⟩ sous l’accent et ⟨é⟩ hors accent, et enfin le son /e/, ⟨e⟩ sous l’accent et ⟨è⟩ hors accent.
@@ -333,7 +333,7 @@ Juste pour les curieux, les règles relatives à la longueur vocalique en allema
 
 **⟨œ⟩** est toujours prononcé long sauf dans la diphtongue ⟨œi⟩. C’est donc une sorte d’exception à la règle de longueur vocalique fixée plus haut car ⟨œœ⟩ n’est pas très esthétique et la longueur n’a pas besoin d’être distinguée pour ce son. Vous rencontrerez également ⟨eu⟩ pour /œː/ ou /øː/ selon les scripteurs.
 
-**Répartition des phonèmes** : Certains parlers distinguent les mêmes phonèmes mais la répartition peut être différente. Par exemple, à Strasbourg on distingue /ɪː, eː, ɛː/ dans ***<abbr title="chanson">Lied</abbr>, <abbr title="lion">Leeb</abbr>, <abbr title="vie">Lëëwe</abbr>*** mais dans des parlers du Kochersberg, ces mêmes sons /ɪː, eː, ɛː/ se trouveront dans les termes ***<abbr title="lion">Leeb</abbr>, <abbr title="mer">Mêr</abbr>, <abbr title="chez soi">dhëëm</abbr>*** (voir aussi [[#^8c8083|section 4.]]). D’autres parlers ne distinguent que /ɪː, eː/ et n’ont pas /ɛː/ comme à Colmar pour ***<abbr title="lion">Leeb</abbr>, <abbr title="cloux/ongles">Nêjel</abbr>*** ou à Niederbronn-les-Bains pour ***<abbr title="lion">Leeb</abbr>, <abbr title="je +conditionnel">ich dêt</abbr>***. ^b6dc25
+**Répartition des phonèmes** : Certains parlers distinguent les mêmes phonèmes mais la répartition peut être différente. Par exemple, à Strasbourg on distingue /ɪː, eː, ɛː/ dans ***<abbr title="chanson">Lied</abbr>, <abbr title="lion">Leeb</abbr>, <abbr title="vie">Lëëwe</abbr>*** mais dans des parlers du Kochersberg, ces mêmes sons /ɪː, eː, ɛː/ se trouveront dans les termes ***<abbr title="lion">Leeb</abbr>, <abbr title="mer">Mêr</abbr>, <abbr title="chez soi">dhëëm</abbr>*** (voir aussi [[#4.3 Remarques concernant les diphtongues|section 4.3 ⟨ie⟩]]). D’autres parlers ne distinguent que /ɪː, eː/ et n’ont pas /ɛː/ comme à Colmar pour ***<abbr title="lion">Leeb</abbr>, <abbr title="cloux/ongles">Nêjel</abbr>*** ou à Niederbronn-les-Bains pour ***<abbr title="lion">Leeb</abbr>, <abbr title="je +conditionnel">ich dêt</abbr>***. ^b6dc25
 
 # 4. Les diphtongues
 
@@ -403,7 +403,7 @@ Notons que dans les autres positions hors de ces diphtongues, un ⟨j⟩ s’uti
 
 ## 4.2 Prononciation équivalente en français
 
-La variante **\[ɪː]** de ⟨ie⟩ est similaire à ⟨ee/eh⟩ pour la zone [[Régiolectes#Phénomènes phonétiques|{ee}]] dans la [[#^7f4fec|section 3.]] : il s’agit du même son intermédiaire entre le ⟨i⟩ et ⟨é⟩ français. Généralement, les parlers ayant /ɪː/ pour ⟨ee⟩ auront une autre prononciation pour ⟨ie⟩ afin de maintenir la distinction, mais il se peut que les deux se prononcent pareil, dans quel cas seul l’orthographe pourra distinguer *Leeb* de *Lieb.* 
+La variante **\[ɪː]** de ⟨ie⟩ est similaire à ⟨ee/eh⟩ pour la zone [[Régiolectes#Phénomènes phonétiques|{ee}]] dans la [[#3.2 Prononciation équivalente en français|section 3.2 /ɪ, ɪː/]] : il s’agit du même son intermédiaire entre le ⟨i⟩ et ⟨é⟩ français. Généralement, les parlers ayant /ɪː/ pour ⟨ee⟩ auront une autre prononciation pour ⟨ie⟩ afin de maintenir la distinction, mais il se peut que les deux se prononcent pareil, dans quel cas seul l’orthographe pourra distinguer *Leeb* de *Lieb.* 
 
 La variante **\[ʏː]** de ⟨üe⟩ équivaut à un son intermédiaire entre **⟨u⟩** de *pur* et **⟨eu⟩** de *feu, peureux*.
 
@@ -419,7 +419,7 @@ Pour les diphtongues ⟨ie, ia, üe, üa⟩, c’est la première partie ⟨i, �
 
 **⟨iej⟩ et ⟨üej⟩** s’écrivent toujours avec un ⟨j⟩.
 
-**⟨ie⟩** Le même son /ɪː/ peut s’écrire ⟨ee⟩ comme dans ***<abbr title="le lion">de Leeb</abbr>*** ou ⟨ie⟩ comme dans ***<abbr title="l’amour">d Lieb</abbr>*** selon les parlers (voir [[#^b6dc25|section 3.]]). C’est notamment pour ça que j’ai choisi de maintenir la graphie ⟨ie⟩ et ⟨üe⟩ également pour les variantes non-diphtonguées /ɪː, ʏː/ ou plus marginalement /eː, øː/. ^8c8083
+**⟨ie⟩** Le même son /ɪː/ peut s’écrire ⟨ee⟩ comme dans ***<abbr title="le lion">de Leeb</abbr>*** ou ⟨ie⟩ comme dans ***<abbr title="l’amour">d Lieb</abbr>*** selon les parlers (voir [[#3.3 Remarques pour certaines voyelles|section 3.3 Répartition des phonèmes]]). C’est notamment pour ça que j’ai choisi de maintenir la graphie ⟨ie⟩ et ⟨üe⟩ également pour les variantes non-diphtonguées /ɪː, ʏː/ ou plus marginalement /eː, øː/. ^8c8083
 
 **Le phonème /w/** : On trouve le phonème /w/ seulement dans deux cas de figure : après une voyelle pour former une diphtongue /aw, œw, œːw, aːw, ow/ dans ***<abbr title="femme">Frau</abbr>, <abbr title="maison (dans une partie de {U})">Hœus</abbr>, <abbr title="dire (à Meistratzheim)">sœue</abbr>, <abbr title="dire (forme archaïque de Strasbourg)">sääue</abbr>, <abbr title="grand (dans certains coins de {S})">grous</abbr>***. Seul /aw/ est très répandu, les autres diphtongues ne se trouvent que marginalement. Un autre cas de figure est la prononciation du groupe ⟨schw-⟩ dans ***<abbr title="nager">schwimme</abbr>, <abbr title="noir">schwarz</abbr>*** qui se prononce selon les parlers \[ʃv], \[ʃw], \[ʃʋ] (\[ʋ] équivaut à ⟨ça **v**a?⟩ quand on le prononce relaché).
 

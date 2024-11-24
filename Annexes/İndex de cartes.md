@@ -1,4 +1,4 @@
-# ⟨Naas⟩
+# ⟨Naas, schtarik⟩
 
 Le son *a* en moyen haut allemand est devenu ⟨a⟩ en alsacien. Dans certains environnements, cette voyelle s’est allongé en ⟨aa⟩ comme dans ***Naas, Haas, Graas, Graawe, fahre***. Dans ce cas-ci, certaines variétés, principalement du Kochersberg, ont fermé cette voyelle de /ɒː/ ⟨aa⟩ vers /oː/ ⟨ô⟩. Notons que la distinction d’avec le *o* de ***schloofe, Schtroos*** est maintenu, car ce dernier se prononce /ʊː/ dans ces variétés.
 
@@ -9,7 +9,7 @@ Source : ALA Beyer 54 *Nase* + 25 *stark* ; Wenker 554 *gefahren,* 360 *Nach
 
 # ⟨gehn/geh/goh⟩ infinitif
 
-Une dizaine de verbes courants ne forment pas leur [[İnfinitif#Infinitif|infinitif]] avec ***-e***, mais avec ***-n*** ou ***-∅*** selon le cas. Sur cette carte, on trouve en outre la zone de frontière entre les variantes ***geh, schteh*** et ***goh, schtoh***. Cette dernière est issue du mha. *gân, stân,* variante typiquement alémanique, tandis que la première est issue d’un autre étymon proche *gên, stên*, typiquement francique mais qui a gagné en terrain au fil du temps jusqu’à devenir la forme majoritaire en bas-alémanique.
+Une dizaine de verbes courants ne forment pas leur [[İnfinitif|infinitif]] avec ***-e***, mais avec ***-n*** ou ***-∅*** selon le cas. Sur cette carte, on trouve en outre la zone de frontière entre les variantes ***geh, schteh*** et ***goh, schtoh***. Cette dernière est issue du mha. *gân, stân,* variante typiquement alémanique, tandis que la première est issue d’un autre étymon proche *gên, stên*, typiquement francique mais qui a gagné en terrain au fil du temps jusqu’à devenir la forme majoritaire en bas-alémanique.
 
 Source : ALA Beyer 197 *gehen* + Wenker 167 *gehen*.
 ![[ala 197 gehn.png]]

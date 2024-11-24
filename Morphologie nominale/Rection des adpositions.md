@@ -12,54 +12,54 @@ tags:
 # Adpositions régissant le direct
 
 > [!example]- Courant
-> - bis ^[(jusqu’à)]
-> - durich • duerch [[Régiolectes#Zones supra-régiolecte|{FR}]] • durr [[Régiolectes#Zones supra-régiolecte|{AS}]] ^[(à travers)]
-> - fer • fuer [[Régiolectes#Régiolectes|{K}]] ^[(pour)]
-> - ohne ^[(sans)]
+> - <abbr title="jusqu’à">bis</abbr>
+> - <abbr title="à travers">durich</abbr> • duerch [[Régiolectes#Zones supra-régiolecte|{FR}]] • durr [[Régiolectes#Zones supra-régiolecte|{AS}]]
+> - <abbr title="pour">fer</abbr> • fuer [[Régiolectes#Régiolectes|{K}]]
+> - <abbr title="sans">ohne</abbr>
 
 > [!example]- Rare
 > - jee
 > - per
 > - pro
-> - um … erum ^[(autour de)]
-> - um (pour donner l’heure, plutôt : àm ^[obl])
+> - <abbr title="autour de">um … erum</abbr>
+> - um (pour donner l’heure, plutôt : am <sup>obl</sup>)
 > - … wider
 
 # Adpositions régissant l’oblique
 
 > [!example]- Courant
-> - by • bai/bëi [[Régiolectes#Régiolectes|{U}]]^[(chez)]}]]
-> - fu(n) ^[(de)]
-> - geje • geege [[Régiolectes#Phénomènes phonétiques|{g}]] [[Régiolectes#Régiolectes|{U}]] • gëje [[Régiolectes#Régiolectes|{İ}]] ^[(contre)]
-> - mit ^[(avec)]
-> - nooch • noo [[Régiolectes#Zones supra-régiolecte|{AS}]] ^[(après)]
-> - üs • aus/œus [[Régiolectes#Régiolectes|{U}]] ^[(de)]
-> - üsser • ausser/œusser [[Régiolectes#Régiolectes|{U}]] ^[(sauf, hors de)]
-> - wäje • wëje [[Régiolectes#Zones supra-régiolecte|{FR}]] • wäge [[Régiolectes#Phénomènes phonétiques|{g}]] ^[(à cause de)]
-> - zitter • sitter [[Régiolectes#Régiolectes|{N}]] • syter [[Régiolectes#Zones supra-régiolecte|{AS}]] ^[(depuis)]
-> - züe • zu [[Régiolectes#Zones supra-régiolecte|{FR}]] • zü [[Régiolectes#Zones infra-régiolecte|{Ksbg}]] ^[(vers, chez)]
+> - <abbr title="chez">by</abbr> • bai/bëi [[Régiolectes#Régiolectes|{U}]]
+> - <abbr title="de (possession)">fu(n)</abbr>
+> - <abbr title="contre">geje</abbr> • geege [[Régiolectes#Phénomènes phonétiques|{g}]] [[Régiolectes#Régiolectes|{U}]] • gëje [[Régiolectes#Régiolectes|{İ}]]
+> - <abbr title="avec">mit</abbr>
+> - <abbr title="après">nooch</abbr> • noo [[Régiolectes#Zones supra-régiolecte|{AS}]]
+> - <abbr title="de (origine)">üs</abbr> • aus/œus [[Régiolectes#Régiolectes|{U}]]
+> - <abbr title="sauf, hors de">üsser</abbr> • ausser/œusser [[Régiolectes#Régiolectes|{U}]]
+> - <abbr title="à cause de">wäje</abbr> • wëje [[Régiolectes#Zones supra-régiolecte|{FR}]] • wäge [[Régiolectes#Phénomènes phonétiques|{g}]]
+> - <abbr title="depuis">zitter</abbr> • sitter [[Régiolectes#Régiolectes|{N}]] • syter [[Régiolectes#Zones supra-régiolecte|{AS}]]
+> - <abbr title="vers, chez">züe</abbr> • zu [[Régiolectes#Zones supra-régiolecte|{FR}]] • zü [[Régiolectes#Zones infra-régiolecte|{Ksbg}]]
 
 > [!example]- Rare
-> - fun … ab %% quand c préverbe c’est ô [[Régiolectes#Zones infra-régiolecte|{Ksbg}]] %% ^[(à partir de)] • ab (plus rare)
+> - <abbr title="à partir de">fun … ab</abbr> %% quand c préverbe c’est ô [[Régiolectes#Zones infra-régiolecte|{Ksbg}]] %% • ab (plus rare)
 > - … entgeje
-> - … gejeniwer (plutôt : gejeniwer fun ^[obl], vis-a-vis fun ^[obl])
+> - … gejeniwer (plutôt : gejeniwer fun <sup>obl</sup>, vis-a-vis fun <sup>obl</sup>)
 > - innerhalb fun
 > - samt
 > - trotz
 > - üsserhalb fun
-> - währe(d) (plutôt : iwer ^[obl])
+> - währe(d) (plutôt : iwer <sup>obl</sup>)
 > - … zelieb
 > - … zegüet
 
 # Adpositions mixtes
 
 > [!example]- Liste
-> - aan • aa [[Régiolectes#Phénomènes phonétiques|{n-∅}]] • ôn [[Régiolectes#Phénomènes phonétiques|{ô}]] ^[(à)]
-> - fôr ^[(devant, avant)]
-> - hinder • hinger [[Régiolectes#Phénomènes phonétiques|{ng}]] ^[(derrière)]
-> - i(n) ^[(dans)]
-> - iwer • iber [[Régiolectes#Régiolectes|{S}]] ^[(au-dessus)]
-> - nääwe • nëwe [[Régiolectes#Phénomènes phonétiques|{ä}]] • nääbe [[Régiolectes#Régiolectes|{S}]] • newe [[Régiolectes#Zones infra-régiolecte|{Ksbg}]] ^[(à côté de)]
-> - uf • üf [[Régiolectes#Régiolectes|{S}]] • auf/œuf [[Régiolectes#Régiolectes|{U}]] ^[(sur)]
-> - under • inger/unger [[Régiolectes#Phénomènes phonétiques|{ng}]] ^[(sous)]
-> - zwische • zwischte [[Régiolectes#Zones infra-régiolecte|{Mnstr}]] ^[(entre)]
+> - <abbr title="à">aan</abbr> • aa [[Régiolectes#Phénomènes phonétiques|{n-∅}]] • ôn [[Régiolectes#{ô} Fermeture du ⟨aa⟩ long en ⟨ô⟩ /oː/|{ô}]]
+> - <abbr title="devant, avant">fôr</abbr>
+> - <abbr title="derrière">hinder</abbr> • hinger [[Régiolectes#Phénomènes phonétiques|{ng}]]
+> - <abbr title="dans">i(n)</abbr>
+> - <abbr title="sur, au-dessus">iwer</abbr> • iber [[Régiolectes#Régiolectes|{S}]]
+> - <abbr title="à côté de">nääwe</abbr> • nëwe [[Régiolectes#Phénomènes phonétiques|{ä}]] • nääbe [[Régiolectes#Régiolectes|{S}]] • newe [[Régiolectes#Zones infra-régiolecte|{Ksbg}]]
+> - <abbr title="sur">uf</abbr> • üf [[Régiolectes#Régiolectes|{S}]] • auf/œuf [[Régiolectes#Régiolectes|{U}]]
+> - <abbr title="sous">under</abbr> • inger/unger [[Régiolectes#Phénomènes phonétiques|{ng}]]
+> - <abbr title="entre">zwische</abbr> • zwischte [[Régiolectes#Zones infra-régiolecte|{Mnstr}]]

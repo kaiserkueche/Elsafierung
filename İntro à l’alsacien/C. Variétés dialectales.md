@@ -40,7 +40,7 @@ Comme vous pouvez le constater, dire qu’*en « bas-rhinois » on dit « 
 
 ## 1.3. La monophtongaison
 
-Les deux cartes ci-dessous présentent une autre variante importante : la [[B. Prononciation#^a98c8f|monophtongaison]] de l’allemand moyen. Pour faire simple, en moyen haut allemand, il existait des [[B. Prononciation#^bdd38e|diphtongues]] ***uo, üe, ie*** /uə̯, yə̯, iə̯/ qui sont devenues respectivement ***üe, ie, ie*** /yə̯, iə̯, iə̯/ dans la majorité des dialectes alémaniques d’Alsace. Dans les dialectes franciques, ces diphtongues se sont monophtonguées (elles sont devenues des voyelles simples) en ***uu, ii, ii*** /ʊː, ɪː, ɪː/ en francique rhénan et ***uu, ii, ii*** /uː, iː, iː/ en francique rhénan méridional. Pour illustrer :
+Les deux cartes ci-dessous présentent une autre variante importante : la [[B. Prononciation#İn.1 Terminologie|monophtongaison]] de l’allemand moyen. Pour faire simple, en moyen haut allemand, il existait des [[B. Prononciation#İn.1 Terminologie|diphtongues]] ***uo, üe, ie*** /uə̯, yə̯, iə̯/ qui sont devenues respectivement ***üe, ie, ie*** /yə̯, iə̯, iə̯/ dans la majorité des dialectes alémaniques d’Alsace. Dans les dialectes franciques, ces diphtongues se sont monophtonguées (elles sont devenues des voyelles simples) en ***uu, ii, ii*** /ʊː, ɪː, ɪː/ en francique rhénan et ***uu, ii, ii*** /uː, iː, iː/ en francique rhénan méridional. Pour illustrer :
 
 - ***<abbr title="bien, bon">guot</abbr>, <abbr title="chaise">stuol</abbr> ; <abbr title="fatigué">müede</abbr>, <abbr title="effort">müeje</abbr> ; <abbr title="chanson">liet</abbr>, <abbr title="amour">liep</abbr>*** en mha. sont devenus :
 - ***güet, Schtüel ; mied, Miej ; Lied, lieb /yə̯, iə̯/*** en alémanique
@@ -119,9 +119,9 @@ La dernière variante est ⟨**åi**⟩ /ɒj/ représentée par des pointillés.
 (Source : Beyer,[^1] 1964, p. 26)
 ![[_files/maps/3 Beyer - vrouw.png]]
 
-## 1.6. L’adoucissement du ⟨g⟩ après mha. *a*
+## 1.6. L’adoucissement du ⟨g⟩ après mha. a
 
-Le titre parait compliqué, mais en vrai ça va. Dans la [[#^f3ba76|section 1.]], on a vu que le /ɡ̊/ s’adoucit en \[j] de manière générale en milieu et fin de mot en bas-alémanique du nord et en francique rhénan (et en \[χ] en méridional). On a donc ***<abbr title="regarder">lüege</abbr>, <abbr title="chemin">Wääg</abbr>, <abbr title="contre">geege</abbr>, <abbr title="à cause de, parce que">wäge</abbr>*** qui devient ***lüeje, Wääj/Wëëj, geje, wäje/wëje***.
+Le titre parait compliqué, mais en vrai ça va. Dans la [[#1. Les isophones|section 1. point ⑥]], on a vu que le /ɡ̊/ s’adoucit en \[j] de manière générale en milieu et fin de mot en bas-alémanique du nord et en francique rhénan (et en \[χ] en méridional). On a donc ***<abbr title="regarder">lüege</abbr>, <abbr title="chemin">Wääg</abbr>, <abbr title="contre">geege</abbr>, <abbr title="à cause de, parce que">wäge</abbr>*** qui devient ***lüeje, Wääj/Wëëj, geje, wäje/wëje***.
 
 En revanche, quand ce /ɡ̊/ vient après ⟨a, aa⟩ (mha. *a*), il existe une plus grande variation phonétique. Je retiens 6 variantes principales visibles sur la carte ci-dessous :
 
@@ -137,7 +137,7 @@ En revanche, quand ce /ɡ̊/ vient après ⟨a, aa⟩ (mha. *a*), il existe une 
 
 ## 1.7. Prononciation de ⟨ee⟩ et ⟨oo⟩
 
-Les sons que j’ai choisi d’écrire ⟨ee, eh⟩ et ⟨oo, oh⟩ peuvent se prononcer de deux manières différentes comme vous l’aviez sans doute remarqué en [[B. Prononciation#^bf9fe7|B.3.]]. Les sons écrits ⟨ee, eh⟩ correspondent au mha. ⟨e, ö, ê, œ⟩, tandis que ⟨oo, oh⟩ correspond au mha. ⟨o, ô, â⟩.
+Les sons que j’ai choisi d’écrire ⟨ee, eh⟩ et ⟨oo, oh⟩ peuvent se prononcer de deux manières différentes comme vous l’aviez sans doute remarqué en [[B. Prononciation#3.3 Remarques pour certaines voyelles|B.3.3 ⟨ee⟩ et ⟨oo⟩]]. Les sons écrits ⟨ee, eh⟩ correspondent au mha. ⟨e, ö, ê, œ⟩, tandis que ⟨oo, oh⟩ correspond au mha. ⟨o, ô, â⟩.
 
 Dans les variétés coloriées en <font color="#0d22ff">bleu</font> sur les cartes, ils seront toujours prononcés /**eː**/ et /**oː**/. Celles-ci n’auront donc pas besoin de différencier ⟨ee, oo ≠ ê, ô⟩ à l’écrit car elles n’ont qu’une variante. Il s’agit des zones franciques, de Strasbourg ainsi que d’une majorité de la zone au sud de Colmar.
 
@@ -196,7 +196,7 @@ Je vous laisse découvrir encore d’autres isophones que je n’ai pas détaill
 - ① /**z**aw ≠ **s**aw/ : il s’agit du son \[z] de *zèbre* qui existe avant les voyelles dans une petite zone à l’ouest.
 - ② /**tʰ**ʊʁm ≠ **d̥**ʊʁm/ : maintien de /tʰ/ fortis en début de mot dans certains termes à l’ouest.
 - ⑦ /b̥l**ø**ːj ≠ b̥l**o**ːj/ : phonème /oː/ prononcé \[øː] devant /j/ au nord (***<abbr title="demander">frööje</abbr>, <abbr title="bleu">blööi</abbr>, <abbr title="construire">böie</abbr> ≠ frooje/frooge, blooi/blååi, boiä).
-- ⑧ /ɡ̊eː**n** ≠ ɡ̊eː/ : maintien du /n/ dans certains verbes à l’infinitif au nord (***<abbr title="être">sin</abbr>, <abbr title="aller">gehn</abbr>, <abbr title="donner">gään</abbr> ≠ sii, geh, gää***). (plus de détail à [[İnfinitif#Infinitif|Infinitif]]).
+- ⑧ /ɡ̊eː**n** ≠ ɡ̊eː/ : maintien du /n/ dans certains verbes à l’infinitif au nord (***<abbr title="être">sin</abbr>, <abbr title="aller">gehn</abbr>, <abbr title="donner">gään</abbr> ≠ sii, geh, gää***). (plus de détail à [[İnfinitif]]).
 - ⑩ /vi**n** ≠ viː/ : maintien du /n/ en fin de mot dans certains termes au nord (***<abbr title="s’endormir">ynschloofe</abbr>, <abbr title="vin">Wyn</abbr> ≠ yyschloofä, Wyy***).
 - ⑬ /d̥**o**ʁf ≠ d̥**oː**ʁf/ : allongement de la voyelle dans certains termes au sud (***<abbr title="village">Dorf</abbr>, <abbr title="mot">Wort</abbr>, <abbr title="botte">Schtifel</abbr> ≠ Doorf, Woort, Schtiifel***).
 - ⑭ /vʊnd̥ ≠ vund̥**ə**/ : maintien d’un schwa final dans certains termes au sud (***<abbr title="soleil">Sunn</abbr>, <abbr title="plaie">Wund</abbr>, <abbr title="savon">Saif</abbr> ≠ Sunnä, Wundä, Saifä***).
