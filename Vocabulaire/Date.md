@@ -1,6 +1,6 @@
 # Jours de la semaine
 
-|              |   {İ}          |      {AS}      |  {K}       |
+|              |   {İ}       |     {AS}   |  {K}    |
 | ------------ | ----------- | ---------- | ------- |
 | Moondaa      | Määndi      | Määndig    | Mëëndaa |
 | Dyynschdaa   | Zyschdi     | Zyschtig   |         |
@@ -23,7 +23,7 @@
 | Jüüni                              |           |               |
 | Jüüli                              |           |               |
 | Augscht, Œigscht, Oigscht, Åigscht |           |               |
-| Septämber                          | Sèptëmber |               |
+| Septämber                          | Septëmber |               |
 | Oktôwer                            |           |               |
 | Novämber                           | Novëmber  |               |
 | Dèzämber                           | Dèzëmber  |               |

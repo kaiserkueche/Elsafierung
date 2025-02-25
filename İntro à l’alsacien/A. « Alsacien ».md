@@ -1,7 +1,3 @@
----
-Title: A. « Alsacien »
----
-
 ![[whats als.png]]
 
 # 1. Halte aux idées reçues !
@@ -85,7 +81,7 @@ Si vous préférez une carte en couleur, voici trois autres versions :
 Pour finir, je vous laisse une dernière carte. Dans les explications qui suivront comme dans les discussions sur ce serveur, vous risquez de rencontrer des termes désignant des zones géographiques qui n’existent plus forcément de manière administrative aujourd’hui. Plusieurs dénominations seront fréquemment utilisées car des variétés dialectales contenant certaines spécificités y sont parlées. Je pense notamment au Kochersberg ou à l’Alsace bossue – krummes Elsass. ^ce64cb
 
 (Source : Département de dialectologie de l’Unistra)
-![[_files/maps/1 Unistra - carte orientation.png]] ^759800
+![[_files/maps/1 Unistra - carte orientation.png]]
 
 # 4. Représentations
 

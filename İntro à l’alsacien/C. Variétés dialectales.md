@@ -61,7 +61,7 @@ Les deux types de monophtongaisons ne sont pas différenciés sur la carte de l�
 (Source : Beyer,[^1] 1964, p. 24)
 ![[_files/maps/3 Beyer - monophtongaison uo.png]]
 
-## 1.4. La diphtongue ⟨ai/äi⟩
+## 1.4. La diphtongue ⟨ai/ëi⟩
 
 La diphtongue issue du mha. *ei, öu* est devenue ⟨**ai**⟩ /aj/ (comme fr. _**ai**l_) dans la majorité des variétés en Alsace et est représentée par des barres verticales sur la carte ci-dessous. Cette diphtongue peut être monophtonguée en ⟨aa⟩ \[aː] généralement devant /m, n, l/ dans certains parlers de Basse-Alsace comme illustré dans le deuxième exemple :
 
