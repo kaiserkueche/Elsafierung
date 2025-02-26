@@ -12,7 +12,7 @@ Un verbe utilisé en tant qu’auxiliaire perd son sens propre et devient un sup
 > - han, haa
 > - wääre, wëre, wäärde
 > - düen, düe (+ gään, gää)
-> - krieje [[X. Annexes/Régiolectes#^b51bca|{K,U,N}]], bekumme, bykuu
+> - krieje [[Z. Annexes/Régiolectes#^b51bca|{K,U,N}]], bekumme, bykuu
 
 
 > [!example] Liste des auxiliaires modaux

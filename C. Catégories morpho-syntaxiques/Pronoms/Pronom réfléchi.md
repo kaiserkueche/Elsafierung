@@ -3,22 +3,68 @@ tags:
   - pronom
 ---
 
-# Forme tonique
+## Forme tonique
 
-| Personne          | Obj.  | Obl. |
-| :---------------- | :---: | :--: |
-| **1ʳᵉ sg.**       | mich  | mir  |
-| **2ᵉ sg.**        | dich  | dir  |
-| **3ᵉ sg. & pl.**   | sich  | <    |
-| **2ᵉ pl.**        | uns   | <    |
-| **2ᵉ pl.**        | éich  | <    |
+<table>
+	<tr>
+		<th>Personne</th>
+		<th>Dir.</th>
+		<th>Obl.</th>
+	</tr>
+	<tr>
+		<td>1ʳᵉ sg.</td>
+		<td>mich</td>
+		<td>mir</td>
+	</tr>
+	<tr>
+		<td>2ᵉ sg.</td>
+		<td>dich</td>
+		<td>dir</td>
+	</tr>
+	<tr>
+		<td>3ᵉ sg. & pl.</td>
+		<td colspan=2>sich</td>
+	</tr>
+	<tr>
+		<td>1ʳᵉ pl.</td>
+		<td colspan=2>uns</td>
+	</tr>
+	<tr>
+		<td>2ᵉ pl.</td>
+		<td colspan=2>éich</td>
+	</tr>
+</table>
 
-# Forme atone
+## Forme atone
 
-| Personne          | Obj.  | Obl. |
-| :---------------- | :---: | :--: |
-| **1ʳᵉ sg.**       | mi  | m’r  |
-| **2ᵉ sg.**        | di  | d’r  |
-| **3ᵉ sg. & pl.**   | si  | <    |
-| **2ᵉ pl.**        | uns (is)   | <    |
-| **2ᵉ pl.**        | éich (ni)  | <    |
+<table>
+	<tr>
+		<th>Personne</th>
+		<th>Dir.</th>
+		<th>Obl.</th>
+	</tr>
+	<tr>
+		<td>1ʳᵉ sg.</td>
+		<td>mi</td>
+		<td>m’r</td>
+	</tr>
+	<tr>
+		<td>2ᵉ sg.</td>
+		<td>di</td>
+		<td>d’r</td>
+	</tr>
+	<tr>
+		<td>3ᵉ sg. & pl.</td>
+		<td colspan=2>si</td>
+	</tr>
+	<tr>
+		<td>1ʳᵉ pl.</td>
+		<td colspan=2>is</td>
+	</tr>
+	<tr>
+		<td>2ᵉ pl.</td>
+		<td colspan=2>ni</td>
+	</tr>
+</table>
+
+# Exemples

@@ -1,9 +1,10 @@
 IMG
 
-Dossier (gauche)
+Dossier (gauche) progression graduelle
 Graph (droite)
-ToC (droite)
+ToC (droite) au sein des sections
 backlinks
+Tag
 
 # Les sections
 
