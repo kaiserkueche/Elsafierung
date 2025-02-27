@@ -33,7 +33,7 @@ Zone dans laquelle le son ⟨nd⟩ /nd̥/ s’est vélarisé en ⟨ng⟩ /ŋ/ un
 > 
 > D’autres verbes majoritairement en ***-ände*** se vélarisent, et en Alsace bossue on a en plus le changement vocalique ***-ënge***.
 > 
-> | Forme majoritaire | {İ,S,Mnstr} | [[Z. Annexes/Régiolectes#{ë} ⟨ë⟩ au lieu de ⟨ä⟩ pour mha. *ë,ä,æ*\|{ë}]] |
+> | Forme majoritaire | {İ,S,Mnstr} | [[Régiolectes#{ë} ⟨ë⟩ au lieu de ⟨ä⟩ pour mha. *ë,ä,æ*\|{ë}]] |
 > | ----------------- | ----------- | ------------------------------------------------------------- |
 > | (fer)blände       | ferblänge   | ferblënge                                                     |
 > | wände             | wänge       | wënge                                                         |

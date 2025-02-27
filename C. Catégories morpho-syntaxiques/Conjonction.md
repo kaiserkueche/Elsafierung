@@ -13,11 +13,11 @@ La conjonction prend la place 0, le verbe conjugué est en deuxième position (V
 > Ich hab nix gässe, **awer** ich <u>hab</u> ken hunger.
 
 > [!example]- Liste
-> - awer • aber [[Z. Annexes/Régiolectes#Régiolectes|{S}]]
-> - dänn • dënn [[Z. Annexes/Régiolectes#Phénomènes phonétiques|{ä}]] [[Z. Annexes/Régiolectes#Régiolectes|{S}]]
-> - doch
-> - odder
-> - un
+> - <abbr title="mais">awer</abbr> • aber [[Régiolectes#Régiolectes|{S}]]
+> - <abbr title="car">dänn</abbr> • dënn [[Régiolectes#Phénomènes phonétiques|{ä}]] [[Régiolectes#Régiolectes|{S}]]
+> - <abbr title="pourtant">doch</abbr>
+> - <abbr title="ou">odder</abbr>
+> - <abbr title="et">un</abbr>
 
 # Conjonction de subordination
 
@@ -25,45 +25,45 @@ Dans les propositions subordonnées, le verbe conjugué est en dernière positio
 > Ich hab nix gässe, **wyl** i ken Hunger <u>hab</u>.
 
 > [!example]- Liste
-> - (d)ass
-> - fer … ze
-> - ob, eb
-> - üsser wänn
-> - wänn • wann [[Z. Annexes/Régiolectes#Régiolectes|{İ}]] • wënn [[Z. Annexes/Régiolectes#Phénomènes phonétiques|{ä}]] [[Z. Annexes/Régiolectes#Régiolectes|{S}]] 
-> - wänn … œi
-> - wu, wi, wü <sup>(réparition en [[3. Variétés dialectales#2.2. _Où ?_ et pronom relatif|C.2.2.]])</sup>
-> - wie
-> - ==wäje==
-> - wyl
+> - (d)<abbr title="que">ass</abbr>
+> - <abbr title="pour">fer … ze</abbr>
+> - <abbr title="si (discours indirect)">ob</abbr>, eb
+> - <abbr title="sauf si">üsser wänn</abbr>
+> - <abbr title="si (condition)">wänn</abbr> • wann [[Régiolectes#Régiolectes|{İ}]] • wënn [[Régiolectes#Phénomènes phonétiques|{ä}]] [[Régiolectes#Régiolectes|{S}]] 
+> - <abbr title="bien que">wänn … œi</abbr>
+> - <abbr title="">wu</abbr>, wi, wü <sup>(réparition en [[3. Variétés dialectales#2.2. _Où ?_ et pronom relatif|C.2.2.]])</sup>
+> - <abbr title="">wie</abbr>
+> - <abbr title="parce que">==wäje==</abbr>
+> - <abbr title="parce que">wyl</abbr>
 
 > [!example]- Tous les composés avec *(d)ass* :
-> - allem dass
-> - anschtatt(s) ass
-> - bis ass
-> - dewylscht ass
-> - dodurich ass
-> - falls ass
-> - fer ass
-> - fôr/eh/eb ass
-> - nooch dass
-> - noochdem ass
-> - obwôhl ass
-> - trotzdem ass
-> - üsser dass
-> - zitter/sytter ass
+> - <abbr title="pendant que">allem dass</abbr>
+> - <abbr title="au lieu de">anschtatt(s) ass</abbr>
+> - <abbr title="jusqu’à ce que">bis ass</abbr>
+> - <abbr title="pendant que">dewylscht ass</abbr>
+> - <abbr title="ce faisant">dodurich ass</abbr>
+> - <abbr title="au cas ou">falls ass</abbr>
+> - <abbr title="pour que">fer ass</abbr>
+> - <abbr title="avant que">fôr/eh/eb ass</abbr>
+> - <abbr title="après que">nooch dass</abbr>
+> - <abbr title="après que">noochdem ass</abbr>
+> - <abbr title="bien que">obwôhl ass</abbr>
+> - <abbr title="néanmoins">trotzdem ass</abbr>
+> - <abbr title="sauf que">üsser dass</abbr>
+> - <abbr title="depuis que">zitter/sytter ass</abbr>
 
 > [!example]- Rare
-> - demit ass
-> - ohne dass/ze
-> - solang ass/wie
-> - sobaal ass/wie
-> - sofyl/sofeel ass/wie
-> - sowyt ass/wie
-> - sowie
-> - so …, ass
-> - zü …, fer ass
-> - nit so …, fer ass
-> - nit genüe …, fer ass
+> - <abbr title="étant donné que">(do)demit ass</abbr>
+> - <abbr title="sans que">ohne dass/ze</abbr>
+> - <abbr title="aussi longtemps que">solang ass/wie</abbr>
+> - <abbr title="dès que">sobaal ass/wie</abbr>
+> - <abbr title="autant que">sofyl/sofeel ass/wie</abbr>
+> - <abbr title="aussi loin que">sowyt ass/wie</abbr>
+> - <abbr title="tout comme">sowie</abbr>
+> - <abbr title="si … que">so …, ass</abbr>
+> - <abbr title="trop … pour que">zü …, fer ass</abbr>
+> - <abbr title="pas si … pour que">nit so …, fer ass</abbr>
+> - <abbr title="pas assez … pour que">nit genüe …, fer ass</abbr>
 
 # Adverbe conjonctif
 
@@ -71,28 +71,28 @@ Dans ce cas, l’adverbe prend la première position et le verbe conjugué se tr
 > Ich hab nix gässe, **also** <u>haw</u> i hunger.
 
 > [!example]- Liste
-> - allerdings
-> - also
-> - debyy • d’rbyy [[Z. Annexes/Régiolectes#Zones supra-régiolecte|{AS}]] • däbai/däbëi [[Z. Annexes/Régiolectes#Régiolectes|{U}]]
-> - dewääje • dewëëje [[Z. Annexes/Régiolectes#Phénomènes phonétiques|{ä}]] • d’rwääge [[Z. Annexes/Régiolectes#Phénomènes phonétiques|{g}]]
-> - drum
+> - <abbr title="en effet">allerdings</abbr>
+> - <abbr title="donc">also</abbr>
+> - <abbr title="pourtant">debyy</abbr> • d’rbyy [[Régiolectes#Zones supra-régiolecte|{AS}]] • däbai/däbëi [[Régiolectes#Régiolectes|{U}]]
+> - <abbr title="à cause de">dewääje</abbr> • dewëëje [[Régiolectes#Phénomènes phonétiques|{ä}]] • d’rwääge [[Régiolectes#Phénomènes phonétiques|{g}]]
+> - <abbr title="c’est pourquoi">drum</abbr>
 > - ==anderi da…?==
-> - fôrhäär • fôrhëër [[Z. Annexes/Régiolectes#Phénomènes phonétiques|{ä}]]
-> - genœisoo • genausoo [[Z. Annexes/Régiolectes#Régiolectes|{N}]] • gnoisoo [[Z. Annexes/Régiolectes#Zones supra-régiolecte|{AS}]]
-> - noh [[Z. Annexes/Régiolectes#Zones supra-régiolecte|{AN}]] • d’rnoh [[Z. Annexes/Régiolectes#Régiolectes|{M,E,S}]] • d’rnoht + nohtert [[Z. Annexes/Régiolectes#Phénomènes phonétiques|{ä}]]
-> - sunscht • schunsch
-> - üsserdem
-> - wie wann/wänn/wënn
-> - wäjedem, wägedäm
+> - <abbr title="avant">fôrhäär</abbr> • fôrhëër [[Régiolectes#Phénomènes phonétiques|{ä}]]
+> - <abbr title="tout comme">genœisoo</abbr> • genausoo [[Régiolectes#Régiolectes|{N}]] • gnoisoo [[Régiolectes#Zones supra-régiolecte|{AS}]]
+> - <abbr title="puis, après">noh</abbr> [[Régiolectes#Zones supra-régiolecte|{AN}]] • d’rnoh [[Régiolectes#Régiolectes|{M,E,S}]] • d’rnoht + nohtert [[Régiolectes#Phénomènes phonétiques|{ä}]]
+> - <abbr title="sinon">sunscht</abbr> • schunsch
+> - <abbr title="de plus">üsserdem</abbr>
+> - <abbr title="comme si">wie wann/wänn/wënn</abbr>
+> - <abbr title="c’est pourquoi">wäjedem</abbr>, wägedäm
 
 # Conjonction double
 
 > [!example]- Liste
-> - ëënesyts … andersyts
-> - entwedder … odder
-> - jee … deschto (ou bien : wie … wie)
-> - nit numme … awer œi
-> - wedder … noch
-> - zwaar … awer
+> - <abbr title="d’un côté">ëënesyts</abbr> … <abbr title="de l’autre">andersyts</abbr>
+> - <abbr title="ou bien">entwedder</abbr> … <abbr title="ou bien">odder</abbr>
+> - <abbr title="plus">jee</abbr> … <abbr title="plus">deschto</abbr> (ou bien : wie … wie)
+> - <abbr title="pas seulement">nit numme</abbr> … <abbr title="mais également">awer œi</abbr>
+> - <abbr title="ni">wedder</abbr> … <abbr title="ni">noch</abbr>
+> - <abbr title="certes">zwaar</abbr> … <abbr title="mais">awer</abbr>
 
 Source : https://wortwuchs.net/grammatik/konjunktion/liste/

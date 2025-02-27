@@ -3,7 +3,7 @@ tags:
   - substantif
 ---
 
-Le pluriel se forme de cinq manières différentes en alsacien. Le marquage se fait à l’aide d’un suffixe, accompagné ou non d’une [[Umlaut|métaphonie]]. Parmi les trois marquages possibles ***-∅, -er, -e***, seul le dernier (-e) ne prend jamais de métaphonie.
+Le pluriel se forme de cinq manières différentes en alsacien. Le marquage se fait à l’aide d’un suffixe, accompagné ou non d’une [[6. Umlaut|métaphonie]]. Parmi les trois marquages possibles ***-∅, -er, -e***, seul le dernier (-e) ne prend jamais de métaphonie.
 
 |         | Sans métaphonie                           | Avec métaphonie                                                         |
 | ------- | ----------------------------------------- | ----------------------------------------------------------------------- |
