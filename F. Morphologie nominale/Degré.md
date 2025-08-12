@@ -13,7 +13,7 @@ tags:
 
 …
 
-Pour former le comparatif, on ajoute le suffixe ***-er*** à l’adjectif et applique la [[6. Umlaut|Métaphonie]] si possible
+Pour former le comparatif, on ajoute le suffixe ***-er*** à l’adjectif et applique la [[6. Umlaut|métaphonie]] si possible
 
 # Superlatif
 

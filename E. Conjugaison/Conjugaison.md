@@ -7,6 +7,12 @@ tags:
 
 Liste de toutes les formes de conjugaison :
 
+COMPARAISON AVEC ALLEMAND TABLEAU
+
+Présent
+Prétérit —
+— prog…
+
 Indicatif
 
 - Présent

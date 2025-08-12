@@ -4,4 +4,4 @@ tags:
 ---
 
 - Informel *(dü)*
-- Formel *(ir,ire)*
+- Formel *(ihr,ihre)*

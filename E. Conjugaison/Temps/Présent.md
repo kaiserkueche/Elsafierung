@@ -116,7 +116,7 @@ ajouter aussi les trucs plus niche
 > |       ich       | <font color="#fb464c">bin</font>   | hab                                                             | w<font color="#fb464c">o</font>rr                                |
 > |       dü        | <font color="#fb464c">bisch</font> | h<font color="#fb464c">e</font><font color="#7852ee">sch</font> | w<font color="#fb464c">o</font>r<font color="#7852ee">sch</font> |
 > | är, sy, äs, m’r | <font color="#fb464c">isch</font>  | h<font color="#fb464c">e</font><font color="#7852ee">t</font>   | w<font color="#fb464c">o</font>r<font color="#7852ee">d</font>                                |
-> |   mir, ir, sy   | sin                                | han                                                             | wäär<font color="#7852ee">e</font>                               |
+> |   mir, ir, sy   | sin                                | han/hën/hän                                                             | wäär<font color="#7852ee">e</font>                               |
 
 > [!example]- Bas-alémanique du sud [[Régiolectes#Régiolectes\|{E}]] [[Régiolectes#Phénomènes phonétiques\|{inf-∅}]] 
 > 

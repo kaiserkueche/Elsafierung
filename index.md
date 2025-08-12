@@ -18,86 +18,12 @@ Pour comprendre comment est constitué ce site, comment bien naviguer et se rep�
 > [!summary] Naviguer sur le site
 > Vous pouvez directement explorer dans les dossiers. C’est visible sur la version PC sur votre gauche.
 > 
-> ## A. Contextualisation
->
-> [[1. C’est quoi « l’alsacien »]]  
-> [[2. Les dialectes en Alsace]]  
-> [[3. Variétés dialectales]]  
-> [[4. Typologie générale]]  
-> 
-> ## B. Prononciation
-> 
-> [[1. Prononciation]]  
-> [[2. Accent tonique]]  
-> [[3. Consonnes]]  
-> [[4. Voyelles]]  
-> [[5. Diphtongues]]
-> 
-> ## Catégories des mots
-> 
-> Catégorie lexicale
-> 
-> [[Substantif]] (Nom)
-> [[Verbe]]
-> [[Adjectif]]  
-> [[Adverbe]]  
-> [[İnterjection]]
-> 
-> Catégorie grammaticales
-> 
-> [[Auxiliaire]]  
-> [[Déterminant]]  
-> [[Pronom]]  
-> [[Adposition]] (Préposition)  
-> [[Conjonction]]  
-> [[Numéral]]
->
-> ## Syntaxe
-> 
-> [[Ordre des mots]]  
-> [[Groupe verbal relatif]]
-> 
-> ## Conjugaison des verbes
-> 
-> Forme verbale
-> 
-> [[İnfinitif]]  
-> [[Participe]]
-> 
-> Temps verbal
-> 
-> [[Présent]]  
-> [[Présent en « düen »]]  
-> [[Présent progressif]]  
-> [[Passé]]  
-> [[Passé antérieur]]  
-> [[Passé progressif]]
-> 
-> Mode
-> 
-> [[İndicatif]]  
-> [[İmpératif]]  
-> [[Conditionnel]]  
-> ([[Conjonctif]])
-> 
-> Voix
-> 
-> [[Passif action]]  
-> [[Passif état]]  
-> [[Bénéficiaire]]
-> 
-> ## Morphologie nominale
-> 
-> [[Genre]]  
-> [[Pluriel]]  
-> [[Cas]]  
-> [[Politesse]]  
-> [[Degré]] de l’adjectif
-> [[Diminutif]] des noms  
-> [[Rection des adpositions]]
 
 %%
 > [!info]- Mërsi sœje
 > obsidian, quartz (liste ce quya [là](https://notes.camargomau.com/))
 > Hamm Lucile, usw
 %%
+
+Embedd discord
+https://discord.gg/WCcgM7T4Bw

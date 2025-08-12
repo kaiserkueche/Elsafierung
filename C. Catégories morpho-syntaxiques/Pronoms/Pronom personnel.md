@@ -5,7 +5,7 @@ tags:
 
 ## Forme tonique
 
-<table>
+<table class="declinaison">
 	<tr>
 		<th>Personne</th>
 		<th>Suj.</th>
@@ -65,7 +65,7 @@ tags:
 
 ## Forme atone
 
-<table>
+<table class="declinaison">
 	<tr>
 		<th>Personne</th>
 		<th>Suj.</th>

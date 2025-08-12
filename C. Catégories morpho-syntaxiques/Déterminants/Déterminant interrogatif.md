@@ -3,7 +3,7 @@ tags:
   - déterminant
 ---
 
-<table>
+<table class="declinaison">
 	<tr>
 		<th></th>
 		<th>M</th>
@@ -24,5 +24,7 @@ tags:
 		<td>welle</td>
 	</tr>
 </table>
+
+⚠️ aussi was fir e / was firiger
 
 # Exemples

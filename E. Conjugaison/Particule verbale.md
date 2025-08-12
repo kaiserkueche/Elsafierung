@@ -1,6 +1,7 @@
 ---
 tags:
   - verbe
+  - adposition
 ---
 
 # Particules inséparables

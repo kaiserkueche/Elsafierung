@@ -7,7 +7,7 @@ tags:
 
 ### {AN}
 
-<table>
+<table class="declinaison">
 	<tr>
 		<th></th>
 		<th>M</th>
@@ -35,7 +35,7 @@ tags:
 
 ### {AS}
 
-<table>
+<table class="declinaison">
 	<tr>
 		<th></th>
 		<th>M</th>
@@ -61,7 +61,7 @@ tags:
 
 ### {AN}
 
-<table>
+<table class="declinaison">
 	<tr>
 		<th></th>
 		<th>M</th>
@@ -91,7 +91,7 @@ Pour le même marquage, on trouve également en Alsace du nord des formes avec *
 
 ### {AS}
 
-<table>
+<table class="declinaison">
 	<tr>
 		<th></th>
 		<th>M</th>

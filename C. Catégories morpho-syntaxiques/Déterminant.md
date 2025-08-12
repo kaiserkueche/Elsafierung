@@ -10,4 +10,3 @@ Les déterminants se déclinent selon les traits morphologiques suivants :
 - le [[Cas]]
 - la définitude : défini ou indéfini
 - la [[Politesse]]
-- le [[Type de pronom et déterminant|Type de déterminant]]

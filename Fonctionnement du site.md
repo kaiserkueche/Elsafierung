@@ -6,6 +6,13 @@ ToC (droite) au sein des sections
 backlinks
 Tag
 
+# Variété dialectale principale
+
+QQ PART DIRE 
+quand ya un exemple juste rapidement, la varieté par défaut utilisée c'est la mienne BAN, Under-Elsass, Zorndal, Hufälde
+
+mais quand je fais des listes, jessaie d'être exhaustif autant aue possible, et je liste d'abord la forme la plus répandu (en % de territoire) puis, à partir de la 2e variante, j'essaie de lister du nord au sud
+
 # Les sections
 
 avancer petit à petit dans l’ordre
@@ -24,3 +31,7 @@ Si tu apprends une variété, il te suffira de te souvenir de ton code. Par exem
 
 (RÉGIOLECTE)  
 İl existe quarte type de code utilisé pour situer dans quelle zone l’on prononce de telle manière. Tout d’abord, les sept régiolectes principaux ci-dessus sont indiqués par une lettre en majuscule (ex. ⟨K⟩ pour Krummes Elsass), les zones dialectales plus larges sont indiquées par deux ou trois lettre en majuscule (ex. ⟨FR⟩ pour les deux franciques). Ensuite, certaines zones infra-régiolectes sont écrite en abbréviation (ex. ⟨Ksbg⟩ pour le Kochersberg), et enfin, certains phénomènes phonétiques ne suivent pas les frontières des régiolectes et ont leur propre frontières. Ceux-ci sont indiqués à l’aide de plusieurs lettres en minuscule qui représentent le changement (ex. ⟨ù-u⟩ pour la zone où l’on prononce /ʊ/ ou /u/).
+
+# Sources
+
+(M&L pour woerterbuchnetz)

@@ -32,7 +32,7 @@ Il existe plusieurs paradigmes d’inflexion :
 | brôte                                        | gebrôte   | han                                    | brôt, brôtsch, brôt                                                                            | *cuire (à la poêle)*         |
 | <font color="#7852ee"><b>drœie</b></font>    | gedrœie   | han                                    | drœi, drœisch, drœit                                                                           | *menacer (drohen)*           |
 | fahre                                        | gfahre    | <font color="fb464c"><b>sin</b></font> | fahr, fahrsch, fahrt                                                                           | *conduire*                   |
-| falle                                        | gfalle    | <font color="fb464c"><b>sin</b></font> | fall, fallsch, fallt                                                                           | *tomber (rare, plutôt keie)* |
+| falle                                        | gfalle    | <font color="fb464c"><b>sin</b></font> | fall, fallsch, fallt                                                                           | *tomber (rare, plutôt kéie)* |
 | fange                                        | gfange    | han                                    | fang, fangsch, fangt                                                                           | *attraper*                   |
 | fergään                                      | fergään   | han                                    | <font color="#08b94e"><b>fergib, fergibsch, fergibt</b></font>                                 | *pardonner*                  |
 | fergässe                                     | fergässe  | han                                    | <font color="#08b94e"><b>fergiss, fergisch, fergisst</b></font><br>fergäss, fergäsch, fergässt | *oublier*                    |
@@ -114,6 +114,7 @@ Il existe plusieurs paradigmes d’inflexion :
 | gerinne                                      | gerunne     | <font color="fb464c"><b>sin</b></font> | gerinn, gerinnsch, gerinnt             | _cailler_                               |
 | gewinne                                      | gewunne     | han                                    | gewinn, gewinnsch, gewinnt             | _gagner_                                |
 | <font color="#7852ee"><b>hinke</b></font>    | ghunke      | han                                    | hink, hinksch, hinkt                   | _boiter_                                |
+| iwerwinge                                    | iwerwunge   | han                                    | iwerwing, iwerwingsch, iwerwingt       | _surmonter_                             |
 | klinge                                       | geklunge    | han                                    | –, –, klingt                           | _tinter, sonner_                        |
 | ringe                                        | gerunge     | han                                    | ring, ringsch, ringt                   | _lutter_                                |
 | rinne                                        | gerunne     | han                                    | –, –, rinnt                            | _ruisseler, fuir (récipient)_           |
@@ -195,7 +196,7 @@ Il existe plusieurs paradigmes d’inflexion :
 | gschwelle                                       | gschwolle                                    | <font color="fb464c"><b>sin</b></font> | gschwell, gschwellsch, gschwellt                                                 | *enfler, gonfler*             |
 | schmelze                                        | gschmolze                                    | han                                    | schmelz, schmelzsch, schmelzt                                                    | *fondre*                      |
 | schwêre                                         | gschwôre                                     | han                                    | schwêr, schwêrsch, schwêrt                                                       | *jurer*                       |
-| schteje                                         | <font color="#08b94e"><b>gschtöje</b></font> | <font color="fb464c"><b>sin</b></font> | schtej, schtejsch, schtejt                                                       | *monter, croitre*             | 
+| schtéje                                         | <font color="#08b94e"><b>gschtöje</b></font> | <font color="fb464c"><b>sin</b></font> | schtéj, schtéjsch, schtéjt                                                       | *monter, croitre*             | 
 
 <div style="page-break-after: always;"></div> 
 
@@ -205,7 +206,7 @@ Il existe plusieurs paradigmes d’inflexion :
 | --------- | --------- | -------------------------------------- | -------------------------- | ------------------------------------------------------- |
 | düen      | gedoon    | han                                    | düe, düesch, düet          | *faire,<br>\[aux. du [[Présent en « düen »\|prés. düen]]]* |
 | gehn      | gange     | <font color="fb464c"><b>sin</b></font> | geh, gehsch, geht          | *aller*                                                 |
-| leje      | gelääje   | <font color="fb464c"><b>sin</b></font> | lej, lejsch, lejt          | *être couché*                                           |
+| léje      | gelääje   | <font color="fb464c"><b>sin</b></font> | léj, léjsch, léjt          | *être couché*                                           |
 | schtehn   | gschtange | <font color="fb464c"><b>sin</b></font> | schteh, schtehsch, schteht | *être debout*                                           |
 | sitze     | gsässe    | <font color="fb464c"><b>sin</b></font> | sitz, sitsch, sitzt        | *être assis*                                            |
 | schëide   | gschyyde  | han                                    | schëid, schëidsch, schëidt | *s’opposer, divorcer*                                   |

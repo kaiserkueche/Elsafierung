@@ -1,11 +1,13 @@
- 　**Direct　　・Oblique**<br>　↙　↘
-Sujet, Objet
-
+---
+tags:
+  - adjectif
+  - pronom
+  - déterminant
 ---
 
-J’ai choisis une terminologie différente des grammaires allemande ou alsaciennes pour simplifier la compréhension et également pour proposer une nomenclature adaptée à l’alsacien. En effet, dans la majorité des cas, le nominatif et l’accusatif ne sont plus différenciés en alsacien. Il ne reste une distinction guère que pour les pronoms personnels (et les pronoms démonstratifs en [[Régiolectes|{BAN}]]). Il est donc plus adapté de présenter l’alsacien de prime abord comme une langue à 2 cas : _direct_ et _oblique_.[^01] Lorsque l’on aborde le cas des pronoms personnels, on pourra rentrer dans les détails et découper le cas _direct_ à nouveau en deux fonctions syntaxiques connues de tous : _sujet_ et _objet._
+J’ai choisi une terminologie différente des grammaires allemande ou alsaciennes pour simplifier la compréhension et également pour proposer une nomenclature adaptée à l’alsacien. En effet, dans la majorité des cas, le nominatif et l’accusatif ne sont plus différenciés en alsacien. Il ne reste une distinction guère que pour les pronoms personnels (et les pronoms démonstratifs en [[Supra-régiolectes|{BAN,FR}]]). Il est donc plus adapté de présenter l’alsacien de prime abord comme une langue à 2 cas : _direct_ et _oblique_.[^01] Lorsque l’on aborde le cas des pronoms personnels, on pourra rentrer dans les détails et découper le cas _direct_ à nouveau en deux fonctions syntaxiques connues de tous : _sujet_ et _objet._
 
-<table>
+<table class="cas">
 <theader>Équivalence des cas entre l’allemand et l’alsacien</theader>
 <tbody>
 	<tr>
@@ -18,16 +20,16 @@ J’ai choisis une terminologie différente des grammaires allemande ou alsacien
 	</tr>
 	<tr>
 		<td>Nominatif</td>
-		<td rowspan=2><font color="#7852ee">Direct</font></td>
-		<td><font color="#00bfbc">Sujet</font></td>
+		<td rowspan=2><mark class="red">Direct</mark></td>
+		<td><mark class="pink">Sujet</mark></td>
 	</tr>
 	<tr>
 		<td>Accusatif</td>
-		<td><font color="#08b94e">Objet</font></td>
+		<td><mark class="purple">Objet</mark></td>
 	</tr>
 	<tr>
 		<td>Datif</td>
-		<td colspan=2><font color="#fb464c">Oblique</font></td>
+		<td colspan=2><mark class="green">Oblique</mark></td>
 	</tr>
 	<tr>
 		<td>Génitif</td>
@@ -37,28 +39,42 @@ J’ai choisis une terminologie différente des grammaires allemande ou alsacien
 </table>
 
 Exemples :
-> _<font color="#7852ee">s Kind<sub>ᴅɪʀ</sub></font> schryyb <font color="#fb464c">sym<sub>ᴏʙʟ</sub> Babbe</font> <font color="#7852ee">e<sub>ᴅɪʀ</sub> Brief</font>._
+> _<mark class="red">s Kind<sub>ᴅɪʀ</sub></mark> schryyb <mark class="green">sym<sub>ᴏʙʟ</sub> Babbe</mark> <mark class="red">e<sub>ᴅɪʀ</sub> Brief</mark>._  
 > <sup>(L’enfant écrit à-son père une lettre.)</sup>
 > 
-> _<font color="#00bfbc">Der<sub>sᴜᴊ</sub> Mann</font> seht <font color="#08b94e">denne<sub>ᴏʙᴊ</sub> Mann</font>._
+> _<mark class="pink">Der<sub>sᴜᴊ</sub> Mann</mark> seht <mark class="purple">denne<sub>ᴏʙᴊ</sub> Mann</mark>._  
 > <sup>(Cet homme-là voit cet homme-ci.)</sup>
 > 
-> _<font color="#08b94e">Dich<sub>ᴏʙᴊ</sub></font> seh-w-<font color="#00bfbc">i<sub>sᴜᴊ</sub></font> baal <font color="#7852ee">jeede<sub>ᴅɪʀ</sub> Dœ</font> <font color="#fb464c">am<sub>ᴏʙʟ</sub> 6e</font> zooweds <font color="#fb464c">züem<sub>ᴏʙʟ</sub> Noochber</font> durichgehn._
-> <sup>(Toi vois-je presque chaque jour à 6h du soir chez-le voisin passer.)</sup>
+> _<mark class="purple">Dich<sub>ᴏʙᴊ</sub></mark> seh-w-<mark class="pink">i<sub>sᴜᴊ</sub></mark> baal <mark class="red">jeede<sub>ᴅɪʀ</sub> Dœ</mark> <mark class="green">am<sub>ᴏʙʟ</sub> 6ᵉ</mark> zooweds <mark class="green">bym<sub>ᴏʙʟ</sub> Noochber</mark> durichgehn._  
+> <sup>(Toi vois-je presque chaque jour à 6h du-soir chez-le voisin passer.)</sup>
 > 
-> _<font color="#00bfbc">Är<sub>sᴜᴊ</sub></font> geht in <font color="#7852ee">d<sub>ᴅɪʀ</sub> Schüel</font>._
+> _<mark class="pink">Är<sub>sᴜᴊ</sub></mark> geht in <mark class="red">d<sub>ᴅɪʀ</sub> Schüel</mark>._  
 > <sup>(Il va à l’école.)</sup>
 > 
-> _<font color="#00bfbc">Är<sub>sᴜᴊ</sub></font> isch in <font color="#fb464c">de<sub>ᴏʙʟ</sub> Schüel</font>._
+> _<mark class="pink">Är<sub>sᴜᴊ</sub></mark> isch in <mark class="green">de<sub>ᴏʙʟ</sub> Schüel</mark>._  
 > <sup>(Il est à l’école.)</sup>
 
 # Cas direct
-…
+
+Un cas issu de la fusion entre le *nominatif* (ou *cas sujet* ci-dessous) et l’*accusatif* (ou *cas objet* ci-dessous).
+
 ## Sujet
-…
+
+Sujet ou attribut du sujet
+
 ## Objet
-…
+
+Souvent équivalent de l’« objet direct » en français.
+
 # Cas oblique
-…
+
+Souvent équivalent de l’« objet indirect » en français.
+
+> [!info] Renfort de l’oblique
+> Quand le cas oblique s’utilise seul (sans préposition), il est possible de le renforcer avec la préposition *in*. Cette forme est systématiquement indiquée par « oblique renforcé » dans les tableaux de déclinaison.
+> 
+> > *Ich saa’s de Frau* → *Ich saa’s **in** de Frau.*
+> > 
+> > *Zällem Büe syn Spielsächel isch kabütt* → _**In** zällem Büe syn Spielsächel isch kabütt._
 
 [^01]: L’hindi a également un système similaire avec _direct_ (sujet + objet direct), _oblique,_ et encore _vocatif._

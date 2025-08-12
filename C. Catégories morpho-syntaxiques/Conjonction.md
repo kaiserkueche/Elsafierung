@@ -13,8 +13,8 @@ La conjonction prend la place 0, le verbe conjugué est en deuxième position (V
 > Ich hab nix gässe, **awer** ich <u>hab</u> ken hunger.
 
 > [!example]- Liste
-> - <abbr title="mais">awer</abbr> • aber [[Régiolectes#Régiolectes|{S}]]
-> - <abbr title="car">dänn</abbr> • dënn [[Régiolectes#Phénomènes phonétiques|{ä}]] [[Régiolectes#Régiolectes|{S}]]
+> - <abbr title="mais">awer</abbr> • aber [[Régiolectes|{S}]]
+> - <abbr title="car">dänn</abbr> • dënn [[{ë}]] [[Régiolectes|{S}]]
 > - <abbr title="pourtant">doch</abbr>
 > - <abbr title="ou">odder</abbr>
 > - <abbr title="et">un</abbr>
@@ -25,11 +25,11 @@ Dans les propositions subordonnées, le verbe conjugué est en dernière positio
 > Ich hab nix gässe, **wyl** i ken Hunger <u>hab</u>.
 
 > [!example]- Liste
-> - (d)<abbr title="que">ass</abbr>
+> - <abbr title="que">(d)ass</abbr>
 > - <abbr title="pour">fer … ze</abbr>
 > - <abbr title="si (discours indirect)">ob</abbr>, eb
 > - <abbr title="sauf si">üsser wänn</abbr>
-> - <abbr title="si (condition)">wänn</abbr> • wann [[Régiolectes#Régiolectes|{İ}]] • wënn [[Régiolectes#Phénomènes phonétiques|{ä}]] [[Régiolectes#Régiolectes|{S}]] 
+> - <abbr title="si (condition)">wänn</abbr> • wann [[Régiolectes|{İ}]] • wënn [[{ë}]] [[Régiolectes|{S}]] 
 > - <abbr title="bien que">wänn … œi</abbr>
 > - <abbr title="">wu</abbr>, wi, wü <sup>(réparition en [[3. Variétés dialectales#2.2. _Où ?_ et pronom relatif|C.2.2.]])</sup>
 > - <abbr title="">wie</abbr>
@@ -73,13 +73,13 @@ Dans ce cas, l’adverbe prend la première position et le verbe conjugué se tr
 > [!example]- Liste
 > - <abbr title="en effet">allerdings</abbr>
 > - <abbr title="donc">also</abbr>
-> - <abbr title="pourtant">debyy</abbr> • d’rbyy [[Régiolectes#Zones supra-régiolecte|{AS}]] • däbai/däbëi [[Régiolectes#Régiolectes|{U}]]
-> - <abbr title="à cause de">dewääje</abbr> • dewëëje [[Régiolectes#Phénomènes phonétiques|{ä}]] • d’rwääge [[Régiolectes#Phénomènes phonétiques|{g}]]
+> - <abbr title="pourtant">debyy</abbr> • d’rbyy [[Supra-régiolectes|{AS}]] • däbai/däbëi [[Régiolectes|{U}]]
+> - <abbr title="à cause de">dewääje</abbr> • dewëëje [[{ë}]] • d’rwääge [[{g}]]
 > - <abbr title="c’est pourquoi">drum</abbr>
 > - ==anderi da…?==
-> - <abbr title="avant">fôrhäär</abbr> • fôrhëër [[Régiolectes#Phénomènes phonétiques|{ä}]]
-> - <abbr title="tout comme">genœisoo</abbr> • genausoo [[Régiolectes#Régiolectes|{N}]] • gnoisoo [[Régiolectes#Zones supra-régiolecte|{AS}]]
-> - <abbr title="puis, après">noh</abbr> [[Régiolectes#Zones supra-régiolecte|{AN}]] • d’rnoh [[Régiolectes#Régiolectes|{M,E,S}]] • d’rnoht + nohtert [[Régiolectes#Phénomènes phonétiques|{ä}]]
+> - <abbr title="avant">fôrhäär</abbr> • fôrhëër [[{ë}]]
+> - <abbr title="tout comme">genœisoo</abbr> • genausoo [[Régiolectes|{N}]] • gnoisoo [[Supra-régiolectes|{AS}]]
+> - <abbr title="puis, après">noh</abbr> [[Supra-régiolectes|{AN}]] • d’rnoh [[Supra-régiolectes|{AS}]] • d’rnoht + nohtert [[{ë}]]
 > - <abbr title="sinon">sunscht</abbr> • schunsch
 > - <abbr title="de plus">üsserdem</abbr>
 > - <abbr title="comme si">wie wann/wänn/wënn</abbr>
@@ -96,3 +96,34 @@ Dans ce cas, l’adverbe prend la première position et le verbe conjugué se tr
 > - <abbr title="certes">zwaar</abbr> … <abbr title="mais">awer</abbr>
 
 Source : https://wortwuchs.net/grammatik/konjunktion/liste/
+
+# ⚠️ récup de Huck Élève
+
+Cause
+- wyl (da)
+- wäje (weil)
+- um so wenjer/meh, … wyl/dänn
+
+Conséquence
+- so *adj* (d)ass
+- züe *adj*, fir dass
+- nit so *adj*, fir dass
+- nit genüe *adj*, fir dass
+
+But
+- fir (d)ass, (d)ass (damit)
+
+Concession
+- obwohl ass
+- au wänn
+
+Temps
+- wie/wo (als)
+- for/eh/ebb dass (bevor)
+- noochdem ass, wie
+- zitter ass
+- bis ass
+- sobal ass/sobal wie
+- derwylscht ass
+- solang ass/solang wie
+- sofiel wie/ass

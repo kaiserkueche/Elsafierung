@@ -5,7 +5,7 @@ tags:
 
 ## {AN}
 
-<table>
+<table class="declinaison">
 	<tr>
 		<th></th>
 		<th>M</th>
@@ -19,7 +19,7 @@ tags:
 		<td rowspan=2>∅</td>
 	</tr>
 	<tr>
-		<td rowspan=2>Obl. <br><span style='font-weight:normal'><i>renforcé</i></span></td>
+		<td rowspan=2>Obl. <br><span style='font-weight:normal'><i>Obl. renforcé</i></span></td>
 		<td colspan="2", rowspan=2>’me<br><i>ime<e/i></td>
 		<td rowspan=2>’ere<br><i>in’ere</i></td>
 	</tr>
@@ -27,7 +27,7 @@ tags:
 
 ## {AS}
 
-<table>
+<table class="declinaison">
 	<tr>
 		<th></th>
 		<th>M</th>
@@ -41,7 +41,7 @@ tags:
 		<td rowspan=2>∅</td>
 	</tr>
 	<tr>
-		<td rowspan=2>Obl. <br><span style='font-weight:normal'><i>renforcé</i></span></td>
+		<td rowspan=2>Obl. <br><span style='font-weight:normal'><i>Obl. renforcé</i></span></td>
 		<td colspan="2", rowspan=2>’mä<br><i>imä<e/i></td>
 		<td rowspan=2>’rä<br><i>in’rä</i></td>
 	</tr>

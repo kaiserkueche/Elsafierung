@@ -35,3 +35,14 @@ Il existe trois type d’adpositions : les prépositions, postpositions et cir
 > - S gibt e Krambôl **bis in** <u>d Gass</u> **nüss**.
 > - Ir selle èier Lääwe **fun** <u>Grund</u> **uf** bessere.
 > - **Fun** <u>dem Dœ</u> **aan** isch’s fer sy bschlosse gsin, dass se de Jeeses umbringe.
+
+# ⚠️ Récupe de Huck Élève
+
+Usage
+- um Zwölf Uhr – am Zwelfe
+- beim Essen verschlucken – iwerm Ässe ferschlucke
+- um Ostern zurückkommen – um Ooschtere rum zeruckkumme
+- bis nächsten Sonntag – bis am näägschte Sunndi
+- Nach Paris – uf Barys
+- zur Schule – in d Schüel
+- um zu – fir ze

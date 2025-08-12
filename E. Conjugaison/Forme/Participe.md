@@ -9,7 +9,7 @@ expliquer la formation
 
 # Formation
 
-Selon les [[Particule verbale]], le préfixe ***ge-, g-*** est absent, ou se place entre.
+Selon les [[Particule verbale]], le préfixe *ge-*, *g-* est absent, ou se place entre.
 
 | |préfixe|radical|term.|
 |---|---|---|---|

@@ -1,3 +1,10 @@
+---
+tags:
+  - substantif
+  - déterminant
+  - pronom
+---
+
 - Masculin *(de Mann)*
 - Féminin *(d Frœi)*
 - Neutre *(s Kind)*

@@ -2,7 +2,7 @@
 
 ![[ala 164 finde.png]]
 
-Zone dans laquelle le son ⟨nd⟩ /nd̥/ s’est vélarisé en ⟨ng⟩ /ŋ/ uniquement pour certains termes :
+Zone dans laquelle le son ⟨nd⟩ /nd̥/ s’est vélarisé en ⟨ng⟩ /ŋ/, ou bien perte de l’occlusive ⟨d⟩ uniquement pour certains termes. On constate quarte zones majoritaires en rouge : le Sundgau {S}, la vallée de Munster {Mnstr}, l’Alsace bossue {K} et une majorité de Inger-Elsass {İ}.
 
 > [!example]- Liste des mots concernés
 > 
@@ -38,7 +38,7 @@ Zone dans laquelle le son ⟨nd⟩ /nd̥/ s’est vélarisé en ⟨ng⟩ /ŋ/ un
 > | (fer)blände       | ferblänge   | ferblënge                                                     |
 > | wände             | wänge       | wënge                                                         |
 > | s Änd/Ënd         | s Äng       | s Ëng (PL. Ëngere)                                            |
-> | ändli             | — (ändli)   | — (ëndlich)                                                   |
+> | ändli(g)            | — (ändli(g))   | — (ëndlich)                                                   |
 > 
 > D’autres mots qui ont ⟨-nd⟩ en finale complète réagissent avec plus de variation.
 > 
@@ -48,11 +48,11 @@ Zone dans laquelle le son ⟨nd⟩ /nd̥/ s’est vélarisé en ⟨ng⟩ /ŋ/ un
 > 
 > Certains pluriels spécifiques se forment en passant de ⟨nd⟩ à ⟨ng⟩.
 > 
-> | Forme majoritaire | {K,İ,S}     |             |
-> | ----------------- | ----------- | ----------- |
-> | Hand › Händ/Hënd  | Hand › Häng • Hëng {K} | Hand › Hëng |
-> | Hund › Hund/Hind  | Hund › Hung |             |
-> | Kind › Kinder     | Kind › King |             |
+> | Forme majoritaire | {K,İ,S}     |
+> | ----------------- | ----------- |
+> | Hand › Händ/Hënd  | Hand › Häng • Hëng [[Régiolectes\|{K}]] |
+> | Hund › Hund/Hind  | Hund › Hung |
+> | Kind › Kinder     | Kind › King |
 > 
 > Liste non exhaustive de terme qui restent ⟨nd⟩ partout sauf dans le Sundgau.
 > 
