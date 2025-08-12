@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Elsässisch",
+    pageTitle: "Elsäfierung",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,37 +16,40 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "fr-FR",
-    baseUrl: "elsa-ynfierung.xyz",
+    baseUrl: "elsafierung.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Vollkorn Bold",
+          header: {
+			name: "Vollkorn",
+			weights: [700, 900],
+          },
         body: "Vollkorn",
         code: "Fira Code",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#eff1f5",							// page background
+          lightgray: "#1e66f5",						// borders, graph lines (blue)
+          gray: "#d20f39",							// graph dots, heavier borders (e.g. table) (red)
+          darkgray: "#4c4f69",						// body text
+          dark: "#8839ef",							// header, graph node title (mauve)
+          secondary: "#40a02b",						// links, folder, main title, active node (green)
+          tertiary: "#fe640b",						// hover states, active file in folder view (orange/peach)
+          highlight: "rgba(234, 118, 203, 0.15)",	// internal link background (pink)
+          textHighlight: "#df8e1d88",				// markdown highlighted text (yellow)
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
+          light: "#24273a",
+          lightgray: "#",
+          gray: "#",
+          darkgray: "#cad3f5",
+          dark: "#",
+          secondary: "#",
+          tertiary: "#",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",
         },

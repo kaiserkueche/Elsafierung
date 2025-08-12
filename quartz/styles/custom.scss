@@ -1,3 +1,44 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// mobile abbr
+abbr[title]:hover:after {
+	color: #ff3d3d;
+	content: ' « ' attr(title) ' »';
+}
+
+@media screen and (min-width: 992px) {
+	abbr[title]::after {
+		content: '';
+	}
+}
+
+// justify
+
+p, ul li, ol li {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+// html table???
+table.declinaison td:nth-child(n+2),th:nth-child(n+2) {
+    text-align: center;
+    vertical-align: middle;
+}
+
+table.declinaison td:nth-child(1),th:nth-child(1) {
+    font-weight: bold;
+}
+
+table.cas td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+table.cas th {
+    text-align: center;
+    vertical-align: middle;
+    font-weight: bold;
+}
+
