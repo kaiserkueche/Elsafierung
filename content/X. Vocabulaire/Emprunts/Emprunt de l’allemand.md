@@ -1,0 +1,3 @@
+Il existe des « anciens » emprunts de l’allemand qui date, pour la majorité, de la période du Reichsland (1870–1918).
+
+Et il existe également d’autres emprunts plus moderne, qui sont apparus du fait de l’influence de l’allemand scolaire sur l’alsacien pour les locuteurs qui n’ont plus/pas trop l’habitude de parler. Ces locuteurs-ci se sentent sonc parfois en situation d’insécurité linguistique, car ils ne sont plus/pas sûr de comment dire, et font donc de l’hypercorrection, c'est-à-dire, utiliser des formes de l’allemand standard

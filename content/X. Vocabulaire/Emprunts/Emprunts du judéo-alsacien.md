@@ -1,0 +1,19 @@
+\[Intro, historique] c de l'hébreu
+
+
+| Alsacien          | Hébreu                                        | Sens                                         | Exemple                                                                                                                |
+| ----------------- | --------------------------------------------- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| s Bäjets, Bääjes  | <abbr title="bayith">בית</abbr><br>maison                          | Petite maison mal construite, mal entretenue | Sy wohne i’me alte Bäjets.                                                                                             |
+| Gschlammassels    | Als. _Ge-_ + Yid. <abbr title="shlim (=schlimm) + mazl">שלימזל</abbr><br>qui n’a pas de chance | bazar, bordel, pèle-mèle                     | Dis isch m’r e Gschlammassels!                                                                                         |
+| d Juddeschülle    | Yid. <abbr title="shul">שול</abbr><br>litt. école                             | synagogue                                    | Sy geht in d Juddeschülle.                                                                                             |
+| de Kalöimes       | <abbr title="khalômoth">חלומות</abbr><br>rêveries                         | bêtise → escroquerie, supercherie            | Dis isch joo e Kalöimes!                                                                                               |
+| köischer          | <abbr title="koshêr">כּשר</abbr><br>casher                              |                                              |                                                                                                                        |
+| de Kyppes         | <abbr title="kupâh">קופה</abbr><br>tirelire                            | partage → entente → désaccord, embrouille    | Sy han Kyppes mitnander.<br>Nyx Kyppes!                                                                                |
+| maschugge         | <abbr title="meshuggâ">משוגע</abbr><br>fou                              | fou                                          |                                                                                                                        |
+| de Macke          | <abbr title="make">מכּה</abbr><br>défaut                              | défaut                                       | Dis Ding het e Macke.<br>Är het e Macke                                                                                |
+| de Mumbytz        | ?                                             | camelote                                     | Ich mach ken Mumbytz.                                                                                                  |
+| de Mummes         | <abbr title="mamôn">ממון</abbr><br>argent                               | les thunes                                   | Der Kärl het Mummes!                                                                                                   |
+| Schäwes, Schäwets | <abbr title="shabbâth">שבת</abbr>                                      | sabbat                                       | Hyt isch Schäwes.                                                                                                      |
+| Schmüüs, schmüüse | <abbr title="shemuôth">שמועות</abbr><br>Yid. <abbr title="shmues">שמועס</abbr><br>nouvelles, potin                            | papotage → flâter, pécho                     | <abbr title="Ne l’écoute pas, c’est du vent.">Heer’m nit züe, s isch alles Schmüüs</abbr>.<br>Die zwëi schmüüse zamme. |
+
+de Mickes!!
