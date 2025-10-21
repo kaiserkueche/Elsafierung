@@ -41,7 +41,7 @@ Dans les propositions subordonnées, le verbe conjugué est en dernière positio
 > - <abbr title="au lieu de">anschtatt(s) ass</abbr>
 > - <abbr title="jusqu’à ce que">bis ass</abbr>
 > - <abbr title="pendant que">dewylscht ass</abbr>
-> - <abbr title="ce faisant">dodurich ass</abbr>
+> - <abbr title="en ceci que/vu que">durich dem/dis ass</abbr>
 > - <abbr title="au cas ou">falls ass</abbr>
 > - <abbr title="pour que">fer ass</abbr>
 > - <abbr title="avant que">fôr/eh/eb ass</abbr>
@@ -98,6 +98,8 @@ Dans ce cas, l’adverbe prend la première position et le verbe conjugué se tr
 Source : https://wortwuchs.net/grammatik/konjunktion/liste/
 
 # ⚠️ récup de Huck Élève
+
+(jedoch cependant, moi j'y ai pensé, bible Matzen)
 
 Cause
 - wyl (da)

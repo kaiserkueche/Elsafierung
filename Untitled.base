@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      not:
+        - file.folder.contains("_files")
+    order:
+      - file.name
+      - tags

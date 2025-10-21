@@ -1,3 +1,7 @@
+---
+tags:
+  - Régiolecte
+---
 # Marquage nul (-∅) pour les infinitifs en -n
 
 ![[ala 197 gehn.png]]

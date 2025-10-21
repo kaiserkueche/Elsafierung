@@ -1,3 +1,7 @@
+---
+tags:
+  - Régiolecte
+---
 # Vélariation de ⟨nd⟩ en ⟨ng⟩
 
 ![[ala 164 finde.png]]
